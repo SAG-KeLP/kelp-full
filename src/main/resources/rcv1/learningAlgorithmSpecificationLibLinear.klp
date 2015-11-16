@@ -1,0 +1,11 @@
+{
+  "algorithm" : "liblinear",
+  "label" : {
+    "labelType" : "StringLabel",
+    "className" : "1"
+  },
+  "cp" : 0.5,
+  "cn" : 0.5,
+  "fairness" : false,
+  "representation" : "VEC"
+}

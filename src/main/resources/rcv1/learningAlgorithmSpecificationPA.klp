@@ -1,0 +1,13 @@
+{
+  "algorithm" : "linearPA",
+  "label" : {
+    "labelType" : "StringLabel",
+    "className" : "1"
+  },
+  "policy" : "PA_II",
+  "loss" : "RAMP",
+  "cp" : 2.0,
+  "fairness" : false,
+  "representation" : "VEC",
+  "cn" : 2.0
+}

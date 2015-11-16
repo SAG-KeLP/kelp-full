@@ -1,0 +1,177 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>it.uniroma2.sag.kelp</groupId>
+	<artifactId>kelp-full</artifactId>
+	<version>2.0.0</version>
+	<name>kelp-full</name>
+	<url>http://sag.art.uniroma2.it/demo-software/kelp/</url>
+	<organization>
+		<name>Semantic Analytics Group @ Uniroma2</name>
+		<url>http://sag.art.uniroma2.it</url>
+	</organization>
+	<developers>
+		<developer>
+			<id>sfilice</id>
+			<name>Simone Filice</name>
+			<email>simone.filice@gmail.com</email>
+			<url>http://sag.art.uniroma2.it/people/filice/</url>
+			<organization>SAG group @University of Roma Tor Vergata</organization>
+			<organizationUrl>http://sag.art.uniroma2.it/</organizationUrl>
+		</developer>
+		<developer>
+			<id>dcroce</id>
+			<name>Danilo Croce</name>
+			<email>croce@info.uniroma2.it</email>
+			<url>http://sag.art.uniroma2.it/people/croce/</url>
+			<organization>SAG group @University of Roma Tor Vergata</organization>
+			<organizationUrl>http://sag.art.uniroma2.it/</organizationUrl>
+		</developer>
+		<developer>
+			<id>gcastellucci</id>
+			<name>Giuseppe Castellucci</name>
+			<email>castellucci.giuseppe@gmail.com</email>
+			<url>http://sag.art.uniroma2.it/people/castellucci/</url>
+			<organization>SAG group @University of Roma Tor Vergata</organization>
+			<organizationUrl>http://sag.art.uniroma2.it/</organizationUrl>
+		</developer>
+	</developers>
+	<repositories>
+		<repository>
+			<id>kelp_repo_snap</id>
+			<name>Sag Libs Repository Snapshots</name>
+			<releases>
+				<enabled>false</enabled>
+				<updatePolicy>always</updatePolicy>
+				<checksumPolicy>warn</checksumPolicy>
+			</releases>
+			<snapshots>
+				<enabled>true</enabled>
+				<updatePolicy>always</updatePolicy>
+				<checksumPolicy>fail</checksumPolicy>
+			</snapshots>
+			<url>http://sag.art.uniroma2.it:8081/artifactory/kelp-snapshot/</url>
+		</repository>
+		<repository>
+			<id>kelp_repo_release</id>
+			<name>Sag Libs Repository Stable</name>
+			<releases>
+				<enabled>true</enabled>
+				<updatePolicy>always</updatePolicy>
+				<checksumPolicy>warn</checksumPolicy>
+			</releases>
+			<snapshots>
+				<enabled>false</enabled>
+				<updatePolicy>always</updatePolicy>
+				<checksumPolicy>fail</checksumPolicy>
+			</snapshots>
+			<url>http://sag.art.uniroma2.it:8081/artifactory/kelp-release/</url>
+		</repository>
+	</repositories>
+	<build>
+		<resources>
+			<resource>
+				<directory>src/main/resources</directory>
+				<excludes>
+					<exclude>**/*</exclude>
+				</excludes>
+			</resource>
+		</resources>
+		<plugins>
+
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-compiler-plugin</artifactId>
+				<version>3.1</version>
+				<configuration>
+					<source>1.6</source>
+					<target>1.6</target>
+				</configuration>
+			</plugin>
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-javadoc-plugin</artifactId>
+				<configuration>
+					<additionalparam>-header &apos;&lt;script type=&quot;text/javascript&quot; src=&quot;http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML&quot;&gt;&lt;/script&gt;&apos;</additionalparam>
+					<additionalparam>-Xdoclint:none</additionalparam>
+				</configuration>
+				<executions>
+					<execution>
+						<id>javadoc-jar</id>
+						<phase>package</phase>
+						<goals>
+							<goal>jar</goal>
+						</goals>
+						<configuration>
+							<!-- switch on dependency-driven aggregation -->
+							<includeDependencySources>true</includeDependencySources>
+							<!-- <dependencySourceExcludes> -->
+							<!-- <dependencySourceExclude>commons-lang:*</dependencySourceExclude> -->
+							<!-- <dependencySourceExclude>dom4j:*</dependencySourceExclude> -->
+							<!-- <dependencySourceExclude>guava:*</dependencySourceExclude> -->
+							<!-- <dependencySourceExclude>ejml:*</dependencySourceExclude> -->
+							<!-- <dependencySourceExclude>jackson-*</dependencySourceExclude> -->
+							<!-- <dependencySourceExclude>java-assist:*</dependencySourceExclude> -->
+							<!-- <dependencySourceExclude>jsr305:*</dependencySourceExclude> -->
+							<!-- <dependencySourceExclude>reflections:*</dependencySourceExclude> -->
+							<!-- <dependencySourceExclude>slf4j-*</dependencySourceExclude> -->
+							<!-- <dependencySourceExclude>trove4j:*</dependencySourceExclude> -->
+							<!-- <dependencySourceExclude>xml-apis:*</dependencySourceExclude> -->
+							<!-- </dependencySourceExcludes> -->
+							<dependencySourceIncludes>
+								<dependencySourceInclude>it.uniroma2.sag.kelp2:*</dependencySourceInclude>
+							</dependencySourceIncludes>
+						</configuration>
+					</execution>
+				</executions>
+			</plugin>
+			<plugin>
+				<artifactId>maven-assembly-plugin</artifactId>
+				<configuration>
+					<archive>
+						<manifest>
+							<!-- <mainClass>it.uniroma2.sag.kelp.main.Learn</mainClass> -->
+							<mainClass>it.uniroma2.sag.kelp.main.Classify</mainClass>
+						</manifest>
+					</archive>
+					<!-- <finalName>kelp-learn</finalName> -->
+					<finalName>kelp-classify</finalName>
+					<descriptorRefs>
+						<descriptorRef>jar-with-dependencies</descriptorRef>
+					</descriptorRefs>
+					<appendAssemblyId>false</appendAssemblyId>
+				</configuration>
+			</plugin>
+			<plugin>
+				<artifactId>maven-source-plugin</artifactId>
+				<version>2.1.1</version>
+				<executions>
+					<execution>
+						<id>bundle-sources</id>
+						<phase>package</phase>
+						<goals>
+							<goal>jar-no-fork</goal>
+						</goals>
+					</execution>
+				</executions>
+			</plugin>
+		</plugins>
+	</build>
+	<dependencies>
+		<dependency>
+			<groupId>it.uniroma2.sag.kelp</groupId>
+			<artifactId>kelp-additional-algorithms</artifactId>
+			<version>2.0.0</version>
+		</dependency>
+		<dependency>
+			<groupId>it.uniroma2.sag.kelp</groupId>
+			<artifactId>kelp-additional-kernels</artifactId>
+			<version>2.0.0</version>
+		</dependency>
+		<dependency>
+			<groupId>it.uniroma2.sag.kelp</groupId>
+			<artifactId>kelp-core</artifactId>
+			<version>2.0.0</version>
+		</dependency>
+	</dependencies>
+</project>

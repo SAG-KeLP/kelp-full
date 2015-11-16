@@ -1,0 +1,20 @@
+{
+	"algorithm":"oneVsAll",
+	"baseAlgorithm":{
+		"algorithm":"binaryCSvmClassification",
+		"c":0.1,
+		"fairness":true,
+		"kernel":{
+			"kernelType":"poly",
+			"degree":2,
+			"kernelCache":{
+				"cacheType":"fixIndex",
+				"examplesToStore":6000
+			},
+			"baseKernel":{
+				"kernelType":"linear",
+				"representation":"bow"
+			}
+		}
+	}
+}

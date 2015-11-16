@@ -1,0 +1,56 @@
+{
+  "algorithm" : "oneVsAll",
+  "baseAlgorithm" : {
+    "algorithm" : "binaryCSvmClassification",
+    "cp" : 0.1,
+    "cn" : 0.1,
+    "kernel" : {
+      "kernelType" : "linearComb",
+      "kernelID" : 1,
+      "toCombine" : [ {
+        "kernelType" : "norm",
+        "kernelID" : 2,
+        "baseKernel" : {
+          "kernelType" : "linear",
+          "kernelID" : 3,
+          "representation" : "BOW",
+          "squaredNormCache" : {
+            "cacheType" : "fixIndex",
+            "cacheID" : 4,
+            "size" : 14021
+          }
+        }
+      }, {
+        "kernelType" : "norm",
+        "kernelID" : 5,
+        "baseKernel" : {
+          "kernelType" : "linear",
+          "kernelID" : 6,
+          "representation" : "WS",
+          "squaredNormCache" : {
+            "cacheType" : "fixIndex",
+            "cacheID" : 7,
+            "size" : 14021
+          }
+        }
+      } ],
+      "weights" : [ 1.0, 1.0 ],
+      "kernelCache" : {
+        "cacheType" : "fixIndex",
+        "cacheID" : 8,
+        "examplesToStore" : 14021
+      }
+    },
+    "fairness" : true
+  },
+  "labels" : [ {
+    "labelType" : "StringLabel",
+    "className" : "positive"
+  }, {
+    "labelType" : "StringLabel",
+    "className" : "negative"
+  }, {
+    "labelType" : "StringLabel",
+    "className" : "neutral"
+  } ]
+}

@@ -1,0 +1,38 @@
+{
+  "algorithm" : "oneVsAll",
+  "baseAlgorithm" : {
+    "algorithm" : "binaryCSvmClassification",
+    "cp" : 1.0,
+    "cn" : 1.0,
+    "kernel" : {
+      "kernelType" : "norm",
+      "kernelID" : 1,
+      "baseKernel" : {
+        "kernelType" : "linear",
+        "kernelID" : 2,
+        "representation" : "BOW",
+        "squaredNormCache" : {
+          "cacheType" : "fixIndex",
+          "cacheID" : 3,
+          "size" : 14021
+        }
+      },
+      "kernelCache" : {
+        "cacheType" : "fixIndex",
+        "cacheID" : 4,
+        "examplesToStore" : 14021
+      }
+    },
+    "fairness" : true
+  },
+  "labels" : [ {
+    "labelType" : "StringLabel",
+    "className" : "positive"
+  }, {
+    "labelType" : "StringLabel",
+    "className" : "negative"
+  }, {
+    "labelType" : "StringLabel",
+    "className" : "neutral"
+  } ]
+}

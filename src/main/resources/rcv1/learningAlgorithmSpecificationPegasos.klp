@@ -1,0 +1,11 @@
+{
+  "algorithm" : "pegasos",
+  "label" : {
+    "labelType" : "StringLabel",
+    "className" : "1"
+  },
+  "k" : 1,
+  "iterations" : 20000,
+  "lambda" : 0.0010,
+  "representation" : "VEC"
+}

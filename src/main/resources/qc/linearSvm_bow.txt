@@ -1,0 +1,9 @@
+{
+	"algorithm":"oneVsAll",
+	"baseAlgorithm":{
+		"algorithm":"liblinear",
+		"c":0.5,
+		"fairness":true,
+		"representation":"bow"
+	}
+}

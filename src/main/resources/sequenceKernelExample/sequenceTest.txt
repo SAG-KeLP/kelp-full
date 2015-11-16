@@ -1,0 +1,1025 @@
+positive  |BSQ:SEQUENCE| (_the) (_bread) (_be) (_top) (_notch) (_as) (_well) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_i) (_have) (_to) (_say) (_they) (_have) (_@card@) (_of) (_the) (_fastest) (_delivery) (_time) (_in) (_the) (_city) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_in) (_fact) (_,) (_this) (_be) (_not) (_a) (_nicoise) (_salad) (_and) (_be) (_barely) (_eatable) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_the) (_worst) (_though) (_be) (_the) (_taste) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_they) (_be) (_dry) (_,) (_stale) (_and) (_pretty) (_flavorless) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_the) (_fajita) (_we) (_try) (_be) (_tasteless) (_and) (_burned) (_and) (_the) (_mole) (_sauce) (_be) (_way) (_too) (_sweet) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_stay) (_with) (_the) (_roasted) (_chicken) (_and) (_you) (_'ll) (_be) (_fine) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_atmosphere) (_be) (_warm) (_,) (_comfortable) (_,) (_artsy) (_and) (_sexy) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_food) (_be) (_great) (_-lrb-) (_big) (_selection) (_,) (_reasonable) (_price) (_-rrb-) (_and) (_the) (_drink) (_be) (_really) (_good) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_food) (_be) (_great) (_-lrb-) (_big) (_selection) (_,) (_reasonable) (_price) (_-rrb-) (_and) (_the) (_drink) (_be) (_really) (_good) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_steak) (_melt) (_in) (_my) (_mouth) (_.) |ESQ|
+conflict  |BSQ:SEQUENCE| (_the) (_food) (_do) (_take) (_a) (_few) (_extra) (_minute) (_to) (_come) (_,) (_but) (_the) (_cute) (_waiter) (_') (_joke) (_and) (_friendliness) (_make) (_up) (_for) (_it) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_most) (_importantly) (_,) (_it) (_be) (_reasonably) (_price) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_selection) (_of) (_food) (_be) (_excellent) (_-lrb-) (_i) (_be) (_not) (_use) (_to) (_have) (_much) (_choice) (_at) (_restaurant) (_-rrb-) (_,) (_and) (_the) (_atmosphere) (_be) (_great) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_selection) (_of) (_food) (_be) (_excellent) (_-lrb-) (_i) (_be) (_not) (_use) (_to) (_have) (_much) (_choice) (_at) (_restaurant) (_-rrb-) (_,) (_and) (_the) (_atmosphere) (_be) (_great) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_while) (_there) (_be) (_a) (_decent) (_menu) (_,) (_it) (_should) (_not) (_take) (_@card@) (_minute) (_to) (_get) (_you) (_drink) (_and) (_@card@) (_for) (_a) (_dessert) (_pizza) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_while) (_there) (_be) (_a) (_decent) (_menu) (_,) (_it) (_should) (_not) (_take) (_@card@) (_minute) (_to) (_get) (_you) (_drink) (_and) (_@card@) (_for) (_a) (_dessert) (_pizza) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_only) (_suggestion) (_be) (_that) (_you) (_skip) (_the) (_dessert) (_,) (_it) (_be) (_overprice) (_and) (_fall) (_short) (_on) (_taste) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_only) (_suggestion) (_be) (_that) (_you) (_skip) (_the) (_dessert) (_,) (_it) (_be) (_overprice) (_and) (_fall) (_short) (_on) (_taste) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_food) (_be) (_decent) (_,) (_but) (_not) (_great) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_i) (_have) (_no) (_idea) (_why) (_this) (_restaurant) (_be) (_so) (_often) (_overlook) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_from) (_the) (_moment) (_you) (_walk) (_in) (_,) (_you) (_feel) (_like) (_you) (_be) (_in) (_the) (_perfect) (_place) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_i) (_dont) (_know) (_what) (_some) (_people) (_who) (_rave) (_about) (_this) (_hot) (_dog) (_be) (_talk) (_about) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_it) (_be) (_a) (_hidden) (_delight) (_complete) (_with) (_a) (_quaint) (_bar) (_and) (_good) (_food) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_it) (_be) (_a) (_hidden) (_delight) (_complete) (_with) (_a) (_quaint) (_bar) (_and) (_good) (_food) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_i) (_find) (_that) (_most) (_kosher) (_restaurant) (_be) (_average) (_to) (_good) (_,) (_but) (_this) (_have) (_be) (_the) (_best) (_i) (_have) (_eat) (_so) (_far) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_the) (_waiter) (_always) (_look) (_angry) (_and) (_even) (_ignore) (_they) (_high-tipping) (_regular) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_atmosphere) (_be) (_very) (_nice) (_,) (_and) (_a) (_welcome) (_escape) (_from) (_the) (_rest) (_of) (_the) (_si) (_mall) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_yes) (_,) (_they) (_be) (_a) (_bit) (_more) (_expensive) (_then) (_typical) (_,) (_but) (_then) (_again) (_,) (_so) (_be) (_they) (_food) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_yes) (_,) (_they) (_be) (_a) (_bit) (_more) (_expensive) (_then) (_typical) (_,) (_but) (_then) (_again) (_,) (_so) (_be) (_they) (_food) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_once) (_we) (_sail) (_,) (_the) (_top-notch) (_food) (_and) (_live) (_entertainment) (_sell) (_we) (_on) (_a) (_unforgettable) (_evening) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_once) (_we) (_sail) (_,) (_the) (_top-notch) (_food) (_and) (_live) (_entertainment) (_sell) (_we) (_on) (_a) (_unforgettable) (_evening) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_not) (_terrible) (_,) (_but) (_not) (_the) (_restaurant) (_in) (_the) (_review) (_of) (_@card@) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_i) (_can) (_say) (_that) (_the) (_wrap) (_,) (_burger) (_and) (_salad) (_be) (_all) (_fresh) (_,) (_tasty) (_and) (_the) (_mango) (_margareta) (_at) (_$) (_@card@) (_be) (_well) (_worth) (_the) (_money) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_i) (_can) (_say) (_that) (_the) (_wrap) (_,) (_burger) (_and) (_salad) (_be) (_all) (_fresh) (_,) (_tasty) (_and) (_the) (_mango) (_margareta) (_at) (_$) (_@card@) (_be) (_well) (_worth) (_the) (_money) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_it) (_be) (_delicious) (_and) (_large) (_!) |ESQ|
+positive  |BSQ:SEQUENCE| (_anywhere) (_else) (_,) (_the) (_price) (_would) (_be) (_3x) (_as) (_high) (_!) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_service) (_we) (_experience) (_be) (_friendly) (_and) (_good) (_.) |ESQ|
+conflict  |BSQ:SEQUENCE| (_we) (_waiter) (_be) (_friendly) (_and) (_it) (_be) (_a) (_shame) (_that) (_he) (_didnt) (_have) (_a) (_supportive) (_staff) (_to) (_work) (_with) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_the) (_folding) (_chair) (_i) (_be) (_seat) (_at) (_be) (_uncomfortable) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_as) (_we) (_wait) (_i) (_watch) (_@card@) (_seperate) (_group) (_of) (_diner) (_discuss) (_how) (_dissapointed) (_they) (_also) (_be) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_a) (_excellent) (_choice) (_in) (_midtown) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_service) (_be) (_among) (_the) (_best) (_i) (_have) (_ever) (_have) (_in) (_nyc) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_we) (_waiter) (_be) (_horrible) (_;) (_so) (_rude) (_and) (_disinterested) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_fettucino) (_alfredo) (_be) (_amazing) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_food) (_be) (_very) (_good) (_and) (_i) (_be) (_pleasantly) (_surprise) (_to) (_see) (_so) (_many) (_vegan) (_option) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_i) (_know) (_real) (_indian) (_food) (_and) (_this) (_be) (_not) (_it) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_be) (_sure) (_to) (_try) (_the) (_smoked) (_trout) (_...) (_lamb) (_chops) (_,) (_veal) (_chops) (_,) (_rabbit) (_,) (_the) (_potato) (_gratin) (_,) (_on) (_and) (_on) (_and) (_on) (_...) |ESQ|
+positive  |BSQ:SEQUENCE| (_even) (_when) (_the) (_chef) (_be) (_not) (_in) (_the) (_house) (_,) (_the) (_food) (_and) (_service) (_be) (_right) (_on) (_target) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_even) (_when) (_the) (_chef) (_be) (_not) (_in) (_the) (_house) (_,) (_the) (_food) (_and) (_service) (_be) (_right) (_on) (_target) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_everything) (_from) (_the) (_egg) (_benedict) (_to) (_the) (_mussel) (_and) (_even) (_the) (_hamburger) (_be) (_do) (_well) (_and) (_very) (_tasty) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_waiter) (_be) (_very) (_professional) (_,) (_courteous) (_and) (_attentive) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_my) (_boyfriend) (_and) (_i) (_go) (_here) (_last) (_night) (_and) (_love) (_it) (_!) |ESQ|
+conflict  |BSQ:SEQUENCE| (_the) (_falafal) (_be) (_rather) (_over) (_cook) (_and) (_dry) (_but) (_the) (_chicken) (_be) (_fine) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_i) (_highly) (_reccomend) (_the) (_grand) (_marnier) (_shrimp) (_,) (_it) (_be) (_insanely) (_good) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_the) (_sangrium) (_'s) (_-) (_water) (_down) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_we) (_be) (_there) (_and) (_we) (_really) (_enjoy) (_the) (_food) (_,) (_be) (_areally) (_great) (_food) (_,) (_and) (_the) (_service) (_be) (_really) (_good) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_we) (_be) (_there) (_and) (_we) (_really) (_enjoy) (_the) (_food) (_,) (_be) (_areally) (_great) (_food) (_,) (_and) (_the) (_service) (_be) (_really) (_good) (_.) |ESQ|
+neutral  |BSQ:SEQUENCE| (_dessert) (_include) (_flan) (_and) (_sopaipilla) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_i) (_be) (_starve) (_and) (_the) (_small) (_portion) (_be) (_drive) (_i) (_crazy) (_!) |ESQ|
+negative  |BSQ:SEQUENCE| (_the) (_wait) (_staff) (_be) (_loud) (_and) (_inconsiderate) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_however) (_,) (_the) (_food) (_and) (_service) (_and) (_dramatically) (_lack) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_however) (_,) (_the) (_food) (_and) (_service) (_and) (_dramatically) (_lack) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_the) (_sushi) (_be) (_cut) (_in) (_block) (_bigger) (_than) (_my) (_cell) (_phone) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_service) (_be) (_great) (_,) (_my) (_soup) (_always) (_arrive) (_nice) (_and) (_hot) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_service) (_be) (_great) (_,) (_my) (_soup) (_always) (_arrive) (_nice) (_and) (_hot) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_it) (_have) (_be) (_awhile) (_and) (_i) (_forget) (_just) (_how) (_delicious) (_crepe) (_can) (_be) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_montparnasse) (_'s) (_dessert) (_--) (_especially) (_the) (_silken) (_creme) (_brulee) (_and) (_paper-thin) (_apple) (_tart) (_--) (_be) (_good) (_enough) (_on) (_they) (_own) (_to) (_make) (_the) (_restaurant) (_worth) (_the) (_trip) (_.) |ESQ|
+neutral  |BSQ:SEQUENCE| (_my) (_friend) (_tell) (_i) (_about) (_this) (_restaurant) (_for) (_a) (_year) (_before) (_he) (_finally) (_take) (_i) (_this) (_weekend) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_menu) (_-) (_uneventful) (_,) (_small) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_i) (_have) (_a) (_delicious) (_shrimp) (_creole) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_chicken) (_dinner) (_be) (_real) (_good) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_beware) (_of) (_the) (_chili) (_sign) (_food) (_item) (_not) (_unless) (_you) (_want) (_to) (_call) (_the) (_fire) (_department) (_to) (_douse) (_the) (_flame) (_in) (_you) (_mouth) (_.) |ESQ|
+neutral  |BSQ:SEQUENCE| (_the) (_decor) (_be) (_design) (_in) (_a) (_contemporary) (_japanese) (_style) (_restaurant) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_but) (_the) (_food) (_be) (_delicious) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_try) (_the) (_rib) (_,) (_sizzle) (_beef) (_and) (_couple) (_it) (_with) (_coconut) (_rice) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_the) (_only) (_drawback) (_be) (_that) (_it) (_be) (_a) (_little) (_pricey) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_everything) (_about) (_this) (_place) (_be) (_wonderful) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_avocado) (_salad) (_be) (_a) (_personal) (_fave) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_and) (_,) (_the) (_honey) (_bbq) (_rib) (_tip) (_be) (_yummy) (_!) |ESQ|
+positive  |BSQ:SEQUENCE| (_anytime) (_and) (_everytime) (_i) (_find) (_myself) (_in) (_the) (_neighborhood) (_i) (_will) (_go) (_to) (_sushi) (_rose) (_for) (_fresh) (_sushi) (_and) (_great) (_portion) (_all) (_at) (_a) (_reasonable) (_price) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_anytime) (_and) (_everytime) (_i) (_find) (_myself) (_in) (_the) (_neighborhood) (_i) (_will) (_go) (_to) (_sushi) (_rose) (_for) (_fresh) (_sushi) (_and) (_great) (_portion) (_all) (_at) (_a) (_reasonable) (_price) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_best) (_chinese) (_food) (_uptown) (_!) |ESQ|
+positive  |BSQ:SEQUENCE| (_service) (_be) (_know) (_for) (_bend) (_over) (_backwards) (_to) (_make) (_everyone) (_happy) (_.) |ESQ|
+conflict  |BSQ:SEQUENCE| (_the) (_atmosphere) (_be) (_attractive) (_,) (_but) (_a) (_little) (_uncomfortable) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_staff) (_be) (_very) (_friendly) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_waiter) (_be) (_very) (_friendly) (_and) (_the) (_pasta) (_be) (_out) (_of) (_this) (_world) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_waiter) (_be) (_very) (_friendly) (_and) (_the) (_pasta) (_be) (_out) (_of) (_this) (_world) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_great) (_wine) (_list) (_and) (_great) (_cocktail) (_menu) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_crab) (_cake) (_be) (_delicious) (_and) (_the) (_bbq) (_rib) (_be) (_perfect) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_food) (_be) (_wonderful) (_,) (_artfully) (_do) (_and) (_simply) (_delicious) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_tiny) (_restaurant) (_with) (_very) (_fast) (_service) (_.) |ESQ|
+neutral  |BSQ:SEQUENCE| (_tiny) (_restaurant) (_with) (_very) (_fast) (_service) (_.) |ESQ|
+conflict  |BSQ:SEQUENCE| (_the) (_sauce) (_may) (_not) (_be) (_for) (_everyone) (_,) (_since) (_it) (_be) (_distintive) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_great) (_food) (_but) (_the) (_service) (_be) (_dreadful) (_!) |ESQ|
+negative  |BSQ:SEQUENCE| (_great) (_food) (_but) (_the) (_service) (_be) (_dreadful) (_!) |ESQ|
+positive  |BSQ:SEQUENCE| (_my) (_husband) (_and) (_i) (_have) (_be) (_there) (_at) (_least) (_@card@) (_time) (_and) (_we) (_have) (_always) (_be) (_give) (_the) (_highest) (_service) (_and) (_often) (_free) (_dessert) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_my) (_husband) (_and) (_i) (_have) (_be) (_there) (_at) (_least) (_@card@) (_time) (_and) (_we) (_have) (_always) (_be) (_give) (_the) (_highest) (_service) (_and) (_often) (_free) (_dessert) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_a) (_beautiful) (_atmosphere) (_,) (_perfect) (_for) (_drink) (_and/or) (_appetizer) (_.) |ESQ|
+neutral  |BSQ:SEQUENCE| (_curioni) (_'s) (_pizza) (_have) (_be) (_around) (_since) (_the) (_@card@) (_'s) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_they) (_make) (_the) (_best) (_pizza) (_in) (_new) (_jersey) (_.) |ESQ|
+neutral  |BSQ:SEQUENCE| (_i) (_recently) (_visit) (_over) (_this) (_past) (_summer) (_after) (_be) (_away) (_for) (_a) (_year) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_what) (_a) (_difference) (_,) (_the) (_service) (_be) (_very) (_comforting) (_and) (_the) (_food) (_be) (_better) (_than) (_average) (_,) (_but) (_what) (_really) (_stand) (_out) (_be) (_such) (_a) (_dynamic) (_and) (_extensive) (_beer) (_list) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_what) (_a) (_difference) (_,) (_the) (_service) (_be) (_very) (_comforting) (_and) (_the) (_food) (_be) (_better) (_than) (_average) (_,) (_but) (_what) (_really) (_stand) (_out) (_be) (_such) (_a) (_dynamic) (_and) (_extensive) (_beer) (_list) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_frankly) (_,) (_the) (_chinese) (_food) (_here) (_be) (_something) (_i) (_can) (_make) (_better) (_at) (_home) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_there) (_be) (_only) (_@card@) (_waiter) (_for) (_the) (_whole) (_restaurant) (_upstairs) (_.) |ESQ|
+neutral  |BSQ:SEQUENCE| (_we) (_start) (_with) (_the) (_scallop) (_and) (_asparagus) (_and) (_also) (_have) (_the) (_soft) (_shell) (_crab) (_as) (_well) (_as) (_the) (_cheese) (_plate) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_not) (_to) (_be) (_overlook) (_,) (_the) (_service) (_be) (_excellent) (_.) |ESQ|
+neutral  |BSQ:SEQUENCE| (_the) (_portion) (_of) (_the) (_food) (_that) (_come) (_out) (_be) (_mediocre) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_this) (_without) (_question) (_be) (_@card@) (_of) (_the) (_worst) (_hotdog) (_i) (_have) (_ever) (_have) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_staff) (_be) (_unbelievably) (_friendly) (_,) (_and) (_i) (_dream) (_about) (_they) (_saag) (_gosht) (_...) (_so) (_good) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_staff) (_be) (_unbelievably) (_friendly) (_,) (_and) (_i) (_dream) (_about) (_they) (_saag) (_gosht) (_...) (_so) (_good) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_i) (_also) (_recommend) (_the) (_garlic) (_knot) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_best) (_indian) (_food) (_i) (_have) (_ever) (_eat) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_you) (_will) (_not) (_be) (_dissapoint) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_this) (_place) (_have) (_the) (_best) (_pizza) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_culinaria) (_be) (_a) (_welcome) (_addition) (_to) (_the) (_garment) (_district) (_-) (_far) (_better) (_than) (_any) (_restaurant) (_in) (_the) (_area) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_the) (_music) (_which) (_be) (_sometimes) (_a) (_little) (_too) (_heavy) (_for) (_my) (_taste) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_service) (_be) (_excellent) (_and) (_always) (_informative) (_without) (_a) (_air) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_owner) (_and) (_staff) (_go) (_to) (_great) (_length) (_to) (_make) (_you) (_feel) (_comfortable) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_the) (_@card@) (_waitress) (_'s) (_look) (_like) (_they) (_have) (_be) (_suck) (_on) (_lemon) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_i) (_can) (_not) (_stand) (_this) (_dungeon) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_sushi) (_be) (_always) (_fresh) (_and) (_yummy) (_and) (_the) (_menu) (_be) (_pretty) (_vary) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_food) (_be) (_great) (_-) (_sushi) (_be) (_good) (_,) (_but) (_the) (_cook) (_food) (_amaze) (_we) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_they) (_dinner) (_special) (_be) (_fantastic) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_delish) (_and) (_make) (_to) (_you) (_liking) (_!) |ESQ|
+positive  |BSQ:SEQUENCE| (_great) (_food) (_,) (_great) (_drink) (_,) (_nice) (_dining) (_atmosphere) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_great) (_food) (_,) (_great) (_drink) (_,) (_nice) (_dining) (_atmosphere) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_for) (_the) (_price) (_you) (_pay) (_for) (_the) (_food) (_here) (_,) (_you) (_would) (_expect) (_it) (_to) (_be) (_at) (_least) (_on) (_par) (_with) (_other) (_japanese) (_restaurant) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_for) (_the) (_price) (_you) (_pay) (_for) (_the) (_food) (_here) (_,) (_you) (_would) (_expect) (_it) (_to) (_be) (_at) (_least) (_on) (_par) (_with) (_other) (_japanese) (_restaurant) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_food) (_portion) (_be) (_small) (_and) (_below) (_average) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_do) (_yourself) (_a) (_favor) (_and) (_avoid) (_this) (_place) (_at) (_all) (_cost) (_!) |ESQ|
+positive  |BSQ:SEQUENCE| (_since) (_the) (_first) (_time) (_i) (_come) (_here) (_i) (_have) (_be) (_hooked) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_food) (_be) (_always) (_fresh) (_and) (_hot) (_-) (_ready) (_to) (_eat) (_!) |ESQ|
+positive  |BSQ:SEQUENCE| (_from) (_the) (_beginning) (_,) (_we) (_be) (_meet) (_by) (_friendly) (_staff) (_memeber) (_,) (_and) (_the) (_convienent) (_parking) (_at) (_chelsea) (_piers) (_make) (_it) (_easy) (_for) (_we) (_to) (_get) (_to) (_the) (_boat) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_from) (_the) (_beginning) (_,) (_we) (_be) (_meet) (_by) (_friendly) (_staff) (_memeber) (_,) (_and) (_the) (_convienent) (_parking) (_at) (_chelsea) (_piers) (_make) (_it) (_easy) (_for) (_we) (_to) (_get) (_to) (_the) (_boat) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_sit) (_back) (_in) (_@card@) (_of) (_those) (_comfortable) (_chair) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_people) (_in) (_the) (_neighborhood) (_seem) (_to) (_love) (_it) (_,) (_too) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_in) (_conclusion) (_,) (_this) (_place) (_suck) (_!!!) |ESQ|
+positive  |BSQ:SEQUENCE| (_my) (_fav) (_here) (_be) (_the) (_tacos) (_pastor) (_and) (_the) (_tostada) (_de) (_tinga) (_...) |ESQ|
+positive  |BSQ:SEQUENCE| (_nick) (_stef) (_'s) (_be) (_@card@) (_of) (_the) (_only) (_place) (_worthy) (_of) (_go) (_in) (_the) (_area) (_,) (_so) (_if) (_you) (_happen) (_to) (_be) (_by) (_madison) (_square) (_garden) (_or) (_herald) (_'s) (_square) (_check) (_it) (_out) (_!) |ESQ|
+negative  |BSQ:SEQUENCE| (_have) (_to) (_tell) (_you) (__) (_not) (_at) (_all) (_impressed) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_bartender) (_and) (_the) (_manager) (_be) (_really) (_nice) (_and) (_the) (_decor) (_be) (_very) (_comfy) (_and) (_laid-back) (_,) (_all) (_the) (_while) (_be) (_trendy) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_bartender) (_and) (_the) (_manager) (_be) (_really) (_nice) (_and) (_the) (_decor) (_be) (_very) (_comfy) (_and) (_laid-back) (_,) (_all) (_the) (_while) (_be) (_trendy) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_for) (_a) (_savory) (_take) (_on) (_the) (_soup) (_and) (_sandwich) (_meal) (_,) (_try) (_the) (_hot) (_and) (_sour) (_soup) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_this) (_bar) (_have) (_it) (_all) (_-) (_great) (_drink) (_,) (_cool) (_atmosphere) (_,) (_excellent) (_service) (_and) (_delicious) (_food) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_this) (_bar) (_have) (_it) (_all) (_-) (_great) (_drink) (_,) (_cool) (_atmosphere) (_,) (_excellent) (_service) (_and) (_delicious) (_food) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_this) (_bar) (_have) (_it) (_all) (_-) (_great) (_drink) (_,) (_cool) (_atmosphere) (_,) (_excellent) (_service) (_and) (_delicious) (_food) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_also) (_,) (_the) (_chick) (_pea) (_with) (_shrimp) (_-lrb-) (_appetizer) (_-rrb-) (_be) (_divine) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_we) (_enjoy) (_ourselves) (_thoroughly) (_and) (_will) (_be) (_go) (_back) (_for) (_the) (_dessert) (_...) |ESQ|
+positive  |BSQ:SEQUENCE| (_we) (_enjoy) (_ourselves) (_thoroughly) (_and) (_will) (_be) (_go) (_back) (_for) (_the) (_dessert) (_...) |ESQ|
+negative  |BSQ:SEQUENCE| (_finally) (_,) (_i) (_get) (_sick) (_of) (_the) (_bad) (_service) (_,) (_obnoxious) (_smirk) (_,) (_and) (_snotty) (_back) (_talk) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_how) (_have) (_i) (_never) (_be) (_to) (_agave) (_before) (_?) |ESQ|
+conflict  |BSQ:SEQUENCE| (_you) (_be) (_go) (_to) (_drop) (_some) (_coin) (_,) (_but) (_completely) (_worth) (_it) (_,) (_especially) (_if) (_you) (_be) (_look) (_to) (_impress) (_someone) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_we) (_order) (_lamb) (_which) (_be) (_perfectly) (_cook) (_and) (_taste) (_awesome) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_i) (_especially) (_like) (_they) (_soft) (_shell) (_crab) (_sandwich) (_with) (_fries) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_if) (_you) (_be) (_look) (_for) (_authentic) (_hong) (_kong-style) (_food) (_,) (_look) (_no) (_further) (_.) |ESQ|
+neutral  |BSQ:SEQUENCE| (_my) (_wife) (_i) (_live) (_on) (_the) (_west) (_side) (_and) (_find) (_this) (_while) (_visit) (_firend) (_on) (_the) (_ues) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_good) (_food) (_good) (_wine) (_that) (_be) (_it) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_a) (_nice) (_find) (_in) (_the) (_neighborhood) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_staff) (_be) (_extremely) (_friendly) (_and) (_pleasant) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_dessert) (_be) (_almost) (_incredible) (__) (_my) (_personal) (_favorite) (_be) (_they) (_tart) (_of) (_the) (_day) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_and) (_as) (_soon) (_as) (_@card@) (_person) (_be) (_do) (_,) (_she) (_ask) (_to) (_pick) (_up) (_the) (_plate) (_immediately) (_.) |ESQ|
+neutral  |BSQ:SEQUENCE| (_this) (_place) (_be) (_italian) (_,) (_not) (_french) (_.) |ESQ|
+neutral  |BSQ:SEQUENCE| (_after) (_so) (_many) (_great) (_review) (_here) (_,) (_my) (_bf) (_and) (_i) (_go) (_to) (_esca) (_to) (_celebrate) (_my) (_birthday) (_last) (_nite) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_while) (_they) (_kitchen) (_food) (_be) (_delicious) (_,) (_they) (_sushi) (_be) (_out) (_of) (_this) (_world) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_there) (_be) (_a) (_heat) (_problem) (_to) (_boot) (_,) (_so) (_it) (_be) (_about) (_@card@) (_degree) (_in) (_the) (_restaurant) (_--) (_we) (_have) (_to) (_request) (_to) (_uncheck) (_we) (_coat) (_!) |ESQ|
+positive  |BSQ:SEQUENCE| (_everything) (_be) (_scrumptious) (_,) (_from) (_the) (_excellent) (_service) (_by) (_cute) (_waitress) (_,) (_to) (_the) (_extremely) (_lush) (_atmosphere) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_everything) (_be) (_scrumptious) (_,) (_from) (_the) (_excellent) (_service) (_by) (_cute) (_waitress) (_,) (_to) (_the) (_extremely) (_lush) (_atmosphere) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_it) (_be) (_traditional) (_,) (_simple) (_italian) (_food) (_.) |ESQ|
+neutral  |BSQ:SEQUENCE| (_my) (_girlfriend) (_and) (_i) (_just) (_spend) (_we) (_@card@) (_month) (_anniversary) (_at) (_lou) (_lou) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_food) (_be) (_all-around) (_good) (_,) (_with) (_the) (_roll) (_usually) (_excellent) (_and) (_the) (_sushi/sashimi) (_not) (_quite) (_on) (_the) (_same) (_level) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_-lrb-) (_the) (_sashimus) (_be) (_cut) (_a) (_little) (_thinly) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_i) (_be) (_surprise) (_at) (_the) (_lower) (_review) (_because) (_it) (_be) (_definitely) (_better) (_than) (_other) (_place) (_i) (_have) (_try) (_with) (_higher) (_rating) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_bay) (_terrace) (_mall) (_be) (_nothing) (_-lrb-) (_ok) (_,) (_almost) (_nothing) (_-rrb-) (_without) (_it) (_!) |ESQ|
+negative  |BSQ:SEQUENCE| (_could) (_have) (_have) (_better) (_for) (_@card@) (_the) (_price) (_in) (_chinatown) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_my) (_husband) (_and) (_i) (_have) (_a) (_blast) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_personally) (_i) (_say) (_save) (_you) (_money) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_in) (_addition) (_to) (_great) (_hot) (_dog) (_,) (_dotp) (_have) (_wonderful) (_breakfast) (_sandwich) (_that) (_feature) (_,) (_in) (_addition) (_to) (_great) (_thing) (_like) (_tator) (_tot) (_and) (_english) (_muffin) (_,) (_a) (_delicious) (_nj-based) (_pork) (_product) (_know) (_to) (_we) (_jersey) (_girl) (_and) (_boy) (_as) (_taylor) (_ham) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_believe) (_i) (_,) (_they) (_live) (_up) (_to) (_the) (_name) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_well) (_,) (_it) (_happen) (_because) (_of) (_a) (_graceless) (_manager) (_and) (_a) (_rude) (_bartender) (_who) (_have) (_we) (_wait) (_@card@) (_minute) (_for) (_drink) (_,) (_and) (_then) (_tell) (_we) (_to) (_chill) (_out) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_not) (_only) (_be) (_the) (_service) (_great) (_,) (_but) (_form) (_conversation) (_around) (_a) (_table) (_be) (_so) (_easy) (_beacuse) (_the) (_atmosphere) (_can) (_be) (_both) (_romantic) (_and) (_comfortable) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_not) (_only) (_be) (_the) (_service) (_great) (_,) (_but) (_form) (_conversation) (_around) (_a) (_table) (_be) (_so) (_easy) (_beacuse) (_the) (_atmosphere) (_can) (_be) (_both) (_romantic) (_and) (_comfortable) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_when) (_the) (_dish) (_arrive) (_it) (_be) (_blaze) (_with) (_green) (_chilli) (_,) (_definitely) (_not) (_edible) (_by) (_a) (_human) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_the) (_absolute) (_worst) (_service) (_i) (_have) (_ever) (_experience) (_and) (_the) (_food) (_be) (_below) (_average) (_-lrb-) (_when) (_they) (_actually) (_give) (_people) (_the) (_meal) (_they) (_order) (_-rrb-) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_the) (_absolute) (_worst) (_service) (_i) (_have) (_ever) (_experience) (_and) (_the) (_food) (_be) (_below) (_average) (_-lrb-) (_when) (_they) (_actually) (_give) (_people) (_the) (_meal) (_they) (_order) (_-rrb-) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_maybe) (_the) (_secret) (_be) (_that) (_we) (_go) (_on) (_a) (_sunday) (_night) (_and) (_everything) (_be) (_great) (_.) |ESQ|
+neutral  |BSQ:SEQUENCE| (_it) (_be) (_about) (_$) (_@card@) (_for) (_lunch) (_and) (_they) (_have) (_take-out) (_or) (_dine-in) (_.) |ESQ|
+neutral  |BSQ:SEQUENCE| (_it) (_be) (_about) (_$) (_@card@) (_for) (_lunch) (_and) (_they) (_have) (_take-out) (_or) (_dine-in) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_they) (_be) (_by) (_far) (_the) (_best) (_past) (_in) (_new) (_york) (_.) |ESQ|
+neutral  |BSQ:SEQUENCE| (_i) (_have) (_eat) (_here) (_several) (_time) (_before) (_attend) (_a) (_afternoon) (_performance) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_everything) (_be) (_very) (_cheap) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_be) (_sure) (_to) (_accompany) (_you) (_food) (_with) (_@card@) (_of) (_they) (_fresh) (_juice) (_concoction) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_food) (_be) (_great) (_and) (_the) (_price) (_be) (_reasonable) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_food) (_be) (_great) (_and) (_the) (_price) (_be) (_reasonable) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_place) (_be) (_clean) (_,) (_and) (_if) (_you) (_like) (_soul) (_food) (_,) (_then) (_this) (_be) (_the) (_place) (_to) (_be) (_!) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_place) (_be) (_clean) (_,) (_and) (_if) (_you) (_like) (_soul) (_food) (_,) (_then) (_this) (_be) (_the) (_place) (_to) (_be) (_!) |ESQ|
+neutral  |BSQ:SEQUENCE| (_you) (_'ll) (_see) (_a) (_lot) (_of) (_people) (_eat) (_there) (_after) (_church) (_.) |ESQ|
+neutral  |BSQ:SEQUENCE| (_i) (_have) (_roast) (_chicken) (_and) (_a) (_salad) (_.) |ESQ|
+neutral  |BSQ:SEQUENCE| (_i) (_have) (_be) (_a) (_regular) (_customer) (_at) (_juice) (_generation) (_for) (_the) (_last) (_@card@) (_month) (_-) (_my) (_office) (_move) (_to) (_the) (_film) (_center) (_on) (_ninth) (_avenue) (_and) (_they) (_be) (_on) (_the) (_next) (_block) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_food) (_be) (_extremely) (_tasty) (_,) (_creatively) (_present) (_and) (_the) (_wine) (_excellent) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_they) (_have) (_a) (_very) (_good) (_chicken) (_with) (_avocado) (_and) (_good) (_tuna) (_as) (_well) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_it) (_be) (_the) (_kind) (_of) (_place) (_@card@) (_like) (_to) (_support) (_!) |ESQ|
+negative  |BSQ:SEQUENCE| (_but) (_the) (_meal) (_be) (_terrible) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_my) (_chicken) (_be) (_completely) (_dry) (_out) (_and) (_on) (_the) (_cold) (_side) (_and) (_the) (_sauce) (_be) (_not) (_very) (_flavorful) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_malted) (_milk) (_ball) (_gelato) (_-) (_have) (_you) (_ever) (_in) (_you) (_life) (_hear) (_of) (_anything) (_so) (_ridiculously) (_wonderful) (_?) |ESQ|
+positive  |BSQ:SEQUENCE| (_just) (_walk) (_by) (_the) (_window) (_and) (_see) (_all) (_the) (_unbiased) (_positive) (_review) (_in) (_all) (_the) (_major) (_nyc) (_publication) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_way) (_too) (_much) (_money) (_for) (_such) (_a) (_terrible) (_meal) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_way) (_too) (_much) (_money) (_for) (_such) (_a) (_terrible) (_meal) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_would) (_not) (_recommend) (_anyone) (_to) (_go) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_however) (_,) (_the) (_service) (_be) (_absolutely) (_horrible) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_a) (_con) (_be) (_the) (_slow) (_bar) (_service) (_.) |ESQ|
+neutral  |BSQ:SEQUENCE| (_we) (_end) (_up) (_in) (_little) (_italy) (_in) (_late) (_afternoon) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_dessert) (_be) (_also) (_to) (_die) (_for) (_!) |ESQ|
+positive  |BSQ:SEQUENCE| (_btw) (_,) (_the) (_service) (_be) (_very) (_good) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_we) (_love) (_it) (_and) (_will) (_go) (_back) (_!) |ESQ|
+positive  |BSQ:SEQUENCE| (_i) (_come) (_again) (_week) (_later) (_with) (_my) (_boyfriend) (_and) (_again) (_have) (_a) (_very) (_nice) (_experience) (_.) |ESQ|
+neutral  |BSQ:SEQUENCE| (_it) (_be) (_eat) (_with) (_black) (_vinegar) (_and) (_shred) (_ginger) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_the) (_unattractive) (_lighting) (_make) (_i) (_want) (_to) (_gag) (_,) (_the) (_food) (_be) (_overprice) (_,) (_there) (_be) (_the) (_most) (_awful) (_disco) (_pop) (_duo) (_performing-and) (_my) (_escargot) (_look) (_like) (_it) (_might) (_crawl) (_off) (_the) (_plate) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_the) (_unattractive) (_lighting) (_make) (_i) (_want) (_to) (_gag) (_,) (_the) (_food) (_be) (_overprice) (_,) (_there) (_be) (_the) (_most) (_awful) (_disco) (_pop) (_duo) (_performing-and) (_my) (_escargot) (_look) (_like) (_it) (_might) (_crawl) (_off) (_the) (_plate) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_the) (_unattractive) (_lighting) (_make) (_i) (_want) (_to) (_gag) (_,) (_the) (_food) (_be) (_overprice) (_,) (_there) (_be) (_the) (_most) (_awful) (_disco) (_pop) (_duo) (_performing-and) (_my) (_escargot) (_look) (_like) (_it) (_might) (_crawl) (_off) (_the) (_plate) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_we) (_'ll) (_definitly) (_be) (_back) (_again) (_!) |ESQ|
+positive  |BSQ:SEQUENCE| (_this) (_be) (_the) (_best) (_italian) (_restaurant) (_in) (_the) (_city) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_it) (_be) (_a) (_cozy) (_place) (_to) (_go) (_with) (_a) (_couple) (_of) (_friend) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_service) (_be) (_always) (_great) (_,) (_and) (_the) (_owner) (_walk) (_around) (_to) (_make) (_sure) (_you) (_enjoy) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_we) (_were) (_pleasantly) (_surprise) (_with) (_our) (_choice) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_because) (_the) (_waiter) (_need) (_severe) (_attitue) (_adjustment) (_.) |ESQ|
+neutral  |BSQ:SEQUENCE| (_there) (_be) (_numerous) (_shavue) (_restaurant) (_in) (_la) (_,) (_but) (_few) (_out) (_here) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_horrible) (_experience) (_-) (_stay) (_away) (_!) |ESQ|
+positive  |BSQ:SEQUENCE| (_if) (_this) (_restaurant) (_be) (_in) (_manhattan) (_,) (_i) (_would) (_definitely) (_go) (_more) (_often) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_food) (_be) (_delicious) (_and) (_highly) (_recommend) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_when) (_it) (_come) (_time) (_to) (_take) (_the) (_order) (_the) (_waiter) (_give) (_we) (_a) (_hard) (_time) (_,) (_walk) (_away) (_then) (_come) (_back) (_with) (_a) (_paper) (_and) (_pen) (_for) (_we) (_to) (_write) (_down) (_what) (_we) (_want) (_...) (_excuse) (_i) (_but) (_be) (_not) (_that) (_he) (_job) (_???) |ESQ|
+positive  |BSQ:SEQUENCE| (_@card@) (_of) (_my) (_fav) (_spot) (_in) (_the) (_city) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_over) (_price) (_,) (_overrate) (_...) (_stay) (_away) (_!) |ESQ|
+negative  |BSQ:SEQUENCE| (_over) (_price) (_,) (_overrate) (_...) (_stay) (_away) (_!) |ESQ|
+negative  |BSQ:SEQUENCE| (_do) (_not) (_go) (_to) (_this) (_restaurant) (_.) |ESQ|
+neutral  |BSQ:SEQUENCE| (_since) (_i) (_be) (_in) (_the) (_neighborhood) (_,) (_we) (_make) (_sure) (_to) (_give) (_this) (_a) (_try) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_lasagna) (_was) (_probably) (_the) (_best) (_i) (_have) (_taste) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_all) (_i) (_can) (_say) (_be) (_they) (_be) (_fantastic) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_dieter) (_stick) (_to) (_salad) (_or) (_indulge) (_in) (_vegetarian) (_platter) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_so) (_for) (_a) (_filling) (_and) (_healthy) (_meal) (_give) (_it) (_a) (_go) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_i) (_can) (_not) (_imagine) (_how) (_much) (_worse) (_it) (_would) (_have) (_be) (_if) (_we) (_would) (_go) (_at) (_a) (_prime) (_time) (_!) |ESQ|
+positive  |BSQ:SEQUENCE| (_i) (_have) (_dine) (_at) (_mammino) (_several) (_time) (_now) (_and) (_each) (_time) (_it) (_get) (_bettter) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_definitely) (_something) (_to) (_come) (_down) (_and) (_check) (_out) (_.) |ESQ|
+neutral  |BSQ:SEQUENCE| (_since) (_i) (_cook) (_for) (_a) (_living) (_,) (_i) (_be) (_very) (_fussy) (_about) (_the) (_food) (_i) (_eat) (_in) (_restaurant) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_service) (_be) (_outstanding) (_.) |ESQ|
+neutral  |BSQ:SEQUENCE| (_i) (_go) (_for) (_restaurant) (_week) (_.) |ESQ|
+neutral  |BSQ:SEQUENCE| (_my) (_friend) (_and) (_i) (_stop) (_here) (_for) (_pizza) (_before) (_hit) (_the) (_kips) (_bay) (_movie) (_theater) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_harumi) (_sushi) (_have) (_the) (_freshest) (_and) (_most) (_delicious) (_array) (_of) (_sushi) (_in) (_nyc) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_we) (_always) (_enjoy) (_the) (_pizza) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_service) (_be) (_pretty) (_good) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_i) (_go) (_there) (_with) (_a) (_few) (_friend) (_and) (_will) (_return) (_.) |ESQ|
+neutral  |BSQ:SEQUENCE| (_this) (_place) (_have) (_be) (_around) (_for) (_a) (_few) (_year) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_yum) (_,) (_the) (_chicken) (_be) (_great) (_here) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_i) (_highly) (_recommend) (_this) (_restaurant) (_!!) |ESQ|
+positive  |BSQ:SEQUENCE| (_you) (_will) (_find) (_everything) (_about) (_trio) (_to) (_you) (_liking) (_!) |ESQ|
+negative  |BSQ:SEQUENCE| (_this) (_place) (_be) (_the) (_worst) (_.) |ESQ|
+neutral  |BSQ:SEQUENCE| (_i) (_order) (_from) (_here) (_last) (_week) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_this) (_be) (_a) (_nice) (_sushi) (_restaurant) (_in) (_brooklyn) (_that) (_be) (_located) (_on) (_@card@) (_street) (_,) (_right) (_underneath) (_the) (_train) (_station) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_do) (_i) (_mention) (_that) (_the) (_coffee) (_be) (_outstanding) (_?) |ESQ|
+positive  |BSQ:SEQUENCE| (_i) (_highly) (_recommend) (_it) (_for) (_not) (_just) (_its) (_superb) (_cuisine) (_,) (_but) (_also) (_for) (_its) (_friendly) (_owner) (_and) (_staff) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_i) (_highly) (_recommend) (_it) (_for) (_not) (_just) (_its) (_superb) (_cuisine) (_,) (_but) (_also) (_for) (_its) (_friendly) (_owner) (_and) (_staff) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_food) (_here) (_be) (_great) (_,) (_a) (_treat) (_from) (_begin) (_to) (_end) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_host) (_-lrb-) (_owner) (_-rrb-) (_and) (_server) (_be) (_personable) (_and) (_caring) (_.) |ESQ|
+neutral  |BSQ:SEQUENCE| (_i) (_decide) (_to) (_try) (_out) (_this) (_place) (_after) (_hear) (_about) (_it) (_in) (_many) (_magazine) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_it) (_be) (_just) (_everything) (_...) (_the) (_food) (_,) (_the) (_atmosphere) (_...) (_the) (_incrediby) (_kind) (_and) (_gracious) (_hostess) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_it) (_be) (_just) (_everything) (_...) (_the) (_food) (_,) (_the) (_atmosphere) (_...) (_the) (_incrediby) (_kind) (_and) (_gracious) (_hostess) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_it) (_be) (_just) (_everything) (_...) (_the) (_food) (_,) (_the) (_atmosphere) (_...) (_the) (_incrediby) (_kind) (_and) (_gracious) (_hostess) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_have) (_move) (_i) (_truly) (_miss) (_this) (_place) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_food) (_be) (_very) (_good) (_and) (_the) (_service) (_be) (_great) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_food) (_be) (_very) (_good) (_and) (_the) (_service) (_be) (_great) (_.) |ESQ|
+neutral  |BSQ:SEQUENCE| (_i) (_usually) (_get) (_@card@) (_the) (_vietnamese) (_beef) (_noodle) (_soup) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_sum) (_it) (__) (_local) (_investment) (_banker) (_like) (_it) (_,) (_try) (_for) (_yourself) (_at) (_least) (_once) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_i) (_start) (_go) (_to) (_dosa) (_hut) (_more) (_after) (_that) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_we) (_be) (_wonder) (_why) (_they) (_be) (_there) (_to) (_make) (_we) (_dining) (_experience) (_miserable) (_?) |ESQ|
+positive  |BSQ:SEQUENCE| (_if) (_you) (_be) (_craving) (_some) (_serious) (_indian) (_food) (_and) (_desire) (_a) (_cozy) (_ambiance) (_,) (_this) (_be) (_quite) (_and) (_exquisite) (_choice) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_if) (_you) (_be) (_craving) (_some) (_serious) (_indian) (_food) (_and) (_desire) (_a) (_cozy) (_ambiance) (_,) (_this) (_be) (_quite) (_and) (_exquisite) (_choice) (_.) |ESQ|
+conflict  |BSQ:SEQUENCE| (_too) (_bad) (_,) (_have) (_a) (_lot) (_of) (_potential) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_this) (_place) (_have) (_the) (_best) (_indian) (_food) (_in) (_new) (_york) (_,) (_hand) (_down) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_waiter) (_be) (_very) (_friendly) (_and) (_helpful) (_and) (_if) (_you) (_frequent) (_they) (_will) (_remember) (_you) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_intimate) (_but) (_charming) (_interior) (_with) (_extremely) (_friendly) (_and) (_attentive) (_service) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_intimate) (_but) (_charming) (_interior) (_with) (_extremely) (_friendly) (_and) (_attentive) (_service) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_food) (_be) (_as) (_creative) (_as) (_the) (_decor) (_and) (_both) (_work) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_food) (_be) (_as) (_creative) (_as) (_the) (_decor) (_and) (_both) (_work) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_siam) (_square) (_be) (_fairly) (_new) (_to) (_the) (_neighborhood) (_and) (_i) (_think) (_in) (_time) (_will) (_gain) (_the) (_recognition) (_it) (_deserve) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_my) (_first) (_experience) (_at) (_siam) (_square) (_be) (_very) (_pleasant) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_i) (_have) (_go) (_back) (_to) (_siam) (_square) (_many) (_time) (_since) (_and) (_everytime) (_i) (_be) (_very) (_satisfied) (_overall) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_menu) (_be) (_great) (_,) (_with) (_a) (_good) (_selection) (_,) (_and) (_everything) (_that) (_i) (_have) (_try) (_be) (_absolutely) (_delicious) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_we) (_have) (_we) (_christmas) (_party) (_at) (_dos) (_caminos) (_and) (_it) (_be) (_wonderful) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_i) (_definitely) (_enjoy) (_the) (_food) (_as) (_well) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_my) (_personal) (_favorite) (_be) (_nick) (_and) (_joe) (_'s) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_sauce) (_be) (_zesty) (_and) (_flavorful) (_and) (_the) (_crust) (_be) (_nice) (_and) (_crispy) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_this) (_place) (_have) (_the) (_best) (_sushi) (_in) (_the) (_city) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_they) (_have) (_a) (_excellent) (_selection) (_-lrb-) (_the) (_roll) (_with) (_crab) (_be) (_really) (_great) (_-rrb-) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_everyone) (_who) (_work) (_there) (_-lrb-) (_the) (_host) (_,) (_the) (_bartender) (_,) (_the) (_server) (_-rrb-) (_be) (_so) (_helpful) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_and) (_the) (_food) (_be) (_fantastic) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_favourite) (_include) (__) (_potato) (_spinach) (_gnocchus) (_and) (_the) (_lamb) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_another) (_great) (_thing) (_about) (_glechik-everything) (_be) (_very) (_cheap) (_!) |ESQ|
+negative  |BSQ:SEQUENCE| (_unfortunately) (_,) (_we) (_choose) (_this) (_spot) (_for) (_lunch) (_as) (_we) (_have) (_do) (_a) (_lot) (_of) (_walk) (_and) (_end) (_up) (_at) (_the) (_south) (_st) (_seaport) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_but) (_regular) (_know) (_that) (_the) (_sandwich) (_be) (_the) (_real) (_star) (_here) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_have) (_always) (_have) (_a) (_great) (_time) (_here) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_skillfully) (_choose) (_portuguese) (_cheese) (_cart) (_pair) (_with) (_quality) (_port) (_provide) (_the) (_perfect) (_iberian) (_end) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_my) (_friend) (_have) (_a) (_burger) (_and) (_i) (_have) (_these) (_wonderful) (_blueberry) (_pancake) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_we) (_be) (_so) (_happy) (_with) (_we) (_food) (_and) (_be) (_even) (_more) (_thrill) (_when) (_we) (_see) (_the) (_bill) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_we) (_be) (_so) (_happy) (_with) (_we) (_food) (_and) (_be) (_even) (_more) (_thrill) (_when) (_we) (_see) (_the) (_bill) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_i) (_would) (_definitely) (_come) (_back) (_to) (_this) (_restaurant) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_the) (_place) (_just) (_be) (_not) (_ready) (_for) (_prime) (_time) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_all) (_topping) (_be) (_so) (_fresh) (_you) (_would) (_think) (_they) (_have) (_they) (_own) (_vegetable) (_garden) (_and) (_the) (_crust) (_be) (_so) (_perfect) (_,) (_that) (_@card@) (_actually) (_think) (_of) (_how) (_it) (_be) (_make) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_quartino) (_be) (_my) (_favoriate) (_resturant) (_in) (_nyc) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_we) (_have) (_always) (_get) (_amazing) (_service) (_and) (_we) (_love) (_the) (_food) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_we) (_have) (_always) (_get) (_amazing) (_service) (_and) (_we) (_love) (_the) (_food) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_waitstaff) (_be) (_solicitous) (_and) (_friendly) (_and) (_always) (_seem) (_glad) (_to) (_see) (_we) (_,) (_and) (_the) (_food) (_be) (_wonderful) (_,) (_if) (_not) (_stunningly) (_creative) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_waitstaff) (_be) (_solicitous) (_and) (_friendly) (_and) (_always) (_seem) (_glad) (_to) (_see) (_we) (_,) (_and) (_the) (_food) (_be) (_wonderful) (_,) (_if) (_not) (_stunningly) (_creative) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_i) (_be) (_in) (_love) (_with) (_the) (_lobster) (_ravioli) (_!) |ESQ|
+positive  |BSQ:SEQUENCE| (_it) (_be) (_pleasantly) (_uncrowded) (_,) (_the) (_service) (_be) (_delightful) (_,) (_the) (_garden) (_adorable) (_,) (_the) (_food) (_-lrb-) (_from) (_appetizer) (_to) (_entree) (_-rrb-) (_be) (_delectable) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_it) (_be) (_pleasantly) (_uncrowded) (_,) (_the) (_service) (_be) (_delightful) (_,) (_the) (_garden) (_adorable) (_,) (_the) (_food) (_-lrb-) (_from) (_appetizer) (_to) (_entree) (_-rrb-) (_be) (_delectable) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_it) (_be) (_pleasantly) (_uncrowded) (_,) (_the) (_service) (_be) (_delightful) (_,) (_the) (_garden) (_adorable) (_,) (_the) (_food) (_-lrb-) (_from) (_appetizer) (_to) (_entree) (_-rrb-) (_be) (_delectable) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_my) (_order) (_be) (_on) (_my) (_table) (_even) (_on) (_a) (_busy) (_friday) (_night) (_within) (_@card@) (_minute) (_-lrb-) (_at) (_the) (_most) (_-rrb-) (_of) (_hang) (_up) (_the) (_phone) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_we) (_come) (_across) (_this) (_restaurant) (_by) (_accident) (_while) (_at) (_a) (_dumbo) (_art) (_festival) (_and) (_thoroughly) (_enjoy) (_we) (_meal) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_service) (_be) (_excellent) (_,) (_no) (_wait) (_,) (_and) (_you) (_get) (_a) (_lot) (_for) (_the) (_price) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_service) (_be) (_excellent) (_,) (_no) (_wait) (_,) (_and) (_you) (_get) (_a) (_lot) (_for) (_the) (_price) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_service) (_be) (_excellent) (_,) (_no) (_wait) (_,) (_and) (_you) (_get) (_a) (_lot) (_for) (_the) (_price) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_i) (_think) (_the) (_food) (_be) (_not) (_cheap) (_at) (_all) (_compare) (_to) (_chinatown) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_and) (_you) (_never) (_get) (_the) (_feeling) (_that) (_you) (_need) (_to) (_leave) (_.) |ESQ|
+conflict  |BSQ:SEQUENCE| (_coffee) (_be) (_a) (_better) (_deal) (_than) (_overpriced) (_cosi) (_sandwich) (_.) |ESQ|
+neutral  |BSQ:SEQUENCE| (_we) (_do) (_not) (_know) (_if) (_we) (_should) (_order) (_a) (_drink) (_or) (_leave) (_?) |ESQ|
+positive  |BSQ:SEQUENCE| (_great) (_neighbhorhood) (_spot) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_bobb) (_v) (_'s) (_be) (_a) (_great) (_place) (_to) (_take) (_you) (_friend) (_and) (_family) (_!) |ESQ|
+positive  |BSQ:SEQUENCE| (_-rrb-) (_it) (_be) (_not) (_the) (_best) (_japanese) (_restaurant) (_in) (_the) (_east) (_village) (_,) (_but) (_it) (_be) (_a) (_pretty) (_solid) (_@card@) (_for) (_its) (_modest) (_price) (_,) (_and) (_worth) (_repeat) (_visit) (_.) |ESQ|
+conflict  |BSQ:SEQUENCE| (_-rrb-) (_it) (_be) (_not) (_the) (_best) (_japanese) (_restaurant) (_in) (_the) (_east) (_village) (_,) (_but) (_it) (_be) (_a) (_pretty) (_solid) (_@card@) (_for) (_its) (_modest) (_price) (_,) (_and) (_worth) (_repeat) (_visit) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_you) (_will) (_be) (_very) (_happy) (_with) (_the) (_experience) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_food) (_be) (_so) (_good) (_and) (_so) (_popular) (_that) (_wait) (_can) (_really) (_be) (_a) (_nightmare) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_the) (_food) (_be) (_so) (_good) (_and) (_so) (_popular) (_that) (_wait) (_can) (_really) (_be) (_a) (_nightmare) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_here) (_be) (_the) (_thing) (_,) (_you) (_be) (_in) (_the) (_best) (_city) (_in) (_the) (_world) (_for) (_restaurant) (_.) |ESQ|
+neutral  |BSQ:SEQUENCE| (_go) (_spend) (_you) (_money) (_somewhere) (_that) (_really) (_wow) (_you) (_.) |ESQ|
+conflict  |BSQ:SEQUENCE| (_the) (_crowd) (_be) (_older) (_and) (_the) (_restaurant) (_be) (_very) (_cramped) (_,) (_but) (_it) (_have) (_old) (_school) (_charm) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_this) (_be) (_a) (_real) (_gem) (_of) (_a) (_place) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_i) (_think) (_this) (_a) (_a) (_wonderful) (_place) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_first) (_walk) (_in) (_the) (_place) (_seem) (_to) (_have) (_great) (_ambience) (_.) |ESQ|
+neutral  |BSQ:SEQUENCE| (_i) (_go) (_to) (_kitchenette) (_this) (_weekend) (_for) (_brunch) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_this) (_place) (_do) (_not) (_get) (_the) (_publicity) (_that) (_sylvias) (_soul) (_food) (_restaurant) (_do) (_,) (_but) (_it) (_should) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_just) (_because) (_p) (_diddy) (_have) (_a) (_party) (_at) (_butter) (_do) (_not) (_mean) (_we) (_should) (_be) (_automatically) (_impressed) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_food) (_be) (_surprisingly) (_good) (_,) (_and) (_the) (_decor) (_be) (_nice) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_food) (_be) (_surprisingly) (_good) (_,) (_and) (_the) (_decor) (_be) (_nice) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_even) (_for) (_@card@) (_very) (_hungry) (_people) (_there) (_be) (_plenty) (_of) (_food) (_leave) (_to) (_be) (_take) (_home) (_-lrb-) (_it) (_reheat) (_really) (_well) (_also) (_-rrb-) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_like) (_i) (_say) (_,) (_nick) (_and) (_joe) (_'s) (_may) (_not) (_be) (_everyone) (_'s) (_favorite) (_,) (_but) (_it) (_be) (_mine) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_help) (_be) (_extremely) (_nice) (_and) (_do) (_not) (_rush) (_we) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_then) (_they) (_somehow) (_make) (_a) (_dry) (_and) (_burnt) (_crust) (_,) (_around) (_a) (_raw) (_and) (_cold) (_inside) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_it) (_be) (_just) (_good) (_food) (_,) (_nothing) (_more) (_and) (_that) (_be) (_all) (_we) (_want) (_!) |ESQ|
+positive  |BSQ:SEQUENCE| (_do) (_not) (_know) (_what) (_the) (_other) (_on) (_the) (_block) (_be) (_like) (_but) (_we) (_be) (_pleased) (_with) (_our) (_choice) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_average) (_cake) (_that) (_be) (_court) (_by) (_a) (_lot) (_of) (_hype) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_it) (_be) (_cute) (_and) (_simple) (_and) (_i) (_love) (_it) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_my) (_wife) (_and) (_i) (_recently) (_visit) (_the) (_bistro) (_for) (_dinner) (_and) (_have) (_a) (_wonderful) (_experience) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_service) (_be) (_perfect) (_too) (_nothing) (_wrong) (_in) (_this) (_italian/french) (_restaurant) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_service) (_be) (_perfect) (_too) (_nothing) (_wrong) (_in) (_this) (_italian/french) (_restaurant) |ESQ|
+negative  |BSQ:SEQUENCE| (_how) (_pretentious) (_and) (_inappropriate) (_for) (_mj) (_grill) (_to) (_claim) (_that) (_it) (_provide) (_power) (_lunch) (_and) (_dinner) (_!) |ESQ|
+neutral  |BSQ:SEQUENCE| (_my) (_fiance) (_and) (_i) (_recently) (_want) (_to) (_see) (_the) (_city) (_and) (_deceid) (_to) (_take) (_a) (_dinner) (_cruise) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_the) (_$) (_@card@) (_delmonico) (_steak) (_have) (_to) (_be) (_send) (_back) (_because) (_it) (_be) (_not) (_cook) (_to) (_order) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_the) (_$) (_@card@) (_delmonico) (_steak) (_have) (_to) (_be) (_send) (_back) (_because) (_it) (_be) (_not) (_cook) (_to) (_order) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_everytime) (_i) (_go) (_there) (_i) (_can) (_not) (_pick) (_anything) (_to) (_eat) (_and) (_not) (_because) (_the) (_menu) (_be) (_fill) (_with) (_great) (_thing) (_to) (_eat) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_half) (_a) (_chicken) (_with) (_a) (_mountain) (_of) (_rice) (_and) (_bean) (_for) (_$) (_@card@) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_service) (_be) (_really) (_fast) (_and) (_friendly) (_,) (_and) (_the) (_value) (_be) (_great) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_service) (_be) (_really) (_fast) (_and) (_friendly) (_,) (_and) (_the) (_value) (_be) (_great) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_we) (_be) (_very) (_impressed) (_with) (_the) (_food) (_and) (_value) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_we) (_be) (_very) (_impressed) (_with) (_the) (_food) (_and) (_value) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_you) (_must) (_try) (_the) (_garlic) (_soup) (_!) |ESQ|
+positive  |BSQ:SEQUENCE| (_casablanca) (_servce) (_delicious) (_falafel) (_,) (_tabouleh) (_,) (_humus) (_and) (_other) (_mediterranean) (_delight) (_,) (_which) (_be) (_all) (_very) (_inexpensive) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_casablanca) (_servce) (_delicious) (_falafel) (_,) (_tabouleh) (_,) (_humus) (_and) (_other) (_mediterranean) (_delight) (_,) (_which) (_be) (_all) (_very) (_inexpensive) (_.) |ESQ|
+conflict  |BSQ:SEQUENCE| (_even) (_after) (_a) (_few) (_bad) (_evening) (_at) (_bardolino) (_,) (_i) (_keep) (_come) (_back) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_pizza) (_'s) (_be) (_make) (_fresh) (_,) (_crispy) (_,) (_and) (_ready) (_to) (_serve) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_@card@) (_waste) (_steak) (_--) (_what) (_a) (_crime) (_!) |ESQ|
+positive  |BSQ:SEQUENCE| (_there) (_be) (_many) (_french) (_bistro) (_in) (_the) (_midtown) (_area) (_,) (_and) (_i) (_wholheartedly) (_recommend) (_this) (_@card@) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_staff) (_be) (_accomodate) (_make) (_sure) (_you) (_be) (_satified) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_chef) (_waldy) (_'s) (_always) (_measure) (_up) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_this) (_diamond) (_in) (_the) (_ruff) (_be) (_definitely) (_worth) (_my) (_10-minute) (_walk) (_from) (_the) (_@card@) (_train) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_be) (_a) (_vegan) (_myself) (_,) (_i) (_have) (_make) (_a) (_point) (_of) (_try) (_all) (_the) (_vegan) (_restaurant) (_in) (_manhattan) (_--) (_and) (_zen) (_palate) (_be) (_easily) (_my) (_favorite) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_don) (_pedro) (_'s) (_be) (_@card@) (_of) (_my) (_favorite) (_restaurant) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_reasonably) (_price) (_with) (_very) (_fresh) (_sushi) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_reasonably) (_price) (_with) (_very) (_fresh) (_sushi) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_go) (_for) (_the) (_seafood) (_paella) (_for) (_@card@) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_all) (_of) (_the) (_apetizer) (_be) (_good) (_and) (_the) (_sangria) (_be) (_very) (_good) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_cantinetta) (_be) (_a) (_real) (_treasure) (_in) (_a) (_see) (_of) (_mediocre) (_italian) (_restaurant) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_the) (_staff) (_should) (_be) (_a) (_bit) (_more) (_friendly) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_@card@) (_positive) (_thing) (_i) (_can) (_say) (_be) (_that) (_the) (_service) (_be) (_prompt) (_,) (_we) (_get) (_seat) (_right) (_away) (_and) (_the) (_server) (_be) (_very) (_friendly) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_staff) (_greet) (_i) (_warmly) (_at) (_the) (_door) (_and) (_i) (_be) (_seat) (_promptly) (_and) (_the) (_food) (_be) (_excellent) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_staff) (_greet) (_i) (_warmly) (_at) (_the) (_door) (_and) (_i) (_be) (_seat) (_promptly) (_and) (_the) (_food) (_be) (_excellent) (_.) |ESQ|
+neutral  |BSQ:SEQUENCE| (_whether) (_@card@) (_pizza) (_place) (_be) (_better) (_than) (_another) (_be) (_often) (_very) (_subjective) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_really) (_nice) (_restaurant) (_to) (_go) (_with) (_a) (_group) (_or) (_on) (_a) (_date) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_service) (_be) (_usually) (_pretty) (_good) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_host) (_and) (_hostess) (_be) (_quite) (_rude) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_you) (_will) (_not) (_be) (_miss) (_anything) (_.) |ESQ|
+neutral  |BSQ:SEQUENCE| (_i) (_discover) (_applebees) (_when) (_i) (_go) (_away) (_to) (_college) (_in) (_va.) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_wait) (_staff) (_be) (_very) (_friendly) (_,) (_if) (_you) (_not) (_rude) (_or) (_picky) (_...) (_.) (_.) (_we) (_meal) (_at) (_leon) (_last) (_weekend) (_be) (_great) (_-) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_wait) (_staff) (_be) (_very) (_friendly) (_,) (_if) (_you) (_not) (_rude) (_or) (_picky) (_...) (_.) (_.) (_we) (_meal) (_at) (_leon) (_last) (_weekend) (_be) (_great) (_-) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_i) (_recommend) (_any) (_of) (_they) (_salmon) (_dish) (_...) (_.) |ESQ|
+conflict  |BSQ:SEQUENCE| (_certainly) (_not) (_the) (_best) (_sushi) (_in) (_new) (_york) (_,) (_however) (_,) (_it) (_be) (_always) (_fresh) (_,) (_and) (_the) (_place) (_be) (_very) (_clean) (_,) (_sterile) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_certainly) (_not) (_the) (_best) (_sushi) (_in) (_new) (_york) (_,) (_however) (_,) (_it) (_be) (_always) (_fresh) (_,) (_and) (_the) (_place) (_be) (_very) (_clean) (_,) (_sterile) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_i) (_absolutely) (_suggest) (_this) (_place) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_foie) (_gras) (_be) (_sweet) (_and) (_luscious) (_.) |ESQ|
+neutral  |BSQ:SEQUENCE| (_the) (_menu) (_,) (_which) (_change) (_seasonally) (_,) (_show) (_both) (_regional) (_and) (_international) (_influence) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_but) (_they) (_mac) (_cheese) (_be) (_yummy) (_!) |ESQ|
+positive  |BSQ:SEQUENCE| (_they) (_brunch) (_menu) (_have) (_something) (_for) (_everyone) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_jazz) (_singer) (_have) (_a) (_nice) (_voice) (_+) (_she) (_make) (_we) (_all) (_get) (_up) (_to) (_dance) (_to) (_shake) (_some) (_cal) (_to) (_eat) (_some) (_more) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_i) (_often) (_find) (_myself) (_with) (_time) (_to) (_kill) (_in) (_times) (_square) (_,) (_which) (_be) (_a) (_shame) (_since) (_i) (_do) (_not) (_love) (_this) (_area) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_they) (_have) (_very) (_quick) (_service) (_which) (_be) (_great) (_when) (_you) (_do) (_not) (_have) (_much) (_time) (_.) |ESQ|
+neutral  |BSQ:SEQUENCE| (_the) (_food) (_be) (_average) (__) (_breakfast) (_food) (_,) (_soup) (_,) (_salad) (_,) (_sandwich) (_,) (_etc.) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_i) (_be) (_highly) (_disappointed) (_by) (_the) (_food) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_the) (_banana) (_pudding) (_they) (_serve) (_have) (_never) (_see) (_a) (_oven) (_,) (_the) (_crabcake) (_be) (_way) (_over) (_salted) (_and) (_do) (_not) (_get) (_me) (_start) (_on) (_the) (_very) (_greasy) (_mac) (_and) (_cheese) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_i) (_think) (_the) (_meatball) (_parm) (_be) (_good) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_the) (_staff) (_be) (_arrogant) (_,) (_the) (_price) (_be) (_way) (_high) (_for) (_brooklyn) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_the) (_staff) (_be) (_arrogant) (_,) (_the) (_price) (_be) (_way) (_high) (_for) (_brooklyn) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_this) (_place) (_be) (_average) (_...) (_at) (_best) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_service) (_be) (_prompt) (_friendly) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_whatever) (_the) (_reason) (_it) (_be) (_definitely) (_the) (_place) (_to) (_be) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_this) (_be) (_literally) (_a) (_hot) (_spot) (_when) (_it) (_come) (_to) (_the) (_food) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_downstairs) (_bar) (_scene) (_be) (_very) (_cool) (_and) (_chill) (_...) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_food) (_be) (_definitely) (_good) (_,) (_but) (_when) (_all) (_be) (_say) (_and) (_do) (_,) (_i) (_just) (_could) (_not) (_justify) (_it) (_for) (_the) (_price) (_-lrb-) (_include) (_@card@) (_drink) (_,) (_$) (_@card@) (_-rrb-) (_...) |ESQ|
+negative  |BSQ:SEQUENCE| (_the) (_food) (_be) (_definitely) (_good) (_,) (_but) (_when) (_all) (_be) (_say) (_and) (_do) (_,) (_i) (_just) (_could) (_not) (_justify) (_it) (_for) (_the) (_price) (_-lrb-) (_include) (_@card@) (_drink) (_,) (_$) (_@card@) (_-rrb-) (_...) |ESQ|
+positive  |BSQ:SEQUENCE| (_i) (_have) (_come) (_here) (_for) (_casual) (_lunch) (_as) (_well) (_as) (_for) (_a) (_friend) (_'s) (_birthday) (_and) (_i) (_always) (_enjoy) (_myself) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_if) (_you) (_be) (_a) (_tequila) (_fan) (_you) (_will) (_not) (_be) (_disappoint) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_great) (_beer) (_selection) (_too) (_,) (_something) (_like) (_@card@) (_beer) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_if) (_you) (_want) (_good) (_tasting) (_,) (_well) (_seasoned) (_latin) (_food) (_eat) (_at) (_cabana) (_and) (_you) (_can) (_not) (_go) (_wrong) (_.) |ESQ|
+neutral  |BSQ:SEQUENCE| (_after) (_read) (_the) (_great) (_review) (_,) (_i) (_invite) (_a) (_die-hard) (_downtown) (_friend) (_of) (_mine) (_to) (_join) (_i) (_at) (_taste) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_not) (_to) (_sound) (_too) (_negative) (_but) (_be) (_wary) (_of) (_the) (_delivary) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_feel) (_like) (_family) (_when) (_we) (_go) (_there) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_i) (_find) (_the) (_food) (_to) (_be) (_just) (_as) (_good) (_as) (_its) (_owner) (_,) (_da) (_silvano) (_,) (_just) (_much) (_less) (_expensive) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_i) (_find) (_the) (_food) (_to) (_be) (_just) (_as) (_good) (_as) (_its) (_owner) (_,) (_da) (_silvano) (_,) (_just) (_much) (_less) (_expensive) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_i) (_find) (_the) (_food) (_to) (_be) (_just) (_as) (_good) (_as) (_its) (_owner) (_,) (_da) (_silvano) (_,) (_just) (_much) (_less) (_expensive) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_they) (_have) (_homemade) (_pasta) (_of) (_all) (_kind) (_--) (_i) (_recommend) (_the) (_gnocchus) (_--) (_yum) (_!) |ESQ|
+negative  |BSQ:SEQUENCE| (_my) (_vegetable) (_risotto) (_be) (_burnt) (_,) (_and) (_infuse) (_totally) (_in) (_a) (_burnt) (_flavor) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_what) (_a) (_pleasant) (_surprise) (_!) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_main) (_draw) (_of) (_this) (_place) (_be) (_the) (_price) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_how) (_can) (_hope) (_to) (_stay) (_in) (_business) (_with) (_service) (_like) (_this) (_?) |ESQ|
+positive  |BSQ:SEQUENCE| (_but) (_dinner) (_here) (_be) (_never) (_disappointing) (_,) (_even) (_if) (_the) (_price) (_be) (_a) (_bit) (_over) (_the) (_top) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_but) (_dinner) (_here) (_be) (_never) (_disappointing) (_,) (_even) (_if) (_the) (_price) (_be) (_a) (_bit) (_over) (_the) (_top) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_definitely) (_try) (_the) (_taglierinus) (_with) (_truffle) (_-) (_it) (_be) (_incredible) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_not) (_only) (_do) (_they) (_have) (_amazing) (_,) (_sandwich) (_,) (_soup) (_,) (_pizza) (_etc) (_,) (_but) (_they) (_homemade) (_sorbet) (_be) (_out) (_of) (_this) (_world) (_!) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_homemade) (_guacamole) (_,) (_the) (_unbelievable) (_entree) (_,) (_and) (_thee) (_most) (_amazing) (_desert) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_sushi) (_be) (_reasonably) (_price) (_and) (_fresh) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_sushi) (_be) (_reasonably) (_price) (_and) (_fresh) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_it) (_be) (_no-fuss) (_,) (_fast) (_and) (_delicious) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_it) (_be) (_no-fuss) (_,) (_fast) (_and) (_delicious) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_it) (_be) (_no-fuss) (_,) (_fast) (_and) (_delicious) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_save) (_room) (_for) (_desert) (_-) (_they) (_be) (_to) (_die) (_for) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_best) (_thing) (_to) (_order) (_be) (_from) (_the) (_grill) (_-lrb-) (_churrasco) (_and) (_rib) (_-rrb-) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_traditional) (_italian) (_item) (_be) (_great) (_-) (_cheap) (_and) (_serve) (_in) (_a) (_cozy) (_setting) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_traditional) (_italian) (_item) (_be) (_great) (_-) (_cheap) (_and) (_serve) (_in) (_a) (_cozy) (_setting) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_traditional) (_italian) (_item) (_be) (_great) (_-) (_cheap) (_and) (_serve) (_in) (_a) (_cozy) (_setting) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_whether) (_you) (_choose) (_the) (_iced) (_blended) (_mocha) (_or) (_the) (_hot) (_white) (_mocha) (_you) (_be) (_sure) (_to) (_be) (_extremely) (_happy) (_.) |ESQ|
+neutral  |BSQ:SEQUENCE| (_last) (_tuesday) (_for) (_a) (_late) (_lunch) (_with) (_a) (_friend) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_it) (_be) (_delish) (_and) (_i) (_do) (_not) (_feel) (_bad) (_eat) (_it) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_also) (_,) (_the) (_staff) (_be) (_very) (_attentive) (_and) (_really) (_personable) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_another) (_friend) (_have) (_to) (_ask) (_@card@) (_time) (_for) (_parmesan) (_cheese) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_we) (_waitress) (_have) (_apparently) (_never) (_try) (_any) (_of) (_the) (_food) (_,) (_and) (_there) (_be) (_no) (_one) (_to) (_recommend) (_any) (_wine) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_the) (_service) (_be) (_a) (_bit) (_slow) (_and) (_the) (_portion) (_be) (_a) (_bit) (_small) (_so) (_if) (_you) (_be) (_hungry) (_and) (_in) (_a) (_rush) (_,) (_this) (_be) (_not) (_the) (_place) (_for) (_you) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_the) (_service) (_be) (_a) (_bit) (_slow) (_and) (_the) (_portion) (_be) (_a) (_bit) (_small) (_so) (_if) (_you) (_be) (_hungry) (_and) (_in) (_a) (_rush) (_,) (_this) (_be) (_not) (_the) (_place) (_for) (_you) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_the) (_service) (_be) (_a) (_bit) (_slow) (_and) (_the) (_portion) (_be) (_a) (_bit) (_small) (_so) (_if) (_you) (_be) (_hungry) (_and) (_in) (_a) (_rush) (_,) (_this) (_be) (_not) (_the) (_place) (_for) (_you) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_no) (_doubt) (_the) (_next) (_time) (_we) (_want) (_to) (_go) (_out) (_for) (_a) (_special) (_occasion) (_or) (_be) (_entertaining) (_guest) (_from) (_out) (_of) (_town) (_,) (_spirit) (_and) (_bateaux) (_will) (_be) (_we) (_destination) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_i) (_would) (_recommend) (_jewel) (_bako) (_if) (_you) (_want) (_to) (_feel) (_like) (_you) (_be) (_kick) (_in) (_the) (_groin) (_and) (_have) (_to) (_pay) (_for) (_it) (_too) (_.) |ESQ|
+conflict  |BSQ:SEQUENCE| (_the) (_ambiance) (_be) (_pretty) (_cool) (_,) (_but) (_not) (_worth) (_the) (_hassle) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_the) (_ambiance) (_be) (_pretty) (_cool) (_,) (_but) (_not) (_worth) (_the) (_hassle) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_the) (_unfortunate) (_lady) (_next) (_to) (_we) (_think) (_she) (_have) (_order) (_a) (_salad) (_-lrb-) (_include) (_ask) (_for) (_salad) (_dress) (_-rrb-) (_and) (_be) (_instead) (_give) (_a) (_quesedillum) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_el) (_nidos) (_@card@) (_of) (_the) (_best) (_restaurant) (_in) (_new) (_york) (_which) (_i) (_have) (_ever) (_be) (_to) (_,) (_have) (_a) (_great) (_variety) (_of) (_tasty) (_,) (_mouth) (_watering) (_pizza) (_'s) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_el) (_nidos) (_@card@) (_of) (_the) (_best) (_restaurant) (_in) (_new) (_york) (_which) (_i) (_have) (_ever) (_be) (_to) (_,) (_have) (_a) (_great) (_variety) (_of) (_tasty) (_,) (_mouth) (_watering) (_pizza) (_'s) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_the) (_service) (_be) (_pretty) (_poor) (_all) (_around) (_,) (_the) (_food) (_be) (_well) (_below) (_average) (_relative) (_to) (_the) (_cost) (_,) (_and) (_outside) (_there) (_be) (_a) (_crazy) (_bum) (_who) (_harass) (_every) (_customer) (_who) (_leave) (_the) (_place) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_the) (_service) (_be) (_pretty) (_poor) (_all) (_around) (_,) (_the) (_food) (_be) (_well) (_below) (_average) (_relative) (_to) (_the) (_cost) (_,) (_and) (_outside) (_there) (_be) (_a) (_crazy) (_bum) (_who) (_harass) (_every) (_customer) (_who) (_leave) (_the) (_place) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_the) (_service) (_be) (_pretty) (_poor) (_all) (_around) (_,) (_the) (_food) (_be) (_well) (_below) (_average) (_relative) (_to) (_the) (_cost) (_,) (_and) (_outside) (_there) (_be) (_a) (_crazy) (_bum) (_who) (_harass) (_every) (_customer) (_who) (_leave) (_the) (_place) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_the) (_service) (_be) (_pretty) (_poor) (_all) (_around) (_,) (_the) (_food) (_be) (_well) (_below) (_average) (_relative) (_to) (_the) (_cost) (_,) (_and) (_outside) (_there) (_be) (_a) (_crazy) (_bum) (_who) (_harass) (_every) (_customer) (_who) (_leave) (_the) (_place) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_although) (_i) (_move) (_uptown) (_i) (_try) (_to) (_stop) (_in) (_as) (_often) (_as) (_possible) (_for) (_the) (_great) (_cheap) (_food) (_and) (_to) (_pay) (_the) (_friendly) (_staff) (_a) (_visit) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_although) (_i) (_move) (_uptown) (_i) (_try) (_to) (_stop) (_in) (_as) (_often) (_as) (_possible) (_for) (_the) (_great) (_cheap) (_food) (_and) (_to) (_pay) (_the) (_friendly) (_staff) (_a) (_visit) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_although) (_i) (_move) (_uptown) (_i) (_try) (_to) (_stop) (_in) (_as) (_often) (_as) (_possible) (_for) (_the) (_great) (_cheap) (_food) (_and) (_to) (_pay) (_the) (_friendly) (_staff) (_a) (_visit) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_overall) (_,) (_this) (_be) (_a) (_great) (_new) (_restaurant) (_that) (_have) (_be) (_consistently) (_good) (_every) (_time) (_i) (_have) (_be) (_.) |ESQ|
+neutral  |BSQ:SEQUENCE| (_i) (_have) (_to) (_wait) (_for) (_my) (_friend) (_at) (_the) (_bar) (_for) (_a) (_few) (_minute) |ESQ|
+positive  |BSQ:SEQUENCE| (_chef) (_vincenzo) (_,) (_always) (_there) (_if) (_you) (_need) (_he) (_,) (_be) (_a) (_real) (_talent) (_and) (_a) (_real) (_roman) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_if) (_you) (_be) (_look) (_to) (_taste) (_some) (_great) (_indian) (_food) (_and) (_want) (_good) (_service) (_,) (_definitely) (_visit) (_curry) (_leaf) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_if) (_you) (_be) (_look) (_to) (_taste) (_some) (_great) (_indian) (_food) (_and) (_want) (_good) (_service) (_,) (_definitely) (_visit) (_curry) (_leaf) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_you) (_must) (_try) (_odessa) (_stew) (_or) (_rabbit) (_stew) (_;) (_salads-all) (_good) (_;) (_and) (_kompot) (_be) (_soo) (_refreshing) (_during) (_the) (_hot) (_summer) (_day) (_-lrb-) (_they) (_make) (_it) (_the) (_way) (_my) (_mom) (_do) (_,) (_remind) (_i) (_of) (_home) (_a) (_lot) (_-rrb-) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_you) (_must) (_try) (_odessa) (_stew) (_or) (_rabbit) (_stew) (_;) (_salads-all) (_good) (_;) (_and) (_kompot) (_be) (_soo) (_refreshing) (_during) (_the) (_hot) (_summer) (_day) (_-lrb-) (_they) (_make) (_it) (_the) (_way) (_my) (_mom) (_do) (_,) (_remind) (_i) (_of) (_home) (_a) (_lot) (_-rrb-) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_my) (_daughter) (_and) (_i) (_leave) (_feeling) (_satisfied) (_-lrb-) (_not) (_stuff) (_-rrb-) (_and) (_it) (_feel) (_good) (_to) (_know) (_we) (_have) (_a) (_healthy) (_lunch) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_i) (_be) (_almost) (_tempt) (_to) (_give) (_this) (_place) (_a) (_bad) (_review) (_so) (_i) (_can) (_keep) (_the) (_crowd) (_away) (_...) (_be) (_go) (_there) (_on) (_and) (_off) (_for) (_a) (_year) (_now) (_and) (_it) (_be) (_really) (_my) (_fave) (_hang) (_out) (_in) (_the) (_city) (_.) |ESQ|
+neutral  |BSQ:SEQUENCE| (_when) (_she) (_complain) (_,) (_the) (_waitress) (_say) (_,) (_sorry) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_the) (_quality) (_of) (_the) (_meat) (_be) (_on) (_par) (_with) (_you) (_local) (_grocery) (_store) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_they) (_specialize) (_in) (_smoothie) (_and) (_fresh) (_juice) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_it) (_first) (_come) (_well) (_do) (_,) (_and) (_i) (_politely) (_send) (_it) (_back) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_gnocchus) (_literally) (_melt) (_in) (_you) (_mouth) (_!) |ESQ|
+positive  |BSQ:SEQUENCE| (_i) (_recommend) (_the) (_black) (_roasted) (_codfish) (_,) (_it) (_be) (_the) (_best) (_dish) (_of) (_the) (_evening) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_the) (_manager) (_then) (_tell) (_we) (_we) (_could) (_order) (_from) (_whatever) (_menu) (_we) (_want) (_but) (_by) (_that) (_time) (_we) (_be) (_so) (_annoyed) (_with) (_the) (_waiter) (_and) (_the) (_resturant) (_that) (_we) (_let) (_and) (_go) (_some) (_place) (_else) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_the) (_manager) (_then) (_tell) (_we) (_we) (_could) (_order) (_from) (_whatever) (_menu) (_we) (_want) (_but) (_by) (_that) (_time) (_we) (_be) (_so) (_annoyed) (_with) (_the) (_waiter) (_and) (_the) (_resturant) (_that) (_we) (_let) (_and) (_go) (_some) (_place) (_else) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_in) (_mi) (_burrito) (_,) (_here) (_be) (_nothing) (_but) (_dark) (_chicken) (_that) (_have) (_that) (_cook) (_last) (_week) (_and) (_just) (_warm) (_up) (_in) (_a) (_microwave) (_taste) (_.) |ESQ|
+neutral  |BSQ:SEQUENCE| (_during) (_busy) (_hr) (_,) (_i) (_recommend) (_that) (_you) (_make) (_a) (_reservation) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_do) (_not) (_waste) (_you) (_time) (_or) (_you) (_money) (_.) |ESQ|
+conflict  |BSQ:SEQUENCE| (_it) (_be) (_good) (_but) (_,) (_like) (_the) (_movie) (_be) (_never) (_as) (_good) (_as) (_the) (_book) (_,) (_this) (_be) (_same) (_analogy) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_it) (_be) (_a) (_very) (_warm) (_experience) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_i) (_go) (_to) (_common) (_stock) (_for) (_brunch) (_and) (_i) (_be) (_so) (_impressed) (_.) |ESQ|
+neutral  |BSQ:SEQUENCE| (_now) (_call) (_nikki) (_sushi) (_,) (_sushi) (_be) (_ok) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_food) (_be) (_also) (_outstanding) (_and) (_be) (_serve) (_quite) (_quickly) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_food) (_be) (_also) (_outstanding) (_and) (_be) (_serve) (_quite) (_quickly) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_have) (_a) (_great) (_experience) (_at) (_trio) (_...) (_staff) (_be) (_pleasant) (_;) (_food) (_be) (_tasty) (_and) (_large) (_in) (_portion) (_size) (_-) (_i) (_would) (_highly) (_recommend) (_the) (_portobello/gorgonzola/sausage) (_appetizer) (_and) (_the) (_lobster) (_risotto) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_have) (_a) (_great) (_experience) (_at) (_trio) (_...) (_staff) (_be) (_pleasant) (_;) (_food) (_be) (_tasty) (_and) (_large) (_in) (_portion) (_size) (_-) (_i) (_would) (_highly) (_recommend) (_the) (_portobello/gorgonzola/sausage) (_appetizer) (_and) (_the) (_lobster) (_risotto) (_.) |ESQ|
+conflict  |BSQ:SEQUENCE| (_i) (_just) (_have) (_nothing) (_to) (_say) (_about) (_this) (_place) (_that) (_be) (_negative) (_except) (_that) (_it) (_be) (_not) (_a) (_cheap) (_night) (_out) (_...) (_but) (_it) (_be) (_so) (_worth) (_it) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_i) (_just) (_have) (_nothing) (_to) (_say) (_about) (_this) (_place) (_that) (_be) (_negative) (_except) (_that) (_it) (_be) (_not) (_a) (_cheap) (_night) (_out) (_...) (_but) (_it) (_be) (_so) (_worth) (_it) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_from) (_the) (_erbazzone) (_emiliana) (_to) (_the) (_mostarda) (_on) (_the) (_cheese) (_plate) (_,) (_the) (_dish) (_at) (_this) (_restaurant) (_be) (_all) (_handle) (_with) (_delicate) (_care) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_food) (_be) (_delicious) (_and) (_the) (_bar) (_have) (_a) (_great) (_vibe) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_food) (_be) (_delicious) (_and) (_the) (_bar) (_have) (_a) (_great) (_vibe) (_.) |ESQ|
+neutral  |BSQ:SEQUENCE| (_expectation) (_be) (_real) (_hi) (_read) (_the) (_') (_@card@) (_'s) (_') (_.) |ESQ|
+neutral  |BSQ:SEQUENCE| (_there) (_be) (_candlelight) (_and) (_music) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_it) (_be) (_nice) (_to) (_find) (_a) (_place) (_that) (_be) (_open) (_@card@) (_hour) (_-lrb-) (_especially) (_in) (_downtown) (_brooklyn) (_-rrb-) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_simple) (_healthy) (_unglamorous) (_food) (_cheap) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_simple) (_healthy) (_unglamorous) (_food) (_cheap) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_it) (_be) (_such) (_a) (_fantastic) (_dining) (_experience) (_,) (_that) (_i) (_return) (_again) (_the) (_same) (_week) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_to) (_be) (_fair) (_,) (_the) (_food) (_still) (_be) (_good) (_and) (_the) (_service) (_be) (_quick) (_and) (_attentative) (_even) (_though) (_its) (_usually) (_very) (_busy) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_to) (_be) (_fair) (_,) (_the) (_food) (_still) (_be) (_good) (_and) (_the) (_service) (_be) (_quick) (_and) (_attentative) (_even) (_though) (_its) (_usually) (_very) (_busy) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_place) (_be) (_absolutely) (_adorable) (_and) (_the) (_food) (_be) (_delicious) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_place) (_be) (_absolutely) (_adorable) (_and) (_the) (_food) (_be) (_delicious) (_.) |ESQ|
+neutral  |BSQ:SEQUENCE| (_entree) (_include) (_classic) (_like) (_lasagna) (_,) (_fettuccine) (_alfredo) (_and) (_chicken) (_parmigiana) (_.) |ESQ|
+neutral  |BSQ:SEQUENCE| (_i) (_order) (_the) (_chicken) (_teriyaki) (_and) (_my) (_husband) (_get) (_garlic) (_shrimp) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_i) (_have) (_have) (_better) (_japanese) (_food) (_at) (_a) (_mall) (_food) (_court) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_staff) (_member) (_be) (_extremely) (_friendly) (_and) (_even) (_replace) (_my) (_drink) (_once) (_when) (_i) (_drop) (_it) (_outside) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_cool) (_atmosphere) (_but) (_such) (_a) (_let) (_down) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_cool) (_atmosphere) (_but) (_such) (_a) (_let) (_down) (_.) |ESQ|
+conflict  |BSQ:SEQUENCE| (_the) (_sashimi) (_portion) (_be) (_big) (_enough) (_to) (_appease) (_most) (_people) (_,) (_but) (_i) (_do) (_not) (_like) (_the) (_fact) (_they) (_use) (_artifical) (_lobster) (_meat) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_they) (_have) (_wheat) (_crusted) (_pizza) (_make) (_with) (_really) (_fresh) (_and) (_yummy) (_ingredient) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_have) (_a) (_lovely) (_dinner) (_in) (_this) (_dedicated) (_seafood) (_joint) (_,) (_food) (_be) (_well-prepared) (_and) (_-) (_present) (_and) (_the) (_service) (_be) (_pleasant) (_and) (_prompt) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_have) (_a) (_lovely) (_dinner) (_in) (_this) (_dedicated) (_seafood) (_joint) (_,) (_food) (_be) (_well-prepared) (_and) (_-) (_present) (_and) (_the) (_service) (_be) (_pleasant) (_and) (_prompt) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_icing) (_made) (_this) (_cake) (_,) (_it) (_be) (_fluffy) (_,) (_not) (_ultra) (_sweet) (_,) (_creamy) (_and) (_light) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_finally) (_let) (_into) (_the) (_store) (_@card@) (_at) (_a) (_time) (_,) (_to) (_buy) (_expensive) (_slice) (_from) (_a) (_harry) (_staff) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_finally) (_let) (_into) (_the) (_store) (_@card@) (_at) (_a) (_time) (_,) (_to) (_buy) (_expensive) (_slice) (_from) (_a) (_harry) (_staff) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_finally) (_let) (_into) (_the) (_store) (_@card@) (_at) (_a) (_time) (_,) (_to) (_buy) (_expensive) (_slice) (_from) (_a) (_harry) (_staff) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_we) (_end) (_up) (_have) (_to) (_just) (_leave) (_because) (_we) (_be) (_essentially) (_be) (_ignore) (_by) (_the) (_wait) (_staff) (_--) (_even) (_though) (_the) (_rest) (_of) (_the) (_restaurant) (_be) (_largely) (_empty) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_we) (_end) (_up) (_have) (_to) (_just) (_leave) (_because) (_we) (_be) (_essentially) (_be) (_ignore) (_by) (_the) (_wait) (_staff) (_--) (_even) (_though) (_the) (_rest) (_of) (_the) (_restaurant) (_be) (_largely) (_empty) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_food) (_be) (_good) (_,) (_the) (_teriyakus) (_i) (_recommend) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_wine) (_list) (_be) (_extensive) (_,) (_well) (_price) (_and) (_cover) (_alot) (_of) (_region) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_wine) (_list) (_be) (_extensive) (_,) (_well) (_price) (_and) (_cover) (_alot) (_of) (_region) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_go) (_here) (_if) (_you) (_want) (_fresh) (_and) (_tasty) (_salad) (_of) (_any) (_type) (_you) (_can) (_imagine) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_everything) (_about) (_this) (_place) (_be) (_adorable) (_-) (_even) (_the) (_bathroom) (_!) |ESQ|
+positive  |BSQ:SEQUENCE| (_everything) (_about) (_this) (_place) (_be) (_adorable) (_-) (_even) (_the) (_bathroom) (_!) |ESQ|
+positive  |BSQ:SEQUENCE| (_speedy) (_deliver) (_,) (_great) (_food) (_,) (_decent) (_price) (_,) (_and) (_friendly) (_service) (_combine) (_to) (_ensure) (_a) (_enjoyable) (_repast) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_speedy) (_deliver) (_,) (_great) (_food) (_,) (_decent) (_price) (_,) (_and) (_friendly) (_service) (_combine) (_to) (_ensure) (_a) (_enjoyable) (_repast) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_speedy) (_deliver) (_,) (_great) (_food) (_,) (_decent) (_price) (_,) (_and) (_friendly) (_service) (_combine) (_to) (_ensure) (_a) (_enjoyable) (_repast) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_they) (_have) (_waiters) (_on) (_the) (_sidewalk) (_trying) (_to) (_pull) (_you) (_in) (_which) (_made) (_us) (_suspicious) (_.) |ESQ|
+neutral  |BSQ:SEQUENCE| (_it) (_be) (_our) (_only) (_opportunity) (_to) (_visit) (_and) (_want) (_a) (_authentic) (_italian) (_meal) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_it) (_take) (_@card@) (_year) (_for) (_parisi) (_to) (_get) (_around) (_to) (_make) (_pizza) (_-lrb-) (_at) (_least) (_i) (_do) (_not) (_think) (_they) (_ever) (_make) (_it) (_before) (_this) (_year) (_-rrb-) (_...) (_but) (_it) (_be) (_worth) (_the) (_wait) (_.) |ESQ|
+conflict  |BSQ:SEQUENCE| (_it) (_take) (_@card@) (_year) (_for) (_parisi) (_to) (_get) (_around) (_to) (_make) (_pizza) (_-lrb-) (_at) (_least) (_i) (_do) (_not) (_think) (_they) (_ever) (_make) (_it) (_before) (_this) (_year) (_-rrb-) (_...) (_but) (_it) (_be) (_worth) (_the) (_wait) (_.) |ESQ|
+neutral  |BSQ:SEQUENCE| (_i) (_ask) (_for) (_a) (_simple) (_medium) (_rare) (_steak) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_generously) (_garnish) (_,) (_organic) (_grilled) (_burger) (_be) (_the) (_most) (_popular) (_dish) (_,) (_but) (_the) (_jerusalem) (_market-style) (_falafel) (_wrap) (_and) (_mediterranean) (_salad) (_--) (_layered) (_with) (_beet) (_,) (_goat) (_cheese) (_and) (_walnut) (_--) (_be) (_equally) (_scrumptious) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_probably) (_my) (_worst) (_dining) (_experience) (_in) (_new) (_york) (_,) (_and) (_i) (_be) (_a) (_former) (_waiter) (_so) (_i) (_know) (_what) (_i) (_be) (_talk) (_about) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_i) (_trust) (_the) (_people) (_at) (_go) (_sushi) (_,) (_it) (_never) (_disappoint) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_meal) (_be) (_very) (_expensive) (_for) (_what) (_you) (_get) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_meal) (_be) (_very) (_expensive) (_for) (_what) (_you) (_get) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_result) (_-lrb-) (_red) (_velvet) (_-rrb-) (__) (_great) (_texture) (_,) (_soft) (_and) (_velvety) (_,) (_nice) (_hint) (_of) (_cocoa) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_ask) (_for) (_the) (_round) (_corner) (_table) (_next) (_to) (_the) (_large) (_window) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_they) (_twist) (_on) (_pizza) (_be) (_heatlhy) (_,) (_but) (_full) (_of) (_flavor) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_the) (_lack) (_of) (_ac) (_and) (_the) (_fact) (_that) (_there) (_be) (_a) (_@card@) (_swarming) (_body) (_-lrb-) (_although) (_everyone) (_be) (_polite) (_and) (_no) (_one) (_be) (_push) (_-rrb-) (_be) (_a) (_slight) (_turn) (_off) (_.) |ESQ|
+conflict  |BSQ:SEQUENCE| (_the) (_lack) (_of) (_ac) (_and) (_the) (_fact) (_that) (_there) (_be) (_a) (_@card@) (_swarming) (_body) (_-lrb-) (_although) (_everyone) (_be) (_polite) (_and) (_no) (_one) (_be) (_push) (_-rrb-) (_be) (_a) (_slight) (_turn) (_off) (_.) |ESQ|
+conflict  |BSQ:SEQUENCE| (_i) (_love) (_the) (_little) (_pie) (_company) (_as) (_much) (_as) (_anyone) (_else) (_who) (_have) (_write) (_review) (_,) (_but) (_must) (_discourage) (_anyone) (_from) (_visit) (_the) (_grand) (_central) (_location) (_due) (_to) (_they) (_rude) (_service) (_from) (_@card@) (_sale) (_people) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_i) (_love) (_the) (_little) (_pie) (_company) (_as) (_much) (_as) (_anyone) (_else) (_who) (_have) (_write) (_review) (_,) (_but) (_must) (_discourage) (_anyone) (_from) (_visit) (_the) (_grand) (_central) (_location) (_due) (_to) (_they) (_rude) (_service) (_from) (_@card@) (_sale) (_people) (_.) |ESQ|
+conflict  |BSQ:SEQUENCE| (_unfortunately) (_,) (_unless) (_you) (_live) (_in) (_the) (_neighborhood) (_,) (_it) (_be) (_not) (_in) (_a) (_convenient) (_location) (_but) (_be) (_more) (_like) (_a) (_hidden) (_treasure) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_do) (_not) (_seem) (_like) (_any) (_effort) (_be) (_make) (_to) (_the) (_display) (_and) (_quality) (_of) (_the) (_food) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_food) (_--) (_though) (_mostly) (_deep-fried) (_--) (_be) (_simple) (_and) (_satisfying) (_.) |ESQ|
+neutral  |BSQ:SEQUENCE| (_we) (_live) (_in) (_the) (_neighborhood) (_and) (_have) (_be) (_go) (_there) (_twice) (_a) (_week) (_since) (_the) (_day) (_they) (_first) (_open) (_.) |ESQ|
+conflict  |BSQ:SEQUENCE| (_glechik) (_might) (_be) (_way) (_too) (_tiny) (_for) (_a) (_restaurant) (_by) (_russian) (_standard) (_,) (_but) (_it) (_be) (_cozy) (_and) (_the) (_food) (_be) (_simply) (_great) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_glechik) (_might) (_be) (_way) (_too) (_tiny) (_for) (_a) (_restaurant) (_by) (_russian) (_standard) (_,) (_but) (_it) (_be) (_cozy) (_and) (_the) (_food) (_be) (_simply) (_great) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_try) (_the) (_peanut) (_butter) (_sorbet) (_and) (_the) (_pizza) (_with) (_soy) (_cheese) (_!) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_food) (_be) (_excellent) (_-) (_authentic) (_italian) (_cuisine) (_make) (_absolutely) (_fresh) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_at) (_night) (_the) (_atmoshere) (_change) (_turn) (_into) (_this) (_hidden) (_jewel) (_that) (_be) (_wait) (_to) (_be) (_discover) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_other) (_time) (_i) (_have) (_go) (_it) (_be) (_romantic) (_date) (_heaven) (_,) (_you) (_can) (_walk) (_in) (_get) (_a) (_booth) (_by) (_the) (_window) (_,) (_be) (_treat) (_like) (_a) (_vip) (_in) (_a) (_not-crowded) (_place) (_,) (_with) (_great) (_food) (_and) (_service) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_other) (_time) (_i) (_have) (_go) (_it) (_be) (_romantic) (_date) (_heaven) (_,) (_you) (_can) (_walk) (_in) (_get) (_a) (_booth) (_by) (_the) (_window) (_,) (_be) (_treat) (_like) (_a) (_vip) (_in) (_a) (_not-crowded) (_place) (_,) (_with) (_great) (_food) (_and) (_service) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_other) (_time) (_i) (_have) (_go) (_it) (_be) (_romantic) (_date) (_heaven) (_,) (_you) (_can) (_walk) (_in) (_get) (_a) (_booth) (_by) (_the) (_window) (_,) (_be) (_treat) (_like) (_a) (_vip) (_in) (_a) (_not-crowded) (_place) (_,) (_with) (_great) (_food) (_and) (_service) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_i) (_would) (_only) (_go) (_for) (_the) (_coffee) (_which) (_be) (_way) (_better) (_than) (_starbucks) (_or) (_the) (_like) (_.) |ESQ|
+neutral  |BSQ:SEQUENCE| (_i) (_use) (_to) (_be) (_a) (_regular) (_costumer) (_at) (_pongal) (_until) (_dosa) (_hut) (_open) (_right) (_next) (_door) (_to) (_it) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_somewhat) (_disappointing) (_wine) (_list) (_-lrb-) (_only) (_new) (_vintage) (_.) |ESQ|
+conflict  |BSQ:SEQUENCE| (_both) (_be) (_very) (_good) (_,) (_but) (_nothing) (_you) (_could) (_not) (_get) (_at) (_similar) (_restaurant) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_if) (_you) (_look) (_for) (_nasty) (_high) (_price) (_food) (_with) (_a) (_dash) (_of) (_ghetto) (_scenery) (_cheap) (_bx) (_a$) (_$) (_this) (_be) (_the) (_place) (_to) (_be) (_!!) |ESQ|
+negative  |BSQ:SEQUENCE| (_if) (_you) (_look) (_for) (_nasty) (_high) (_price) (_food) (_with) (_a) (_dash) (_of) (_ghetto) (_scenery) (_cheap) (_bx) (_a$) (_$) (_this) (_be) (_the) (_place) (_to) (_be) (_!!) |ESQ|
+negative  |BSQ:SEQUENCE| (_if) (_you) (_look) (_for) (_nasty) (_high) (_price) (_food) (_with) (_a) (_dash) (_of) (_ghetto) (_scenery) (_cheap) (_bx) (_a$) (_$) (_this) (_be) (_the) (_place) (_to) (_be) (_!!) |ESQ|
+conflict  |BSQ:SEQUENCE| (_new) (_hamburger) (_with) (_special) (_sauce) (_be) (_ok) (_-) (_at) (_least) (_better) (_than) (_big) (_mac) (_!) |ESQ|
+positive  |BSQ:SEQUENCE| (_perfectly) (_al) (_dente) (_pasta) (_,) (_not) (_drown) (_in) (_sauce) (_--) (_generous) (_portion) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_good) (_food) (_at) (_the) (_right) (_price) (_,) (_what) (_more) (_can) (_you) (_ask) (_for) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_good) (_food) (_at) (_the) (_right) (_price) (_,) (_what) (_more) (_can) (_you) (_ask) (_for) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_i) (_can) (_understand) (_the) (_price) (_if) (_it) (_serve) (_better) (_food) (_,) (_like) (_some) (_chinese) (_restaurant) (_in) (_midtown/uptown) (_area) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_i) (_can) (_understand) (_the) (_price) (_if) (_it) (_serve) (_better) (_food) (_,) (_like) (_some) (_chinese) (_restaurant) (_in) (_midtown/uptown) (_area) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_service) (_be) (_awful) (_-) (_mostly) (_because) (_staff) (_be) (_overwhelm) (_on) (_a) (_saturday) (_night) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_service) (_be) (_awful) (_-) (_mostly) (_because) (_staff) (_be) (_overwhelm) (_on) (_a) (_saturday) (_night) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_to) (_the) (_owner) (_;) (_good) (_job) (_guy) (_,) (_this) (_place) (_be) (_a) (_keeper) (_!) |ESQ|
+positive  |BSQ:SEQUENCE| (_and) (_the) (_owner) (_be) (_simply) (_lovely) (_and) (_friendly) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_this) (_little) (_place) (_be) (_wonderfully) (_warm) (_welcome) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_perfect) (_for) (_a) (_quick) (_meal) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_have) (_the) (_warmth) (_of) (_a) (_family) (_local) (_yet) (_it) (_be) (_a) (_great) (_place) (_to) (_watch) (_sport) (_event) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_service) (_be) (_great) (_,) (_and) (_they) (_have) (_a) (_whole) (_great) (_deal) (_for) (_birthday) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_service) (_be) (_great) (_,) (_and) (_they) (_have) (_a) (_whole) (_great) (_deal) (_for) (_birthday) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_staff) (_be) (_@card@) (_%) (_italian) (_and) (_the) (_food) (_be) (_as) (_authentic) (_as) (_it) (_get) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_staff) (_be) (_@card@) (_%) (_italian) (_and) (_the) (_food) (_be) (_as) (_authentic) (_as) (_it) (_get) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_my) (_only) (_complaint) (_might) (_be) (_the) (_fortune) (_cookie) (_-) (_i) (_have) (_never) (_have) (_a) (_cookie) (_predict) (_bad) (_luck) (_for) (_i) (_before) (_i) (_visit) (_kar) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_we) (_love) (_it) (_,) (_and) (_take) (_bus) (_and) (_cab) (_to) (_get) (_there) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_good) (_for) (_a) (_quick) (_sushi) (_lunch) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_have) (_a) (_mojito) (_and) (_sit) (_in) (_the) (_back) (_patio) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_have) (_a) (_mojito) (_and) (_sit) (_in) (_the) (_back) (_patio) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_the) (_service) (_be) (_dreadfully) (_slow) (_-lrb-) (_the) (_place) (_be) (_only) (_half) (_full) (_-rrb-) (_and) (_a) (_smile) (_would) (_have) (_be) (_nice) (_...) |ESQ|
+positive  |BSQ:SEQUENCE| (_i) (_go) (_this) (_past) (_saturday) (_and) (_have) (_a) (_excellent) (_meal) (_of) (_consist) (_of) (_a) (_braised) (_lamb) (_shank) (_with) (_mash) (_potato) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_the) (_waitress) (_come) (_by) (_to) (_pick) (_up) (_the) (_soy) (_sauce) (_while) (_we) (_be) (_eat) (_we) (_lunch) (_!!!!!) |ESQ|
+negative  |BSQ:SEQUENCE| (_so) (_we) (_sit) (_at) (_the) (_bar) (_,) (_the) (_bartender) (_do) (_not) (_seem) (_like) (_he) (_want) (_to) (_be) (_there) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_i) (_reccomend) (_the) (_fry) (_pork) (_dumpling) (_,) (_the) (_orange) (_chicken/beef) (_,) (_and) (_the) (_fry) (_rice) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_you) (_will) (_not) (_be) (_dissapoint) (_by) (_any) (_of) (_the) (_choice) (_in) (_the) (_menu) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_french) (_fries) (_--) (_with) (_the) (_kalmata) (_dip) (_be) (_terrific) (_!) |ESQ|
+negative  |BSQ:SEQUENCE| (_would) (_you) (_ever) (_believe) (_that) (_when) (_you) (_complain) (_about) (_over) (_a) (_hour) (_wait) (_,) (_when) (_they) (_tell) (_you) (_it) (_will) (_be) (_@card@) (_minute) (_,) (_the) (_manager) (_tell) (_the) (_bartender) (_to) (_spill) (_the) (_drink) (_you) (_just) (_pay) (_for) (_?) |ESQ|
+positive  |BSQ:SEQUENCE| (_if) (_you) (_') (_re) (_in) (_new) (_york) (_,) (_you) (_do) (_not) (_want) (_to) (_miss) (_this) (_place) (_.) |ESQ|
+neutral  |BSQ:SEQUENCE| (_the) (_boutique) (_selection) (_of) (_wine) (_cover) (_a) (_wide) (_variety) (_without) (_be) (_imposeing) (_.) |ESQ|
+conflict  |BSQ:SEQUENCE| (_if) (_you) (_be) (_lucky) (_and) (_there) (_be) (_not) (_a) (_private) (_party) (_go) (_on) (_back) (_there) (_,) (_you) (_'ll) (_get) (_a) (_chance) (_to) (_really) (_chill) (_out) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_they) (_also) (_have) (_a) (_great) (_assortment) (_of) (_wrap) (_if) (_you) (_not) (_in) (_the) (_mood) (_for) (_traditional) (_mediterranean) (_fare) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_fresh) (_veggy) (_,) (_all) (_sort) (_of) (_middle) (_eastern) (_spread) (_,) (_cheese) (_and) (_falafel) (_,) (_soup) (_,) (_fish) (_,) (_rice) (_,) (_root) (_vegetable) (_,) (_a) (_rice) (_medley) (_,) (_some) (_spinach) (_thing) (_,) (_lamb) (_kebab) (_,) (_cheese) (_baclava) (_...) (_soooo) (_much) (_fooood) (_,) (_and) (_all) (_of) (_it) (_delicious) (_.) |ESQ|
+conflict  |BSQ:SEQUENCE| (_disappointingly) (_,) (_they) (_wonderful) (_saketini) (_have) (_be) (_take) (_off) (_the) (_bar) (_menu) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_in) (_short) (_the) (_black) (_sheep) (_distinguish) (_itself) (_from) (_the) (_midtown) (_pub) (_herd) (_with) (_a) (_look) (_that) (_be) (_a) (_mix) (_of) (_sports-bar) (_butch) (_and) (_ornate) (_kitsch) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_i) (_would) (_definitely) (_go) (_back) (_--) (_if) (_only) (_for) (_some) (_of) (_those) (_exotic) (_martini) (_on) (_the) (_blackboard) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_i) (_would) (_definitely) (_go) (_back) (_--) (_if) (_only) (_for) (_some) (_of) (_those) (_exotic) (_martini) (_on) (_the) (_blackboard) (_.) |ESQ|
+conflict  |BSQ:SEQUENCE| (_they) (_be) (_located) (_off) (_the) (_beaten) (_path) (_but) (_be) (_certainly) (_worth) (_the) (_trip) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_then) (_she) (_make) (_a) (_fuss) (_about) (_not) (_be) (_able) (_to) (_add) (_@card@) (_or) (_@card@) (_chair) (_on) (_either) (_end) (_of) (_the) (_table) (_for) (_additional) (_people) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_then) (_she) (_make) (_a) (_fuss) (_about) (_not) (_be) (_able) (_to) (_add) (_@card@) (_or) (_@card@) (_chair) (_on) (_either) (_end) (_of) (_the) (_table) (_for) (_additional) (_people) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_happy) (_hour) (_be) (_so) (_cheap) (_,) (_but) (_that) (_do) (_not) (_reflect) (_the) (_service) (_or) (_the) (_atmosphere) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_happy) (_hour) (_be) (_so) (_cheap) (_,) (_but) (_that) (_do) (_not) (_reflect) (_the) (_service) (_or) (_the) (_atmosphere) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_happy) (_hour) (_be) (_so) (_cheap) (_,) (_but) (_that) (_do) (_not) (_reflect) (_the) (_service) (_or) (_the) (_atmosphere) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_food) (_be) (_top) (_notch) (_,) (_the) (_service) (_be) (_attentive) (_,) (_and) (_the) (_atmosphere) (_be) (_great) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_food) (_be) (_top) (_notch) (_,) (_the) (_service) (_be) (_attentive) (_,) (_and) (_the) (_atmosphere) (_be) (_great) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_food) (_be) (_top) (_notch) (_,) (_the) (_service) (_be) (_attentive) (_,) (_and) (_the) (_atmosphere) (_be) (_great) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_after) (_wait) (_for) (_almost) (_a) (_hour) (_,) (_the) (_waiter) (_brusquely) (_tell) (_we) (_he) (_would) (_forget) (_to) (_give) (_the) (_kitchen) (_we) (_order) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_with) (_all) (_the) (_mundane) (_or) (_mediocre) (_place) (_on) (_8th) (_avenue) (_it) (_be) (_nice) (_to) (_have) (_@card@) (_that) (_be) (_a) (_step) (_above) (_in) (_quaility) (_and) (_atmosphere) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_with) (_all) (_the) (_mundane) (_or) (_mediocre) (_place) (_on) (_8th) (_avenue) (_it) (_be) (_nice) (_to) (_have) (_@card@) (_that) (_be) (_a) (_step) (_above) (_in) (_quaility) (_and) (_atmosphere) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_a) (_mix) (_of) (_student) (_and) (_area) (_resident) (_crowd) (_into) (_this) (_narrow) (_,) (_barely) (_there) (_space) (_for) (_its) (_quick) (_,) (_tasty) (_treat) (_at) (_dirt-cheap) (_price) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_a) (_mix) (_of) (_student) (_and) (_area) (_resident) (_crowd) (_into) (_this) (_narrow) (_,) (_barely) (_there) (_space) (_for) (_its) (_quick) (_,) (_tasty) (_treat) (_at) (_dirt-cheap) (_price) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_a) (_mix) (_of) (_student) (_and) (_area) (_resident) (_crowd) (_into) (_this) (_narrow) (_,) (_barely) (_there) (_space) (_for) (_its) (_quick) (_,) (_tasty) (_treat) (_at) (_dirt-cheap) (_price) (_.) |ESQ|
+neutral  |BSQ:SEQUENCE| (_give) (_it) (_a) (_try) (_,) (_menu) (_be) (_typical) (_french) (_but) (_vary) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_give) (_it) (_a) (_try) (_,) (_menu) (_be) (_typical) (_french) (_but) (_vary) (_.) |ESQ|
+conflict  |BSQ:SEQUENCE| (_it) (_get) (_crowd) (_at) (_lunchtime) (_but) (_there) (_be) (_lot) (_of) (_seat) (_in) (_back) (_and) (_everyone) (_who) (_work) (_there) (_be) (_so) (_nice) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_it) (_get) (_crowd) (_at) (_lunchtime) (_but) (_there) (_be) (_lot) (_of) (_seat) (_in) (_back) (_and) (_everyone) (_who) (_work) (_there) (_be) (_so) (_nice) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_but) (_for) (_the) (_value) (_,) (_it) (_be) (_a) (_great) (_affordable) (_spot) (_to) (_enjoy) (_a) (_fun) (_night) (_out) (_with) (_small) (_group) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_but) (_for) (_the) (_value) (_,) (_it) (_be) (_a) (_great) (_affordable) (_spot) (_to) (_enjoy) (_a) (_fun) (_night) (_out) (_with) (_small) (_group) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_negative) (_review) (_on) (_city) (_search) (_be) (_probably) (_from) (_jealous) (_compete) (_restaurant) (_who) (_realize) (_they) (_can) (_not) (_compete) (_with) (_temple) (_'s) (_entire) (_positive) (_attitude) (_about) (_the) (_proper) (_way) (_to) (_treat) (_they) (_customer) (_and) (_deliver) (_top) (_quality) (_food) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_negative) (_review) (_on) (_city) (_search) (_be) (_probably) (_from) (_jealous) (_compete) (_restaurant) (_who) (_realize) (_they) (_can) (_not) (_compete) (_with) (_temple) (_'s) (_entire) (_positive) (_attitude) (_about) (_the) (_proper) (_way) (_to) (_treat) (_they) (_customer) (_and) (_deliver) (_top) (_quality) (_food) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_we) (_order) (_a) (_glass) (_of) (_wine) (_and) (_be) (_finish) (_eating) (_and) (_pay) (_before) (_the) (_wine) (_come) (_.) |ESQ|
+neutral  |BSQ:SEQUENCE| (_we) (_order) (_a) (_glass) (_of) (_wine) (_and) (_be) (_finish) (_eating) (_and) (_pay) (_before) (_the) (_wine) (_come) (_.) |ESQ|
+conflict  |BSQ:SEQUENCE| (_it) (_be) (_good) (_,) (_but) (_none) (_of) (_the) (_flavor) (_wow) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_overall) (_,) (_this) (_be) (_a) (_nice) (_place) (_to) (_take) (_a) (_few) (_friend) (_to) (_hang) (_out) (_at) (_and) (_the) (_service) (_be) (_excellent) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_overall) (_,) (_this) (_be) (_a) (_nice) (_place) (_to) (_take) (_a) (_few) (_friend) (_to) (_hang) (_out) (_at) (_and) (_the) (_service) (_be) (_excellent) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_i) (_have) (_be) (_come) (_here) (_on) (_and) (_off) (_for) (_the) (_past) (_@card@) (_year) (_and) (_i) (_have) (_to) (_say) (_that) (_la) (_lanterna) (_have) (_never) (_,) (_ever) (_dissapoint) (_i) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_food) (_be) (_excellent) (_quality) (_for) (_a) (_good) (_restaurant) (_price) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_food) (_be) (_excellent) (_quality) (_for) (_a) (_good) (_restaurant) (_price) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_actually) (_,) (_everyone) (_who) (_work) (_there) (_seem) (_to) (_be) (_annoy) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_for) (_about) (_eleven) (_buck) (_you) (_get) (_a) (_gigantic) (_burrito) (_-lrb-) (_or) (_taco) (_-rrb-) (_,) (_margarita) (_,) (_and) (_dessert) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_for) (_about) (_eleven) (_buck) (_you) (_get) (_a) (_gigantic) (_burrito) (_-lrb-) (_or) (_taco) (_-rrb-) (_,) (_margarita) (_,) (_and) (_dessert) (_.) |ESQ|
+neutral  |BSQ:SEQUENCE| (_the) (_space) (_be) (_traditional) (_in) (_feel) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_the) (_restaurant) (_be) (_completely) (_empty) (_,) (_but) (_she) (_give) (_i) (_a) (_dirty) (_look) (_and) (_ask) (_,) (_no) (_reservation) (_?) |ESQ|
+negative  |BSQ:SEQUENCE| (_the) (_food) (_be) (_mediocre) (_to) (_be) (_kind) (_-) (_the) (_interior) (_be) (_small) (_and) (_average) (_-) (_the) (_owner) (_be) (_a) (_tag-team) (_of) (_unpleasantry) (_-) (_so) (_rude) (_and) (_snotty) (_i) (_actually) (_let) (_out) (_a) (_hearty) (_guffaw) (_whilst) (_dining) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_the) (_food) (_be) (_mediocre) (_to) (_be) (_kind) (_-) (_the) (_interior) (_be) (_small) (_and) (_average) (_-) (_the) (_owner) (_be) (_a) (_tag-team) (_of) (_unpleasantry) (_-) (_so) (_rude) (_and) (_snotty) (_i) (_actually) (_let) (_out) (_a) (_hearty) (_guffaw) (_whilst) (_dining) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_the) (_food) (_be) (_mediocre) (_to) (_be) (_kind) (_-) (_the) (_interior) (_be) (_small) (_and) (_average) (_-) (_the) (_owner) (_be) (_a) (_tag-team) (_of) (_unpleasantry) (_-) (_so) (_rude) (_and) (_snotty) (_i) (_actually) (_let) (_out) (_a) (_hearty) (_guffaw) (_whilst) (_dining) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_good) (_service) (_,) (_great) (_food) (_,) (_good) (_value) (_,) (_and) (_never) (_have) (_to) (_wait) (_in) (_line) (_!) |ESQ|
+positive  |BSQ:SEQUENCE| (_good) (_service) (_,) (_great) (_food) (_,) (_good) (_value) (_,) (_and) (_never) (_have) (_to) (_wait) (_in) (_line) (_!) |ESQ|
+positive  |BSQ:SEQUENCE| (_good) (_service) (_,) (_great) (_food) (_,) (_good) (_value) (_,) (_and) (_never) (_have) (_to) (_wait) (_in) (_line) (_!) |ESQ|
+neutral  |BSQ:SEQUENCE| (_offering) (_like) (_hot) (_cake) (_and) (_the) (_egg) (_mcmuffin) (_sandwich) (_be) (_available) (_for) (_breakfast) (_.) |ESQ|
+neutral  |BSQ:SEQUENCE| (_i) (_have) (_be) (_go) (_to) (_this) (_restaurant) (_for) (_year) (_,) (_in) (_the) (_past) (_the) (_service) (_be) (_average) (_and) (_the) (_food) (_inconsistant) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_i) (_have) (_be) (_go) (_to) (_this) (_restaurant) (_for) (_year) (_,) (_in) (_the) (_past) (_the) (_service) (_be) (_average) (_and) (_the) (_food) (_inconsistant) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_music) (_be) (_fascinating) (_,) (_but) (_leave) (_room) (_for) (_conversation) (_,) (_and) (_the) (_bartender) (_make) (_superb) (_drink) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_music) (_be) (_fascinating) (_,) (_but) (_leave) (_room) (_for) (_conversation) (_,) (_and) (_the) (_bartender) (_make) (_superb) (_drink) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_great) (_food) (_,) (_great) (_waitstaff) (_,) (_great) (_atmosphere) (_,) (_and) (_best) (_of) (_all) (_great) (_beer) (_!) |ESQ|
+positive  |BSQ:SEQUENCE| (_great) (_food) (_,) (_great) (_waitstaff) (_,) (_great) (_atmosphere) (_,) (_and) (_best) (_of) (_all) (_great) (_beer) (_!) |ESQ|
+positive  |BSQ:SEQUENCE| (_great) (_food) (_,) (_great) (_waitstaff) (_,) (_great) (_atmosphere) (_,) (_and) (_best) (_of) (_all) (_great) (_beer) (_!) |ESQ|
+positive  |BSQ:SEQUENCE| (_rice) (_dish) (_and) (_noodle) (_dish) (_rarely) (_exceed) (_$) (_@card@) (_and) (_add) (_on) (_a) (_refreshing) (_ice) (_drink) (_for) (_$) (_@card@) (_and) (_you) (_be) (_set) (_for) (_the) (_night) (_!) |ESQ|
+positive  |BSQ:SEQUENCE| (_rice) (_dish) (_and) (_noodle) (_dish) (_rarely) (_exceed) (_$) (_@card@) (_and) (_add) (_on) (_a) (_refreshing) (_ice) (_drink) (_for) (_$) (_@card@) (_and) (_you) (_be) (_set) (_for) (_the) (_night) (_!) |ESQ|
+negative  |BSQ:SEQUENCE| (_cuisine) (_be) (_bill) (_as) (_asian) (_fusion) (_-) (_do) (_not) (_meet) (_the) (_bill) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_cuisine) (_be) (_bill) (_as) (_asian) (_fusion) (_-) (_do) (_not) (_meet) (_the) (_bill) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_creative) (_dish) (_like) (_king) (_crab) (_salad) (_with) (_passion) (_fruit) (_vinaigrette) (_and) (_fettuccine) (_with) (_grilled) (_seafood) (_in) (_a) (_rosemary-orange) (_sauce) (_be) (_unexpected) (_element) (_on) (_a) (_otherwise) (_predictable) (_bistro) (_menu) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_dish) (_denote) (_as) (_``) (_roy) (_'s) (_classic) (_'') (_-lrb-) (_mark) (_on) (_the) (_menu) (_with) (_asterisk) (_-rrb-) (_be) (_tried-and-true) (_recipe) (_,) (_such) (_as) (_macadamia-crusted) (_mahus) (_mahus) (_,) (_or) (_subtly) (_sweet) (_honey-mustard) (_beef) (_short) (_rib) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_cold) (_sesame) (_noodle) (_,) (_which) (_be) (_a) (_freebie) (_when) (_you) (_order) (_$) (_@card@) (_+) (_,) (_be) (_delectable) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_cold) (_sesame) (_noodle) (_,) (_which) (_be) (_a) (_freebie) (_when) (_you) (_order) (_$) (_@card@) (_+) (_,) (_be) (_delectable) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_i) (_come) (_to) (_fresh) (_expect) (_a) (_great) (_meal) (_,) (_and) (_all) (_i) (_get) (_be) (_marginally) (_so-so) (_food) (_serve) (_in) (_a) (_restaurant) (_that) (_be) (_just) (_so) (_freezing) (_we) (_could) (_not) (_enjoy) (_eat) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_i) (_come) (_to) (_fresh) (_expect) (_a) (_great) (_meal) (_,) (_and) (_all) (_i) (_get) (_be) (_marginally) (_so-so) (_food) (_serve) (_in) (_a) (_restaurant) (_that) (_be) (_just) (_so) (_freezing) (_we) (_could) (_not) (_enjoy) (_eat) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_the) (_lone) (_argentine) (_chorizo) (_appetizer) (_at) (_$) (_@card@) (_be) (_a) (_heavy) (_fennel) (_flavored) (_italian) (_sausage) (_like) (_the) (_one) (_that) (_sell) (_for) (_$) (_@card@) (_/) (_lb) (_at) (_the) (_store) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_the) (_lone) (_argentine) (_chorizo) (_appetizer) (_at) (_$) (_@card@) (_be) (_a) (_heavy) (_fennel) (_flavored) (_italian) (_sausage) (_like) (_the) (_one) (_that) (_sell) (_for) (_$) (_@card@) (_/) (_lb) (_at) (_the) (_store) (_.) |ESQ|
+conflict  |BSQ:SEQUENCE| (_i) (_go) (_to) (_swifty) (_with) (_some) (_friend) (_of) (_the) (_family) (_and) (_we) (_have) (_a) (_very) (_nice) (_dinner) (_,) (_but) (_nothing) (_amazing) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_best) (_chinese) (_on) (_the) (_upper) (_east) (_,) (_prompt) (_delivery) (_,) (_good) (_value) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_best) (_chinese) (_on) (_the) (_upper) (_east) (_,) (_prompt) (_delivery) (_,) (_good) (_value) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_best) (_chinese) (_on) (_the) (_upper) (_east) (_,) (_prompt) (_delivery) (_,) (_good) (_value) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_most) (_of) (_the) (_sandwich) (_be) (_make) (_with) (_soy) (_mayonaise) (_which) (_be) (_actually) (_pretty) (_good) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_this) (_be) (_still) (_@card@) (_of) (_my) (_most) (_favorite) (_restaurant) (_in) (_the) (_area) (_the) (_food) (_be) (_inexpensive) (_but) (_very) (_good) (_-lrb-) (_kimono) (_shrimp) (_special) (_be) (_excellent) (_-rrb-) (_and) (_have) (_a) (_great) (_atmosphere) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_this) (_be) (_still) (_@card@) (_of) (_my) (_most) (_favorite) (_restaurant) (_in) (_the) (_area) (_the) (_food) (_be) (_inexpensive) (_but) (_very) (_good) (_-lrb-) (_kimono) (_shrimp) (_special) (_be) (_excellent) (_-rrb-) (_and) (_have) (_a) (_great) (_atmosphere) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_this) (_be) (_still) (_@card@) (_of) (_my) (_most) (_favorite) (_restaurant) (_in) (_the) (_area) (_the) (_food) (_be) (_inexpensive) (_but) (_very) (_good) (_-lrb-) (_kimono) (_shrimp) (_special) (_be) (_excellent) (_-rrb-) (_and) (_have) (_a) (_great) (_atmosphere) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_i) (_go) (_in) (_@card@) (_day) (_ask) (_for) (_a) (_table) (_for) (_a) (_group) (_and) (_be) (_greet) (_by) (_a) (_very) (_rude) (_hostess) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_it) (_be) (_worthwhile) (_to) (_take) (_a) (_cab) (_to) (_chelsea) (_just) (_for) (_a) (_awesome) (_dinner) (_at) (_my) (_chelsea) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_not) (_only) (_be) (_the) (_food) (_authentic) (_,) (_but) (_the) (_staff) (_here) (_be) (_practically) (_off-the-boat) (_,) (_they) (_be) (_young) (_and) (_hip) (_and) (_know) (_what) (_they) (_be) (_do) (_when) (_it) (_come) (_to) (_food) (_and) (_wine) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_not) (_only) (_be) (_the) (_food) (_authentic) (_,) (_but) (_the) (_staff) (_here) (_be) (_practically) (_off-the-boat) (_,) (_they) (_be) (_young) (_and) (_hip) (_and) (_know) (_what) (_they) (_be) (_do) (_when) (_it) (_come) (_to) (_food) (_and) (_wine) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_it) (_have) (_good) (_music) (_,) (_nice) (_tapa) (_,) (_a) (_interesting) (_selection) (_of) (_wine) (_-lrb-) (_primarily) (_spanish) (_-rrb-) (_and) (_a) (_lowkey) (_hip) (_neighborhood) (_clientele) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_it) (_have) (_good) (_music) (_,) (_nice) (_tapa) (_,) (_a) (_interesting) (_selection) (_of) (_wine) (_-lrb-) (_primarily) (_spanish) (_-rrb-) (_and) (_a) (_lowkey) (_hip) (_neighborhood) (_clientele) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_food) (_be) (_great) (_,) (_i) (_love) (_they) (_dumpling) (_,) (_cold) (_sesame) (_noodle) (_,) (_chicken) (_and) (_shrimp) (_dish) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_and) (_the) (_food) (_,) (_well) (_the) (_food) (_will) (_keep) (_you) (_come) (_back) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_wait) (_@card@) (_hour) (_before) (_get) (_we) (_entree) (_be) (_a) (_treat) (_as) (_well) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_it) (_be) (_the) (_conversation) (_that) (_make) (_this) (_a) (_fun) (_place) (_to) (_be) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_my) (_gf) (_'s) (_duck) (_confitte) (_be) (_very) (_solid) (_as) (_well) (_,) (_although) (_i) (_have) (_little) (_base) (_of) (_reference) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_wine) (_list) (_be) (_superb) (_,) (_we) (_tapa) (_delightful) (_,) (_and) (_the) (_quiet) (_atmosphere) (_perfect) (_for) (_good) (_conversation) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_wine) (_list) (_be) (_superb) (_,) (_we) (_tapa) (_delightful) (_,) (_and) (_the) (_quiet) (_atmosphere) (_perfect) (_for) (_good) (_conversation) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_my) (_husband) (_and) (_i) (_move) (_to) (_nolita) (_@card@) (_year) (_ago) (_and) (_for) (_as) (_long) (_as) (_we) (_have) (_live) (_here) (_,) (_peasant) (_have) (_be) (_we) (_favorite) (_!) |ESQ|
+positive  |BSQ:SEQUENCE| (_you) (_can) (_eat) (_gourmet) (_food) (_at) (_a) (_fast) (_food) (_price) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_you) (_can) (_eat) (_gourmet) (_food) (_at) (_a) (_fast) (_food) (_price) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_i) (_have) (_eat) (_at) (_all) (_@card@) (_location) (_and) (_i) (_always) (_love) (_,) (_love) (_the) (_food) (_,) (_the) (_service) (_be) (_always) (_wonderful) (_and) (_the) (_price) (_be) (_really) (_reasonable) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_i) (_have) (_eat) (_at) (_all) (_@card@) (_location) (_and) (_i) (_always) (_love) (_,) (_love) (_the) (_food) (_,) (_the) (_service) (_be) (_always) (_wonderful) (_and) (_the) (_price) (_be) (_really) (_reasonable) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_i) (_have) (_eat) (_at) (_all) (_@card@) (_location) (_and) (_i) (_always) (_love) (_,) (_love) (_the) (_food) (_,) (_the) (_service) (_be) (_always) (_wonderful) (_and) (_the) (_price) (_be) (_really) (_reasonable) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_not) (_because) (_i) (_be) (_pregnant) (_,) (_but) (_the) (_food) (_here) (_be) (_always) (_delicious) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_have) (_a) (_great) (_meal) (_there) (_this) (_weekend) (_before) (_head) (_to) (_the) (_movie) (_!) |ESQ|
+positive  |BSQ:SEQUENCE| (_we) (_have) (_a) (_birthday) (_party) (_here) (_recently) (_and) (_the) (_food) (_and) (_service) (_be) (_amazing) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_we) (_have) (_a) (_birthday) (_party) (_here) (_recently) (_and) (_the) (_food) (_and) (_service) (_be) (_amazing) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_dinner) (_menu) (_offer) (_a) (_variety) (_of) (_great) (_entree) (_,) (_include) (_fresh) (_seafood) (_and) (_huge) (_steak) (_,) (_there) (_be) (_also) (_a) (_couple) (_of) (_non-meat) (_alternative) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_this) (_place) (_have) (_the) (_strangest) (_menu) (_and) (_the) (_restaurant) (_try) (_too) (_hard) (_to) (_make) (_fancy) (_food) (_.) |ESQ|
+neutral  |BSQ:SEQUENCE| (_the) (_appetizer) (_be) (_ok) (_,) (_but) (_the) (_service) (_be) (_slow) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_the) (_appetizer) (_be) (_ok) (_,) (_but) (_the) (_service) (_be) (_slow) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_the) (_food) (_-) (_not) (_worth) (_the) (_price) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_the) (_food) (_-) (_not) (_worth) (_the) (_price) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_what) (_can) (_you) (_say) (_about) (_a) (_place) (_where) (_the) (_waitress) (_bring) (_out) (_the) (_wrong) (_entree) (_,) (_then) (_verbally) (_assault) (_you) (_@card@) (_year) (_old) (_grandmother) (_and) (_give) (_she) (_lip) (_about) (_send) (_it) (_back) (_-lrb-) (_which) (_she) (_do) (_politely) (_,) (_by) (_the) (_way) (_-rrb-) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_straight-forward) (_,) (_no) (_surprise) (_,) (_very) (_decent) (_japanese) (_food) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_whole) (_experience) (_be) (_satisfy) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_price) (_be) (_not) (_terrible) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_@card@) (_%) (_gratuity) (_automatically) (_add) (_to) (_the) (_bill) (_.) |ESQ|
+conflict  |BSQ:SEQUENCE| (_the) (_halibut) (_cheek) (_appetizer) (_come) (_with) (_a) (_generous) (_portion) (_of) (_foie) (_gras) (_,) (_but) (_that) (_be) (_about) (_the) (_only) (_positive) (_thing) (_i) (_can) (_say) (_about) (_the) (_meal) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_food) (_be) (_excellent) (_and) (_they) (_also) (_have) (_empenada) (_and) (_plaintain) (_which) (_be) (_good) (_for) (_a) (_afternoon) (_snack) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_both) (_a) (_number) (_of) (_the) (_appetizer) (_and) (_pasta) (_special) (_be) (_amazing) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_all-time) (_favorite) (_include) (_the) (_big) (_mac) (_,) (_chicken) (_mcnuggets) (_,) (_filet-o-fish) (_sandwich) (_and) (_mcdonald) (_'s) (_famous) (_french) (_fries) (_;) (_lighter) (_option) (_like) (_entree-sized) (_salad) (_be) (_also) (_available) (_.) |ESQ|
+conflict  |BSQ:SEQUENCE| (_although) (_somewhat) (_loud) (_,) (_the) (_noise) (_be) (_minimally) (_intrusive) (_.) |ESQ|
+neutral  |BSQ:SEQUENCE| (_it) (_be) (_a) (_basic) (_pizza) (_joint) (_,) (_not) (_much) (_to) (_look) (_at) (_,) (_but) (_the) (_pizza) (_be) (_what) (_i) (_go) (_for) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_it) (_be) (_a) (_basic) (_pizza) (_joint) (_,) (_not) (_much) (_to) (_look) (_at) (_,) (_but) (_the) (_pizza) (_be) (_what) (_i) (_go) (_for) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_table) (_be) (_close) (_,) (_so) (_you) (_better) (_be) (_comfortable) (_bump) (_elbow) (_with) (_other) (_patron) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_be) (_she) (_monday) (_for) (_lunch) (_-) (_be) (_work) (_on) (_a) (_film) (_in) (_the) (_area) (_-) (_and) (_find) (_this) (_rare) (_jewel) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_however) (_,) (_it) (_be) (_worth) (_the) (_visit) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_not) (_too) (_much) (_so) (_,) (_but) (_enough) (_that) (_there) (_be) (_a) (_great) (_scene) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_you) (_feel) (_like) (_you) (_make) (_it) (_to) (_new) (_york) (_when) (_you) (_eat) (_here) (_.) |ESQ|
+neutral  |BSQ:SEQUENCE| (_we) (_would) (_walk) (_by) (_it) (_dozen) (_of) (_time) (_and) (_finally) (_settle) (_on) (_a) (_monday) (_night) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_sum) (_it) (__) (_do) (_not) (_read) (_the) (_') (_@card@) (_'s) (_') (_review) (_,) (_try) (_it) (_to) (_judge) (_for) (_yourself) (_so) (_you) (_will) (_not) (_have) (_as) (_hi) (_expectation) (_,) (_then) (_you) (_'ll) (_be) (_sure) (_to) (_enjoy) (_it) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_we) (_go) (_there) (_,) (_no) (_one) (_greet) (_we) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_dig) (_the) (_blue) (_bar) (_area) (_too) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_we) (_spend) (_so) (_much) (_time) (_get) (_elbow) (_around) (_while) (_we) (_wait) (_we) (_leave) (_.) |ESQ|
+neutral  |BSQ:SEQUENCE| (_i) (_get) (_the) (_opportunity) (_to) (_dine) (_at) (_you) (_establishment) (_again) (_a) (_few) (_week) (_ago) (_,) (_i) (_be) (_in) (_you) (_upstrair) (_dine) (_area) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_meat-phobe) (_be) (_in) (_luck) (_with) (_the) (_extraordinary) (_veggie) (_burger) (_,) (_make) (_from) (_a) (_distinctive) (_blend) (_of) (_chickpea) (_,) (_carrot) (_and) (_other) (_vegetable) (_and) (_spice) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_at) (_peak) (_time) (_,) (_the) (_restaurant) (_be) (_overcrowded) (_and) (_table) (_be) (_uncomfortably) (_close) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_menu) (_be) (_interesting) (_and) (_quite) (_reasonably) (_price) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_menu) (_be) (_interesting) (_and) (_quite) (_reasonably) (_price) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_service) (_be) (_on) (_point) (_-) (_what) (_else) (_you) (_would) (_expect) (_from) (_a) (_ritz) (_?) |ESQ|
+neutral  |BSQ:SEQUENCE| (_menus) (_feature) (_seasonal) (_pick) (_,) (_like) (_sweet) (_corn-foie) (_gras) (_brulee) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_innovation) (_be) (_just) (_as) (_assure) (_,) (_from) (_the) (_simple) (_carinthia) (_cheese) (_ravioli) (_with) (_wild) (_mushroom) (_to) (_the) (_caviar-topped) (_sturgeon) (_,) (_beautifully) (_match) (_with) (_a) (_bright) (_green) (_spinach-vodka) (_sauce) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_and) (_these) (_be) (_not) (_small) (_,) (_wimpy) (_fast) (_food) (_type) (_burger) (_-) (_these) (_be) (_real) (_,) (_full) (_size) (_patty) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_there) (_restaurant) (_be) (_very) (_casual) (_,) (_but) (_perfect) (_for) (_lunch) (_,) (_and) (_they) (_delivery) (_service) (_be) (_always) (_very) (_fast) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_there) (_restaurant) (_be) (_very) (_casual) (_,) (_but) (_perfect) (_for) (_lunch) (_,) (_and) (_they) (_delivery) (_service) (_be) (_always) (_very) (_fast) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_chinatown) (_definitely) (_have) (_better) (_quality) (_with) (_cheaper) (_price) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_chinatown) (_definitely) (_have) (_better) (_quality) (_with) (_cheaper) (_price) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_i) (_have) (_to) (_flag) (_down) (_a) (_third) (_staff) (_person) (_for) (_a) (_fork) (_...) (_so) (_now) (_it) (_be) (_goodbye) (_little) (_rude) (_pie) (_company) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_i) (_have) (_be) (_in) (_nyc) (_for) (_over) (_@card@) (_year) (_and) (_could) (_not) (_find) (_this) (_delicacy) (_east) (_of) (_the) (_hudson) (_.) |ESQ|
+conflict  |BSQ:SEQUENCE| (_go) (_with) (_the) (_special) (_,) (_and) (_stay) (_away) (_from) (_the) (_salmon) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_pasta) (_be) (_pretty) (_good) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_food) (_be) (_delicious) (_and) (_clearly) (_fresh) (_ingredient) (_be) (_use) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_atmosphere) (_be) (_a) (_bear) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_decor) (_be) (_what) (_initially) (_get) (_i) (_in) (_the) (_door) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_wait) (_staff) (_be) (_very) (_attentive) (_and) (_polite) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_great) (_restaurant) (_,) (_and) (_even) (_greater) (_food) (_!) |ESQ|
+positive  |BSQ:SEQUENCE| (_great) (_restaurant) (_,) (_and) (_even) (_greater) (_food) (_!) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_dish) (_be) (_remarkably) (_tasty) (_and) (_such) (_a) (_cozy) (_and) (_intimate) (_place) (_!) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_dish) (_be) (_remarkably) (_tasty) (_and) (_such) (_a) (_cozy) (_and) (_intimate) (_place) (_!) |ESQ|
+positive  |BSQ:SEQUENCE| (_save) (_room) (_for) (_the) (_dessert) (_!) (_;) (_-) (_-rrb-) |ESQ|
+positive  |BSQ:SEQUENCE| (_i) (_love) (_the) (_simplicity) (_and) (_respect) (_which) (_be) (_give) (_to) (_the) (_food) (_,) (_as) (_well) (_the) (_staff) (_be) (_freindly) (_and) (_knowledgable) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_i) (_love) (_the) (_simplicity) (_and) (_respect) (_which) (_be) (_give) (_to) (_the) (_food) (_,) (_as) (_well) (_the) (_staff) (_be) (_freindly) (_and) (_knowledgable) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_service) (_be) (_good) (_and) (_so) (_be) (_the) (_atmosphere) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_service) (_be) (_good) (_and) (_so) (_be) (_the) (_atmosphere) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_my) (_date) (_and) (_i) (_both) (_order) (_the) (_branzini) (_and) (_both) (_feel) (_the) (_fish) (_be) (_very) (_average) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_we) (_be) (_there) (_march) (_@card@) (_and) (_find) (_maison) (_very) (_nice) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_this) (_make) (_it) (_obvious) (_that) (_the) (_food) (_be) (_not) (_cook) (_fresh) (_;) (_it) (_be) (_obviously) (_make) (_before) (_hand) (_and) (_then) (_reheat) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_food) (_be) (_good) (_,) (_the) (_service) (_prompt) (_,) (_and) (_the) (_price) (_very) (_reasonable) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_food) (_be) (_good) (_,) (_the) (_service) (_prompt) (_,) (_and) (_the) (_price) (_very) (_reasonable) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_food) (_be) (_good) (_,) (_the) (_service) (_prompt) (_,) (_and) (_the) (_price) (_very) (_reasonable) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_wonderful) (_menu) (_,) (_warm) (_invite) (_ambiance) (_,) (_great) (_service) (_the) (_food) (_keep) (_i) (_come) (_back) (_!) |ESQ|
+positive  |BSQ:SEQUENCE| (_wonderful) (_menu) (_,) (_warm) (_invite) (_ambiance) (_,) (_great) (_service) (_the) (_food) (_keep) (_i) (_come) (_back) (_!) |ESQ|
+positive  |BSQ:SEQUENCE| (_wonderful) (_menu) (_,) (_warm) (_invite) (_ambiance) (_,) (_great) (_service) (_the) (_food) (_keep) (_i) (_come) (_back) (_!) |ESQ|
+positive  |BSQ:SEQUENCE| (_great) (_food) (_,) (_good) (_wine) (_and) (_a) (_excellent) (_host) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_great) (_food) (_,) (_good) (_wine) (_and) (_a) (_excellent) (_host) (_.) |ESQ|
+neutral  |BSQ:SEQUENCE| (_go) (_there) (_last) (_night) (_with) (_my) (_coworker) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_pizzas) (_be) (_excellent) (_in) (_addition) (_to) (_appetizer) (_and) (_main) (_course) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_definitely) (_try) (_the) (_calamarus) (_,) (_any) (_pasta) (_,) (_or) (_even) (_the) (_sliced) (_steak) (_entree) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_caeser) (_salad) (_be) (_great) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_fried) (_calamarus) (_be) (_even) (_better) (_!) |ESQ|
+conflict  |BSQ:SEQUENCE| (_the) (_atmosphere) (_be) (_nice) (_but) (_it) (_be) (_a) (_little) (_too) (_dark) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_food) (_be) (_good) (_overall) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_appetizer) (_be) (_excellent) (_here) (_;) (_you) (_can) (_make) (_a) (_great) (_-lrb-) (_and) (_inexpensive) (_-rrb-) (_meal) (_out) (_of) (_they) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_appetizer) (_be) (_excellent) (_here) (_;) (_you) (_can) (_make) (_a) (_great) (_-lrb-) (_and) (_inexpensive) (_-rrb-) (_meal) (_out) (_of) (_they) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_food) (_be) (_outstanding) (_and) (_the) (_service) (_be) (_top) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_food) (_be) (_outstanding) (_and) (_the) (_service) (_be) (_top) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_portion) (_be) (_very) (_large) (_and) (_the) (_service) (_be) (_fantastic) (_!!) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_portion) (_be) (_very) (_large) (_and) (_the) (_service) (_be) (_fantastic) (_!!) |ESQ|
+positive  |BSQ:SEQUENCE| (_i) (_recomend) (_the) (_chicken) (_milanese) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_excellent) (_tapa) (_at) (_great) (_price) (_,) (_romantic) (_,) (_small) (_but) (_not) (_overly) (_crow) (_,) (_excellent) |ESQ|
+positive  |BSQ:SEQUENCE| (_excellent) (_tapa) (_at) (_great) (_price) (_,) (_romantic) (_,) (_small) (_but) (_not) (_overly) (_crow) (_,) (_excellent) |ESQ|
+positive  |BSQ:SEQUENCE| (_excellent) (_tapa) (_at) (_great) (_price) (_,) (_romantic) (_,) (_small) (_but) (_not) (_overly) (_crow) (_,) (_excellent) |ESQ|
+conflict  |BSQ:SEQUENCE| (_the) (_service) (_be) (_a) (_quite) (_slow) (_,) (_but) (_friendly) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_chocolate) (_raspberry) (_cake) (_be) (_heavenly) (_-) (_not) (_too) (_sweet) (_,) (_but) (_full) (_of) (_flavor) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_we) (_waiter) (_be) (_helpful) (_and) (_charming) (_,) (_the) (_food) (_be) (_perfect) (_,) (_and) (_the) (_wine) (_be) (_good) (_,) (_too) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_we) (_waiter) (_be) (_helpful) (_and) (_charming) (_,) (_the) (_food) (_be) (_perfect) (_,) (_and) (_the) (_wine) (_be) (_good) (_,) (_too) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_alias) (_be) (_warm) (_and) (_cozy) (_and) (_you) (_do) (_not) (_get) (_that) (_squished-in) (_feeling) (_you) (_get) (_at) (_@card@) (_clinton) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_i) (_have) (_never) (_have) (_a) (_bad) (_meal) (_-lrb-) (_or) (_bad) (_service) (_-rrb-) (_@) (_pigalle) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_i) (_have) (_never) (_have) (_a) (_bad) (_meal) (_-lrb-) (_or) (_bad) (_service) (_-rrb-) (_@) (_pigalle) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_best) (_hot) (_dog) (_in) (_the) (_tri-state) (_area) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_spicy) (_mussel) (_be) (_a) (_highlight) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_this) (_be) (_a) (_typical) (_example) (_of) (_a) (_establishment) (_in) (_which) (_its) (_owner) (_do) (_not) (_know) (_anything) (_about) (_the) (_restaurant) (_business) (_!) |ESQ|
+negative  |BSQ:SEQUENCE| (_i) (_would) (_not) (_recommend) (_meet) (_at) (_all) (_,) (_it) (_be) (_a) (_rip) (_off) (_all) (_the) (_way) (_from) (_the) (_time) (_to) (_step) (_in) (_!) |ESQ|
+neutral  |BSQ:SEQUENCE| (_go) (_there) (_for) (_a) (_special) (_celebration) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_restaurant) (_be) (_quiet) (_and) (_intimate) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_service) (_be) (_very) (_attentive) (_and) (_very) (_generous) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_we) (_have) (_ton) (_of) (_great) (_food) (_,) (_wine) (_,) (_and) (_dessert) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_really) (_lovely) (_dining) (_experience) (_in) (_the) (_midst) (_of) (_buzz) (_midtown) (_area) (_.) |ESQ|
+neutral  |BSQ:SEQUENCE| (_ok) (_,) (_i) (_have) (_be) (_to) (_dumont) (_a) (_few) (_time) (_now) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_the) (_food) (_really) (_be) (_not) (_very) (_good) (_and) (_the) (_service) (_be) (_terrible) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_the) (_food) (_really) (_be) (_not) (_very) (_good) (_and) (_the) (_service) (_be) (_terrible) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_maybe) (_it) (_be) (_that) (_most) (_of) (_dumont) (_'s) (_patron) (_be) (_younger) (_and) (_have) (_lower) (_expectation) (_,) (_but) (_i) (_can) (_not) (_recommend) (_dumont) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_also) (_get) (_the) (_onion) (_rings) (_--) (_best) (_we) (_have) (_ever) (_have) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_not) (_only) (_do) (_they) (_have) (_the) (_best) (_escargot) (_in) (_town) (_,) (_they) (_always) (_try) (_to) (_accomodate) (_we) (_toddler) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_not) (_only) (_do) (_they) (_have) (_the) (_best) (_escargot) (_in) (_town) (_,) (_they) (_always) (_try) (_to) (_accomodate) (_we) (_toddler) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_i) (_have) (_be) (_to) (_sotto) (_voce) (_several) (_time) (_,) (_and) (_i) (_have) (_to) (_say) (_this) (_@card@) (_place) (_that) (_hit) (_the) (_nail) (_right) (_on) (_the) (_head) (_ever) (_time) (_!) |ESQ|
+positive  |BSQ:SEQUENCE| (_between) (_my) (_guest) (_and) (_i) (_,) (_we) (_sample) (_at) (_least) (_@card@) (_%) (_of) (_the) (_menu) (_,) (_and) (_they) (_be) (_all) (_hit) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_deco) (_and) (_ambiance) (_be) (_really) (_romantic) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_this) (_be) (_the) (_best) (_unknown) (_restaurant) (_in) (_and) (_around) (_new) (_york) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_just) (_go) (_in) (_and) (_sample) (_the) (_greatest) (_french) (_food) (_west) (_of) (_daniel) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_for) (_someone) (_who) (_use) (_to) (_hate) (_indian) (_food) (_,) (_baluchi) (_'s) (_have) (_change) (_my) (_mid) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_finally) (_a) (_curry) (_that) (_i) (_can) (_eat) (_,) (_enjoy) (_and) (_not) (_suffer) (_from) (_gastritis) (_from) (_@card@) (_hour) (_later) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_all) (_be) (_great) (_-) (_poorus) (_,) (_naan) (_,) (_paratha) (_all) (_fresh) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_try) (_the) (_homemade) (_bread) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_would) (_not) (_return) (_for) (_the) (_amount) (_we) (_pay) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_this) (_place) (_have) (_beautiful) (_sushi) (_,) (_and) (_it) (_be) (_delicious) (_cheap) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_this) (_place) (_have) (_beautiful) (_sushi) (_,) (_and) (_it) (_be) (_delicious) (_cheap) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_it) (_also) (_have) (_lot) (_of) (_other) (_korean) (_dish) (_that) (_be) (_affordable) (_and) (_just) (_as) (_yummy) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_it) (_also) (_have) (_lot) (_of) (_other) (_korean) (_dish) (_that) (_be) (_affordable) (_and) (_just) (_as) (_yummy) (_.) |ESQ|
+neutral  |BSQ:SEQUENCE| (_i) (_go) (_for) (_restaurant) (_week) (_and) (_order) (_off) (_the) (_prix) (_fixe) (_menu) |ESQ|
+positive  |BSQ:SEQUENCE| (_not) (_only) (_be) (_the) (_waiter) (_efficient) (_and) (_courteous) (_,) (_but) (_also) (_extremely) (_helpful) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_it) (_take) (_a) (_bigger) (_bite) (_from) (_my) (_wallet) (_than) (_my) (_appetite) (_-) (_i) (_would) (_not) (_reccomend) (_this) (_to) (_anyone) (_that) (_i) (_would) (_want) (_to) (_talk) (_to) (_i) (_again) (_!!) |ESQ|
+negative  |BSQ:SEQUENCE| (_it) (_take) (_a) (_bigger) (_bite) (_from) (_my) (_wallet) (_than) (_my) (_appetite) (_-) (_i) (_would) (_not) (_reccomend) (_this) (_to) (_anyone) (_that) (_i) (_would) (_want) (_to) (_talk) (_to) (_i) (_again) (_!!) |ESQ|
+negative  |BSQ:SEQUENCE| (_it) (_take) (_a) (_bigger) (_bite) (_from) (_my) (_wallet) (_than) (_my) (_appetite) (_-) (_i) (_would) (_not) (_reccomend) (_this) (_to) (_anyone) (_that) (_i) (_would) (_want) (_to) (_talk) (_to) (_i) (_again) (_!!) |ESQ|
+positive  |BSQ:SEQUENCE| (_this) (_place) (_be) (_classy) (_,) (_chic) (_,) (_the) (_service) (_be) (_warm) (_and) (_hospitable) (_,) (_and) (_the) (_food) (_be) (_outstanding) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_this) (_place) (_be) (_classy) (_,) (_chic) (_,) (_the) (_service) (_be) (_warm) (_and) (_hospitable) (_,) (_and) (_the) (_food) (_be) (_outstanding) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_this) (_place) (_be) (_classy) (_,) (_chic) (_,) (_the) (_service) (_be) (_warm) (_and) (_hospitable) (_,) (_and) (_the) (_food) (_be) (_outstanding) (_.) |ESQ|
+neutral  |BSQ:SEQUENCE| (_i) (_read) (_about) (_this) (_place) (_in) (_time) (_out) (_magazine) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_it) (_be) (_a) (_great) (_find) (_in) (_astoria) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_great) (_burger) (_,) (_grilled) (_cheese) (_and) (_french) (_fries) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_yellowfin) (_tuna) (_and) (_calf) (_'s) (_liver) (_be) (_my) (_favorite) (_!) |ESQ|
+negative  |BSQ:SEQUENCE| (_however) (_,) (_be) (_foody) (_,) (_we) (_be) (_utterly) (_disappoint) (_with) (_the) (_food) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_sushi) (_so) (_fresh) (_that) (_it) (_crunch) (_in) (_you) (_mouth) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_but) (_make) (_sure) (_you) (_have) (_enough) (_room) (_on) (_you) (_credit) (_card) (_as) (_the) (_bill) (_will) (_leave) (_a) (_big) (_dent) (_in) (_you) (_wallet) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_despite) (_the) (_5th) (_ave) (_address) (_there) (_be) (_no) (_frill) (_whick) (_i) (_also) (_love) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_they) (_bring) (_a) (_sauce) (_cart) (_up) (_to) (_you) (_table) (_and) (_offer) (_you) (_up) (_to) (_@card@) (_or) (_@card@) (_choice) (_of) (_sauce) (_for) (_you) (_steak) (_-lrb-) (_i) (_try) (_they) (_all) (_-rrb-) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_not) (_only) (_be) (_the) (_sushi) (_fresh) (_,) (_they) (_also) (_serve) (_other) (_entree) (_allow) (_each) (_guest) (_something) (_to) (_choose) (_from) (_and) (_we) (_all) (_leave) (_happy) (_-lrb-) (_try) (_the) (_duck) (_!) |ESQ|
+conflict  |BSQ:SEQUENCE| (_good) (_variety) (_but) (_nothing) (_surprising) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_after) (_i) (_pay) (_for) (_my) (_purchase) (_,) (_i) (_notice) (_they) (_have) (_not) (_give) (_i) (_utensil) (_so) (_i) (_could) (_eat) (_my) (_pie) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_likewise) (_if) (_you) (_like) (_really) (_thin) (_crust) (_or) (_really) (_big) (_slice) (_then) (_nick) (_and) (_joe) (_'s) (_may) (_not) (_be) (_you) (_favorite) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_it) (_be) (_always) (_quiet) (_because) (_it) (_be) (_awful) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_no) (_green) (_bean) (_,) (_no) (_egg) (_,) (_no) (_anchovy) (_dress) (_,) (_no) (_nicoise) (_olive) (_,) (_no) (_red) (_onion) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_best) (_spicy) (_tuna) (_roll) (_,) (_great) (_asian) (_salad) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_huge) (_portion) (_,) (_great) (_and) (_attentive) (_service) (_,) (_and) (_pretty) (_good) (_price) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_huge) (_portion) (_,) (_great) (_and) (_attentive) (_service) (_,) (_and) (_pretty) (_good) (_price) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_huge) (_portion) (_,) (_great) (_and) (_attentive) (_service) (_,) (_and) (_pretty) (_good) (_price) (_.) |ESQ|
+neutral  |BSQ:SEQUENCE| (_build) (_a) (_meal) (_with) (_side) (_order) (_like) (_amazin) (_') (_greens) (_salad) (_,) (_buffalo) (_chicken) (_kickers) (_and) (_cinna) (_stix) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_thick) (_fries) (_,) (_meaty) (_chili) (_and) (_stuff) (_baked) (_potato) (_round) (_out) (_a) (_menu) (_that) (_include) (_a) (_cool) (_,) (_ultra-thick) (_chocolate) (_frosty) (_.) |ESQ|
+neutral  |BSQ:SEQUENCE| (_i) (_always) (_find) (_myself) (_ask) (_the) (_waiter) (_to) (_make) (_something) (_bland) (_and) (_different) (_than) (_what) (_be) (_on) (_the) (_menu) (_.) |ESQ|
+conflict  |BSQ:SEQUENCE| (_good) (_cake) (_but) (__) (_it) (_be) (_not) (_the) (_best) (_cake) (_i) (_have) (_ever) (_have) (_,) (_and) (_definately) (_not) (_worth) (_stand) (_outside) (_on) (_the) (_sidewalk) (_be) (_herd) (_like) (_cattle) (_by) (_indifferent) (_and) (_overworked) (_employee) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_good) (_cake) (_but) (__) (_it) (_be) (_not) (_the) (_best) (_cake) (_i) (_have) (_ever) (_have) (_,) (_and) (_definately) (_not) (_worth) (_stand) (_outside) (_on) (_the) (_sidewalk) (_be) (_herd) (_like) (_cattle) (_by) (_indifferent) (_and) (_overworked) (_employee) (_.) |ESQ|
+neutral  |BSQ:SEQUENCE| (_the) (_closest) (_that) (_i) (_get) (_be) (_the) (_cherry) (_marscapone) (_,) (_but) (_they) (_be) (_out) (_of) (_it) (_that) (_day) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_homage) (_to) (_india) (_be) (_most) (_evident) (_in) (_the) (_delectable) (_rotus) (_canaus) (_appetizer) (_,) (_a) (_fried) (_pancake) (_serve) (_with) (_pungent) (_curry) (_dip) (_sauce) (_,) (_while) (_the) (_mango) (_chicken) (_offer) (_a) (_surprisingly) (_sophisticated) (_,) (_fresh) (_take) (_on) (_sweet-and-sour) (_.) |ESQ|
+conflict  |BSQ:SEQUENCE| (_it) (_do) (_not) (_look) (_like) (_much) (_on) (_the) (_outside) (_,) (_but) (_the) (_minute) (_you) (_walk) (_inside) (_,) (_it) (_be) (_a) (_whole) (_other) (_atmosphere) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_i) (_have) (_to) (_say) (_the) (_place) (_be) (_awesome) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_the) (_ground) (_chickpea) (_soup) (_we) (_sample) (_as) (_a) (_starter) (_taste) (_somewhat) (_thin) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_we) (_request) (_they) (_re-slice) (_the) (_sushi) (_,) (_and) (_it) (_be) (_return) (_to) (_we) (_in) (_small) (_cheese-like) (_cube) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_i) (_be) (_highly) (_disappoint) (_by) (_they) (_service) (_and) (_food) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_i) (_be) (_highly) (_disappoint) (_by) (_they) (_service) (_and) (_food) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_the) (_service) (_,) (_however) (_,) (_be) (_a) (_peg) (_or) (_@card@) (_below) (_the) (_quality) (_of) (_food) (_-lrb-) (_horrible) (_bartender) (_-rrb-) (_,) (_and) (_the) (_clientele) (_,) (_for) (_the) (_most) (_part) (_,) (_be) (_rowdy) (_,) (_loud-mouthed) (_commuter) (_-lrb-) (_this) (_could) (_explain) (_the) (_bad) (_attitude) (_from) (_the) (_staff) (_-rrb-) (_get) (_load) (_for) (_a) (_ac/dc) (_concert) (_or) (_a) (_knicks) (_game) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_service) (_,) (_however) (_,) (_be) (_a) (_peg) (_or) (_@card@) (_below) (_the) (_quality) (_of) (_food) (_-lrb-) (_horrible) (_bartender) (_-rrb-) (_,) (_and) (_the) (_clientele) (_,) (_for) (_the) (_most) (_part) (_,) (_be) (_rowdy) (_,) (_loud-mouthed) (_commuter) (_-lrb-) (_this) (_could) (_explain) (_the) (_bad) (_attitude) (_from) (_the) (_staff) (_-rrb-) (_get) (_load) (_for) (_a) (_ac/dc) (_concert) (_or) (_a) (_knicks) (_game) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_the) (_service) (_,) (_however) (_,) (_be) (_a) (_peg) (_or) (_@card@) (_below) (_the) (_quality) (_of) (_food) (_-lrb-) (_horrible) (_bartender) (_-rrb-) (_,) (_and) (_the) (_clientele) (_,) (_for) (_the) (_most) (_part) (_,) (_be) (_rowdy) (_,) (_loud-mouthed) (_commuter) (_-lrb-) (_this) (_could) (_explain) (_the) (_bad) (_attitude) (_from) (_the) (_staff) (_-rrb-) (_get) (_load) (_for) (_a) (_ac/dc) (_concert) (_or) (_a) (_knicks) (_game) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_if) (_you) (_be) (_in) (_the) (_neighborhood) (_,) (_definitely) (_stop) (_by) (_for) (_a) (_great) (_meal) (_.) |ESQ|
+neutral  |BSQ:SEQUENCE| (_unfortunately) (_,) (_with) (_we) (_show) (_ticket) (_,) (_we) (_do) (_not) (_have) (_time) (_to) (_sample) (_any) (_dessert) (_.) |ESQ|
+conflict  |BSQ:SEQUENCE| (_the) (_restaurant) (_could) (_use) (_a) (_little) (_paint) (_,) (_but) (_all) (_in) (_all) (_a) (_great) (_sushi) (_place) (_!) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_restaurant) (_could) (_use) (_a) (_little) (_paint) (_,) (_but) (_all) (_in) (_all) (_a) (_great) (_sushi) (_place) (_!) |ESQ|
+negative  |BSQ:SEQUENCE| (_make) (_more) (_table) (_-) (_perhaps) (_a) (_rooftop) (_bar) (_?) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_decoration) (_be) (_feel) (_like) (_we) (_be) (_on) (_the) (_cairo) (_,) (_actually) (_the) (_street) (_be) (_part) (_of) (_that) (_adventure) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_decoration) (_be) (_feel) (_like) (_we) (_be) (_on) (_the) (_cairo) (_,) (_actually) (_the) (_street) (_be) (_part) (_of) (_that) (_adventure) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_although) (_small) (_,) (_it) (_have) (_beautiful) (_ambience) (_,) (_excellent) (_food) (_-lrb-) (_the) (_catfish) (_be) (_delicious) (_-) (_if) (_ya) (_do) (_not) (_mind) (_it) (_a) (_lil) (_salty) (_-rrb-) (_and) (_attentive) (_service) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_although) (_small) (_,) (_it) (_have) (_beautiful) (_ambience) (_,) (_excellent) (_food) (_-lrb-) (_the) (_catfish) (_be) (_delicious) (_-) (_if) (_ya) (_do) (_not) (_mind) (_it) (_a) (_lil) (_salty) (_-rrb-) (_and) (_attentive) (_service) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_although) (_small) (_,) (_it) (_have) (_beautiful) (_ambience) (_,) (_excellent) (_food) (_-lrb-) (_the) (_catfish) (_be) (_delicious) (_-) (_if) (_ya) (_do) (_not) (_mind) (_it) (_a) (_lil) (_salty) (_-rrb-) (_and) (_attentive) (_service) (_.) |ESQ|
+neutral  |BSQ:SEQUENCE| (_i) (_do) (_not) (_go) (_there) (_for) (_food) (_so) (_i) (_can) (_not) (_comment) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_my) (_friend) (_and) (_i) (_go) (_once) (_a) (_week) (_-lrb-) (_minimum) (_,) (_we) (_live) (_in) (_the) (_area) (_-rrb-) (_and) (_everytime) (_can) (_not) (_resist) (_walk) (_out) (_ready) (_to) (_burst) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_stick) (_to) (_the) (_item) (_the) (_place) (_do) (_best) (_,) (_brisket) (_,) (_rib) (_,) (_wing) (_,) (_cajun) (_shrimp) (_be) (_good) (_,) (_not) (_great) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_i) (_complain) (_to) (_the) (_waiter) (_and) (_then) (_to) (_the) (_manager) (_,) (_but) (_the) (_intensity) (_of) (_rudeness) (_from) (_they) (_just) (_go) (_up) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_hip) (_boutique) (_and) (_bar) (_on) (_ludlow) (_add) (_to) (_the) (_artsy) (_,) (_laid-back) (_atmosphere) (_at) (_this) (_israeli-style) (_takeout) (_and) (_eat-in) (_burger) (_joint) (_.) |ESQ|
+neutral  |BSQ:SEQUENCE| (_young) (_neighborhood) (_trendy) (_graze) (_at) (_the) (_counter) (_during) (_the) (_day) (_,) (_while) (_chic) (_,) (_art-house) (_drinker) (_with) (_heavy) (_dose) (_of) (_the) (_munchy) (_pile) (_in) (_late) (_at) (_night) (_.) |ESQ|
+neutral  |BSQ:SEQUENCE| (_bring) (_you) (_date) (_and) (_a) (_bottle) (_of) (_wine) (_!) |ESQ|
+positive  |BSQ:SEQUENCE| (_not) (_only) (_be) (_this) (_the) (_best) (_thai) (_restaurant) (_i) (_have) (_be) (_to) (_,) (_but) (_it) (_also) (_rank) (_as) (_@card@) (_of) (_my) (_favorite) (_place) (_to) (_dine) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_do) (_not) (_be) (_put) (_off) (_by) (_another) (_reviewer) (_extremely) (_negative) (_review) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_my) (_chelsea) (_'s) (_impressive) (_and) (_creative) (_menu) (_include) (_modern) (_,) (_westernized) (_japanese) (_dish) (_such) (_as) (_foie) (_gras) (_unagi) (_napolean) (_,) (_jap) (_style) (_hamburger) (_steak) (_,) (_spicy) (_cod) (_roe) (_spaghetti) (_,) (_black) (_cod) (_with) (_miso) (_base) (_,) (_and) (_rack) (_of) (_lamb) (_in) (_black) (_truffle) (_sauce) (_,) (_to) (_name) (_a) (_few) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_he) (_food) (_be) (_excellent) (_-lrb-) (_and) (_not) (_expensive) (_by) (_nyc) (_standard) (_-) (_no) (_entree) (_over) (_$) (_@card@) (_,) (_most) (_appetizer) (_$) (_@card@) (_to) (_@card@) (_-rrb-) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_he) (_food) (_be) (_excellent) (_-lrb-) (_and) (_not) (_expensive) (_by) (_nyc) (_standard) (_-) (_no) (_entree) (_over) (_$) (_@card@) (_,) (_most) (_appetizer) (_$) (_@card@) (_to) (_@card@) (_-rrb-) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_food) (_be) (_consistant) (_and) (_good) (_but) (_how) (_it) (_get) (_name) (_best) (_diner) (_in) (_manhattan) (_be) (_beyond) (_i) (_.) |ESQ|
+conflict  |BSQ:SEQUENCE| (_the) (_food) (_be) (_consistant) (_and) (_good) (_but) (_how) (_it) (_get) (_name) (_best) (_diner) (_in) (_manhattan) (_be) (_beyond) (_i) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_pasta) (_primavera) (_be) (_outstanding) (_as) (_well) (_,) (_lot) (_of) (_fresh) (_veggy) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_do) (_not) (_get) (_i) (_wrong) (_-) (_sushi) (_be) (_good) (_,) (_just) (_not) (_fantastic) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_food) (_be) (_great) (_and) (_the) (_milkshake) (_be) (_even) (_better) (_!) |ESQ|
+positive  |BSQ:SEQUENCE| (_be) (_puerto) (_rican) (_i) (_know) (_a) (_thing) (_or) (_@card@) (_about) (_flan) (_and) (_this) (_place) (_serve) (_@card@) (_of) (_the) (_best) (_-lrb-) (_i) (_hope) (_mom) (_do) (_not) (_read) (_this) (_!) (_-rrb-) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_be) (_to) (_the) (_@card@) (_in) (_brooklyn) (_for) (_over) (_@card@) (_year) (_,) (_now) (_i) (_dont) (_have) (_to) (_go) (_over) (_the) (_bridge) (_for) (_the) (_best) (_pizza) (_...) (_hanx) |ESQ|
+positive  |BSQ:SEQUENCE| (_have) (_dinner) (_here) (_on) (_a) (_friday) (_and) (_the) (_food) (_be) (_great) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_have) (_dinner) (_here) (_on) (_a) (_friday) (_and) (_the) (_food) (_be) (_great) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_we) (_recently) (_spend) (_new) (_year) (_'s) (_eve) (_at) (_the) (_restaurant) (_,) (_and) (_have) (_a) (_great) (_experience) (_,) (_from) (_the) (_wine) (_to) (_the) (_dessert) (_menu) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_we) (_recently) (_spend) (_new) (_year) (_'s) (_eve) (_at) (_the) (_restaurant) (_,) (_and) (_have) (_a) (_great) (_experience) (_,) (_from) (_the) (_wine) (_to) (_the) (_dessert) (_menu) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_highly) (_recommend) (_...) (_as) (_state) (_,) (_i) (_have) (_not) (_dine) (_*) (_in) (_*) (_the) (_restaurant) (_but) (_stop) (_by) (_there) (_to) (_pick) (_up) (_takeout) (_and) (_it) (_seem) (_a) (_very) (_relaxing) (_place) (_;) (_also) (_,) (_the) (_bar) (_look) (_nice) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_highly) (_recommend) (_...) (_as) (_state) (_,) (_i) (_have) (_not) (_dine) (_*) (_in) (_*) (_the) (_restaurant) (_but) (_stop) (_by) (_there) (_to) (_pick) (_up) (_takeout) (_and) (_it) (_seem) (_a) (_very) (_relaxing) (_place) (_;) (_also) (_,) (_the) (_bar) (_look) (_nice) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_ambiance) (_be) (_fine) (_,) (_a) (_little) (_loud) (_but) (_still) (_nice) (_and) (_romantic) (_.) |ESQ|
+conflict  |BSQ:SEQUENCE| (_but) (_,) (_the) (_filet) (_mignon) (_be) (_not) (_very) (_good) (_at) (_all) (_cocktail) (_hour) (_include) (_free) (_appetizer) (_-lrb-) (_nice) (_non-sushi) (_selection) (_-rrb-) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_but) (_,) (_the) (_filet) (_mignon) (_be) (_not) (_very) (_good) (_at) (_all) (_cocktail) (_hour) (_include) (_free) (_appetizer) (_-lrb-) (_nice) (_non-sushi) (_selection) (_-rrb-) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_it) (_take) (_about) (_@card@) (_hour) (_to) (_be) (_serve) (_we) (_@card@) (_course) (_.) |ESQ|
+neutral  |BSQ:SEQUENCE| (_who) (_say) (_go) (_when) (_the) (_place) (_be) (_quiet) (_during) (_the) (_day) (_?) |ESQ|
+negative  |BSQ:SEQUENCE| (_can) (_be) (_a) (_bit) (_busy) (_around) (_peak) (_time) (_because) (_of) (_the) (_size) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_stay) (_away) (_if) (_you) (_be) (_claustrophobic) |ESQ|
+positive  |BSQ:SEQUENCE| (_i) (_be) (_on) (_jury) (_duty) (_,) (_ride) (_my) (_bike) (_up) (_centre) (_street) (_on) (_my) (_lunch) (_break) (_and) (_come) (_across) (_this) (_great) (_little) (_place) (_with) (_awesome) (_chicken) (_taco) (_and) (_hibiscus) (_lemonade) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_i) (_be) (_on) (_jury) (_duty) (_,) (_ride) (_my) (_bike) (_up) (_centre) (_street) (_on) (_my) (_lunch) (_break) (_and) (_come) (_across) (_this) (_great) (_little) (_place) (_with) (_awesome) (_chicken) (_taco) (_and) (_hibiscus) (_lemonade) (_.) |ESQ|
+neutral  |BSQ:SEQUENCE| (_i) (_be) (_on) (_jury) (_duty) (_,) (_ride) (_my) (_bike) (_up) (_centre) (_street) (_on) (_my) (_lunch) (_break) (_and) (_come) (_across) (_this) (_great) (_little) (_place) (_with) (_awesome) (_chicken) (_taco) (_and) (_hibiscus) (_lemonade) (_.) |ESQ|
+neutral  |BSQ:SEQUENCE| (_good) (_place) (_to) (_hang) (_out) (_during) (_the) (_day) (_after) (_shopping) (_or) (_to) (_grab) (_a) (_simple) (_soup) (_or) (_classic) (_french) (_dish) (_over) (_a) (_glass) (_of) (_wine) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_good) (_place) (_to) (_hang) (_out) (_during) (_the) (_day) (_after) (_shopping) (_or) (_to) (_grab) (_a) (_simple) (_soup) (_or) (_classic) (_french) (_dish) (_over) (_a) (_glass) (_of) (_wine) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_very) (_nice) (_touch) (_that) (_very) (_much) (_fit) (_the) (_place) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_however) (_,) (_there) (_be) (_just) (_something) (_so) (_great) (_about) (_be) (_outdoors) (_,) (_in) (_great) (_landscaping) (_,) (_enjoy) (_a) (_casual) (_drink) (_that) (_make) (_go) (_to) (_this) (_place) (_worthwhile) (_.) |ESQ|
+neutral  |BSQ:SEQUENCE| (_we) (_be) (_seat) (_promptly) (_in) (_close) (_proximity) (_to) (_the) (_dance) (_floor) (_.) |ESQ|
+neutral  |BSQ:SEQUENCE| (_if) (_you) (_be) (_here) (_as) (_a) (_pre-show) (_meal) (_,) (_hop) (_in) (_a) (_cab) (_and) (_take) (_the) (_extra) (_@card@) (_minute) (_to) (_go) (_to) (_the) (_uptown) (_location) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_a) (_plus) (_be) (_the) (_good) (_mix) (_of) (_people) (_in) (_they) (_twenty) (_that) (_provide) (_for) (_great) (_eye-candy) (_while) (_i) (_be) (_there) (_.) |ESQ|
+conflict  |BSQ:SEQUENCE| (_the) (_comment) (_about) (_fried) (_food) (_be) (_correct) (_-lrb-) (_below) (_-rrb-) (_but) (_the) (_other) (_dish) (_,) (_include) (_the) (_lamb) (_entree) (_and) (_many) (_of) (_the) (_salad) (_-lrb-) (_avocado) (_shrimp) (_-rrb-) (_be) (_quite) (_good) (_.) |ESQ|
+neutral  |BSQ:SEQUENCE| (_it) (_be) (_best) (_to) (_go) (_on) (_a) (_cold) (_night) (_with) (_a) (_close) (_friend) (_or) (_a) (_good) (_book) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_slow) (_service) (_,) (_but) (_when) (_you) (_be) (_hang) (_around) (_with) (_group) (_of) (_@card@) (_or) (_@card@) (_,) (_who) (_really) (_notice) (_?) |ESQ|
+conflict  |BSQ:SEQUENCE| (_slow) (_service) (_,) (_but) (_when) (_you) (_be) (_hang) (_around) (_with) (_group) (_of) (_@card@) (_or) (_@card@) (_,) (_who) (_really) (_notice) (_?) |ESQ|
+positive  |BSQ:SEQUENCE| (_if) (_you) (_be) (_in) (_the) (_`) (_hood) (_,) (_definitely) (_stop) (_in) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_sauce) (_be) (_excellent) (_-lrb-) (_very) (_fresh) (_-rrb-) (_with) (_dab) (_of) (_real) (_mozzarellum) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_do) (_not) (_ever) (_bother) (_-) (_the) (_drink) (_be) (_awful) (_,) (_but) (_it) (_be) (_the) (_people) (_who) (_work) (_there) (_that) (_really) (_make) (_this) (_the) (_worst) (_experience) (_at) (_dining) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_do) (_not) (_ever) (_bother) (_-) (_the) (_drink) (_be) (_awful) (_,) (_but) (_it) (_be) (_the) (_people) (_who) (_work) (_there) (_that) (_really) (_make) (_this) (_the) (_worst) (_experience) (_at) (_dining) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_the) (_room) (_be) (_a) (_little) (_plain) (_,) (_but) (_it) (_be) (_difficult) (_to) (_make) (_such) (_a) (_small) (_place) (_exciting) (_and) (_i) (_would) (_not) (_suggest) (_that) (_as) (_a) (_reason) (_not) (_to) (_go) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_price) (_even) (_outside) (_of) (_restaurant) (_week) (_be) (_great) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_a) (_small) (_,) (_outdoor) (_eating) (_area) (_make) (_for) (_a) (_private) (_,) (_comfortable) (_space) (_to) (_study) (_alone) (_or) (_meet) (_up) (_with) (_friend) (_.) |ESQ|
+neutral  |BSQ:SEQUENCE| (_before) (_the) (_place) (_do) (_not) (_call) (_my) (_attention) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_and) (_all) (_the) (_-lsb-) (_female) (_-rsb-) (_server) (_be) (_cute) (_too) (_,) (_which) (_be) (_always) (_nice) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_best) (_dessert) (_,) (_a) (_chocolate) (_and) (_peanut) (_butter) (_tart) (_,) (_be) (_not) (_particularly) (_hawaiian) (_,) (_but) (_it) (_be) (_a) (_small) (_world) (_when) (_it) (_come) (_to) (_sweet) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_for) (_a) (_appetizer) (_,) (_they) (_calamarus) (_be) (_a) (_winner) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_satay) (_be) (_@card@) (_of) (_those) (_favorite) (_haunt) (_on) (_washington) (_where) (_the) (_service) (_and) (_food) (_be) (_always) (_on) (_the) (_money) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_satay) (_be) (_@card@) (_of) (_those) (_favorite) (_haunt) (_on) (_washington) (_where) (_the) (_service) (_and) (_food) (_be) (_always) (_on) (_the) (_money) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_mushroom) (_barley) (_soup) (_be) (_amazing) (_.) |ESQ|
+neutral  |BSQ:SEQUENCE| (_after) (_dinner) (_i) (_hear) (_music) (_playing) (_and) (_discover) (_that) (_there) (_be) (_a) (_lounge) (_downstairs) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_but) (_now) (_that) (_it) (_be) (_under) (_new) (_ownership) (_and) (_have) (_be) (_renovate) (_,) (_it) (_look) (_great) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_room) (_be) (_a) (_gorgeous) (_,) (_bi-level) (_space) (_and) (_the) (_long) (_bar) (_perfect) (_for) (_a) (_drink) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_now) (_we) (_move) (_out) (_of) (_the) (_state) (_and) (_every) (_visit) (_to) (_nyc) (_include) (_a) (_stop) (_here) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_@card@) (_complaint) (_-) (_they) (_appetizer) (_selection) (_stink) (_,) (_it) (_would) (_be) (_nice) (_to) (_get) (_some) (_mozzarellum) (_stick) (_on) (_the) (_menu) (_.) |ESQ|
+conflict  |BSQ:SEQUENCE| (_@card@) (_complaint) (_-) (_they) (_appetizer) (_selection) (_stink) (_,) (_it) (_would) (_be) (_nice) (_to) (_get) (_some) (_mozzarellum) (_stick) (_on) (_the) (_menu) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_i) (_do) (_not) (_remember) (_what) (_we) (_have) (_;) (_nothing) (_be) (_memorable) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_it) (_be) (_bland) (_and) (_nothing) (_extrodinary) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_i) (_be) (_especially) (_impress) (_during) (_the) (_bday) (_party) (_when) (_the) (_waitstaff) (_go) (_above) (_and) (_beyond) (_in) (_help) (_i) (_decorate) (_and) (_bring) (_out) (_a) (_bday) (_cake) (_as) (_well) (_as) (_offer) (_prompt) (_and) (_friendly) (_service) (_to) (_a) (_@card@) (_person) (_party) (_.) |ESQ|
+neutral  |BSQ:SEQUENCE| (_the) (_chicken) (_and) (_falafel) (_platter) (_be) (_nondescript) (_combination) (_with) (_fresh) (_leaf) (_salad) (_.) |ESQ|
+neutral  |BSQ:SEQUENCE| (_every) (_time) (_i) (_visit) (_nyc) (_,) (_i) (_come) (_here) (_.) |ESQ|
+neutral  |BSQ:SEQUENCE| (_on) (_the) (_recommendation) (_of) (_a) (_friend) (_,) (_i) (_check) (_out) (_arezzo) (_with) (_my) (_wife) (_.) |ESQ|
+neutral  |BSQ:SEQUENCE| (_i) (_have) (_be) (_come) (_here) (_regularly) (_since) (_it) (_open) (_,) (_about) (_@card@) (_year) (_ago) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_atmosphere) (_take) (_you) (_to) (_that) (_place) (_,) (_the) (_place) (_many) (_dream) (_of) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_several) (_time) (_and) (_put) (_up) (_with) (_the) (_waiter) (_') (_bad) (_manners) (_,) (_know) (_that) (_they) (_job) (_be) (_not) (_easy) (_.) |ESQ|
+conflict  |BSQ:SEQUENCE| (_the) (_service) (_be) (_great) (_-lrb-) (_maybe) (_even) (_borderline) (_nagging) (_but) (_at) (_least) (_you) (_get) (_attention) (_-rrb-) (_,) (_the) (_dessert) (_be) (_excellent) (_and) (_the) (_coffee) (_be) (_so) (_very) (_good) (_...) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_service) (_be) (_great) (_-lrb-) (_maybe) (_even) (_borderline) (_nagging) (_but) (_at) (_least) (_you) (_get) (_attention) (_-rrb-) (_,) (_the) (_dessert) (_be) (_excellent) (_and) (_the) (_coffee) (_be) (_so) (_very) (_good) (_...) |ESQ|
+negative  |BSQ:SEQUENCE| (_we) (_be) (_seat) (_next) (_to) (_a) (_couple) (_whose) (_kitchen) (_be) (_be) (_renovate) (_and) (_we) (_agree) (_since) (_we) (_be) (_all) (_foody) (_who) (_eat) (_out) (_a) (_lot) (_-) (_that) (_this) (_be) (_not) (_a) (_place) (_we) (_have) (_return) (_to) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_they) (_be) (_serve) (_on) (_focacchia) (_bread) (_and) (_be) (_to) (_die) (_for) (_.) |ESQ|
+conflict  |BSQ:SEQUENCE| (_while) (_the) (_smoothie) (_be) (_a) (_little) (_big) (_for) (_i) (_,) (_the) (_fresh) (_juice) (_be) (_the) (_best) (_i) (_have) (_ever) (_have) (_!) |ESQ|
+conflict  |BSQ:SEQUENCE| (_the) (_food) (_be) (_just) (_okay) (_,) (_and) (_it) (_be) (_almost) (_not) (_worth) (_go) (_unless) (_you) (_be) (_get) (_the) (_piallum) (_,) (_which) (_be) (_the) (_only) (_dish) (_that) (_be) (_really) (_good) (_.) |ESQ|
+conflict  |BSQ:SEQUENCE| (_the) (_guac) (_be) (_fresh) (_,) (_yet) (_lack) (_flavor) (_,) (_we) (_like) (_to) (_add) (_we) (_fresh) (_salsa) (_into) (_it) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_new) (_menu) (_have) (_a) (_few) (_creative) (_item) (_,) (_they) (_be) (_smart) (_enough) (_to) (_keep) (_some) (_of) (_the) (_old) (_favorite) (_-lrb-) (_but) (_they) (_raise) (_the) (_price) (_-rrb-) (_,) (_the) (_staff) (_be) (_friendly) (_most) (_of) (_the) (_time) (_,) (_but) (_i) (_must) (_agree) (_with) (_the) (_person) (_that) (_write) (_about) (_they) (_favorite) (_word) (__) (_no) (_,) (_can) (_not) (_,) (_sorry) (_...) (_,) (_boy) (_,) (_they) (_will) (_not) (_bend) (_the) (_rule) (_for) (_anyone) (_.) |ESQ|
+conflict  |BSQ:SEQUENCE| (_the) (_new) (_menu) (_have) (_a) (_few) (_creative) (_item) (_,) (_they) (_be) (_smart) (_enough) (_to) (_keep) (_some) (_of) (_the) (_old) (_favorite) (_-lrb-) (_but) (_they) (_raise) (_the) (_price) (_-rrb-) (_,) (_the) (_staff) (_be) (_friendly) (_most) (_of) (_the) (_time) (_,) (_but) (_i) (_must) (_agree) (_with) (_the) (_person) (_that) (_write) (_about) (_they) (_favorite) (_word) (__) (_no) (_,) (_can) (_not) (_,) (_sorry) (_...) (_,) (_boy) (_,) (_they) (_will) (_not) (_bend) (_the) (_rule) (_for) (_anyone) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_the) (_new) (_menu) (_have) (_a) (_few) (_creative) (_item) (_,) (_they) (_be) (_smart) (_enough) (_to) (_keep) (_some) (_of) (_the) (_old) (_favorite) (_-lrb-) (_but) (_they) (_raise) (_the) (_price) (_-rrb-) (_,) (_the) (_staff) (_be) (_friendly) (_most) (_of) (_the) (_time) (_,) (_but) (_i) (_must) (_agree) (_with) (_the) (_person) (_that) (_write) (_about) (_they) (_favorite) (_word) (__) (_no) (_,) (_can) (_not) (_,) (_sorry) (_...) (_,) (_boy) (_,) (_they) (_will) (_not) (_bend) (_the) (_rule) (_for) (_anyone) (_.) |ESQ|
+conflict  |BSQ:SEQUENCE| (_the) (_new) (_menu) (_have) (_a) (_few) (_creative) (_item) (_,) (_they) (_be) (_smart) (_enough) (_to) (_keep) (_some) (_of) (_the) (_old) (_favorite) (_-lrb-) (_but) (_they) (_raise) (_the) (_price) (_-rrb-) (_,) (_the) (_staff) (_be) (_friendly) (_most) (_of) (_the) (_time) (_,) (_but) (_i) (_must) (_agree) (_with) (_the) (_person) (_that) (_write) (_about) (_they) (_favorite) (_word) (__) (_no) (_,) (_can) (_not) (_,) (_sorry) (_...) (_,) (_boy) (_,) (_they) (_will) (_not) (_bend) (_the) (_rule) (_for) (_anyone) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_i) (_be) (_glad) (_i) (_do) (_as) (_the) (_food) (_be) (_very) (_good) (_and) (_the) (_staff) (_be) (_friendly) (_,) (_courteous) (_and) (_efficient) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_i) (_be) (_glad) (_i) (_do) (_as) (_the) (_food) (_be) (_very) (_good) (_and) (_the) (_staff) (_be) (_friendly) (_,) (_courteous) (_and) (_efficient) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_it) (_') (_only) (_open) (_for) (_lunch) (_but) (_the) (_food) (_be) (_so) (_good) (_!) |ESQ|
+neutral  |BSQ:SEQUENCE| (_it) (_') (_only) (_open) (_for) (_lunch) (_but) (_the) (_food) (_be) (_so) (_good) (_!) |ESQ|
+positive  |BSQ:SEQUENCE| (_if) (_you) (_like) (_seafood) (_and/or) (_greek) (_food) (_you) (_will) (_love) (_this) (_place) (_though) (_it) (_be) (_not) (_limit) (_to) (_just) (_these) (_thing) (_.) |ESQ|
+neutral  |BSQ:SEQUENCE| (_'') (_the) (_menu) (_include) (_pub) (_fare) (_--) (_burger) (_,) (_steak) (_and) (_shepherd) (_pie) (_--) (_and) (_even) (_a) (_portabellum) (_lasagna) (_for) (_those) (_black) (_sheep) (_know) (_as) (_``) (_vegetarian) (_.) |ESQ|
+neutral  |BSQ:SEQUENCE| (_how) (_can) (_they) (_survive) (_serve) (_mediocre) (_food) (_at) (_exorbitant) (_price) (_?!) |ESQ|
+negative  |BSQ:SEQUENCE| (_how) (_can) (_they) (_survive) (_serve) (_mediocre) (_food) (_at) (_exorbitant) (_price) (_?!) |ESQ|
+neutral  |BSQ:SEQUENCE| (_the) (_food) (_be) (_mediocre) (_and) (_the) (_service) (_be) (_severely) (_slow) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_the) (_food) (_be) (_mediocre) (_and) (_the) (_service) (_be) (_severely) (_slow) (_.) |ESQ|
+neutral  |BSQ:SEQUENCE| (_i) (_have) (_eat) (_here) (_on) (_a) (_different) (_occasion) (_-) (_the) (_food) (_be) (_mediocre) (_for) (_the) (_price) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_i) (_have) (_eat) (_here) (_on) (_a) (_different) (_occasion) (_-) (_the) (_food) (_be) (_mediocre) (_for) (_the) (_price) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_i) (_be) (_look) (_forward) (_to) (_go) (_back) (_soon) (_and) (_eventually) (_try) (_most) (_everything) (_on) (_the) (_menu) (_!) |ESQ|
+positive  |BSQ:SEQUENCE| (_i) (_be) (_look) (_forward) (_to) (_go) (_back) (_soon) (_and) (_eventually) (_try) (_most) (_everything) (_on) (_the) (_menu) (_!) |ESQ|
+positive  |BSQ:SEQUENCE| (_i) (_just) (_have) (_my) (_first) (_visit) (_to) (_this) (_place) (_and) (_can) (_not) (_wait) (_to) (_go) (_back) (_and) (_slowly) (_work) (_my) (_way) (_through) (_the) (_menu) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_i) (_ask) (_repeatedly) (_what) (_the) (_status) (_of) (_the) (_meal) (_be) (_and) (_be) (_pretty) (_much) (_grunt) (_at) (_by) (_the) (_unbelievably) (_rude) (_waiter) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_i) (_ask) (_repeatedly) (_what) (_the) (_status) (_of) (_the) (_meal) (_be) (_and) (_be) (_pretty) (_much) (_grunt) (_at) (_by) (_the) (_unbelievably) (_rude) (_waiter) (_.) |ESQ|
+neutral  |BSQ:SEQUENCE| (_i) (_stop) (_by) (_for) (_some) (_brunch) (_today) (_and) (_have) (_the) (_vegan) (_cranberry) (_pancake) (_and) (_some) (_rice) (_milk) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_they) (_duck) (_here) (_be) (_also) (_absolutely) (_delicious) (_.) |ESQ|
+conflict  |BSQ:SEQUENCE| (_weekend) (_can) (_get) (_crowd) (_,) (_but) (_still) (_highly) (_recommend) (_.) |ESQ|
+conflict  |BSQ:SEQUENCE| (_it) (_get) (_very) (_crowd) (_so) (_i) (_would) (_suggest) (_that) (_you) (_get) (_they) (_early) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_sweet) (_irish) (_bartender) (_be) (_always) (_happy) (_and) (_able) (_to) (_bring) (_a) (_smile) (_to) (_my) (_friend) (_a) (_my) (_face) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_i) (_always) (_find) (_myself) (_sit) (_next) (_to) (_someone) (_in) (_the) (_theatre) (_industry) (_-) (_interesting) (_to) (_hear) (_idea) (_hash) (_out) (_while) (_have) (_a) (_quick) (_bite) (_to) (_eat) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_its) (_good) (_to) (_go) (_there) (_for) (_drink) (_if) (_you) (_do) (_not) (_want) (_to) (_get) (_drunk) (_because) (_you) (_'ll) (_be) (_lucky) (_if) (_you) (_can) (_get) (_@card@) (_drink) (_a) (_hour) (_the) (_service) (_be) (_so) (_bad) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_anyway) (_,) (_the) (_owner) (_be) (_fake) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_owner) (_be) (_pleasant) (_and) (_entertaining) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_i) (_have) (_never) (_in) (_my) (_life) (_send) (_back) (_food) (_before) (_,) (_but) (_i) (_simply) (_have) (_to) (_,) (_and) (_the) (_waiter) (_argue) (_with) (_i) (_over) (_this) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_i) (_have) (_never) (_in) (_my) (_life) (_send) (_back) (_food) (_before) (_,) (_but) (_i) (_simply) (_have) (_to) (_,) (_and) (_the) (_waiter) (_argue) (_with) (_i) (_over) (_this) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_although) (_the) (_restaurant) (_itself) (_be) (_nice) (_,) (_i) (_prefer) (_not) (_to) (_go) (_for) (_the) (_food) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_although) (_the) (_restaurant) (_itself) (_be) (_nice) (_,) (_i) (_prefer) (_not) (_to) (_go) (_for) (_the) (_food) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_creamy) (_appetizer) (_--) (_taramasala) (_,) (_eggplant) (_salad) (_,) (_and) (_greek) (_yogurt) (_-lrb-) (_with) (_cuccumber) (_,) (_dill) (_,) (_and) (_garlic) (_-rrb-) (_taste) (_excellent) (_when) (_on) (_warm) (_pita) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_try) (_the) (_rose) (_roll) (_-lrb-) (_not) (_on) (_menu) (_-rrb-) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_this) (_be) (_definitely) (_@card@) (_of) (_the) (_place) (_that) (_i) (_have) (_continue) (_to) (_come) (_back) (_to) (_over) (_the) (_year) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_while) (_it) (_be) (_large) (_and) (_a) (_bit) (_noisy) (_,) (_the) (_drink) (_be) (_fantastic) (_,) (_and) (_the) (_food) (_be) (_superb) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_while) (_it) (_be) (_large) (_and) (_a) (_bit) (_noisy) (_,) (_the) (_drink) (_be) (_fantastic) (_,) (_and) (_the) (_food) (_be) (_superb) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_@card@) (_caveat) (__) (_some) (_of) (_the) (_curried) (_casserole) (_can) (_be) (_a) (_trifle) (_harsh) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_i) (_be) (_not) (_impressed) (_and) (_it) (_be) (_not) (_spicey) (_????) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_food) (_be) (_almost) (_always) (_excellent) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_i) (_be) (_pleasently) (_surprise) (_at) (_the) (_taste) (_.) |ESQ|
+conflict  |BSQ:SEQUENCE| (_a) (_nice) (_space) (_,) (_as) (_long) (_as) (_it) (_do) (_not) (_get) (_too) (_crowded) (_and) (_a) (_singleminded) (_devotion) (_to) (_its) (_choose) (_cuisine) (_make) (_mare) (_a) (_great) (_choice) (_for) (_seafood) (_lover) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_a) (_nice) (_space) (_,) (_as) (_long) (_as) (_it) (_do) (_not) (_get) (_too) (_crowded) (_and) (_a) (_singleminded) (_devotion) (_to) (_its) (_choose) (_cuisine) (_make) (_mare) (_a) (_great) (_choice) (_for) (_seafood) (_lover) (_.) |ESQ|
+neutral  |BSQ:SEQUENCE| (_i) (_never) (_have) (_a) (_orange) (_donut) (_before) (_so) (_i) (_give) (_it) (_a) (_shot) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_they) (_really) (_provide) (_a) (_relaxing) (_,) (_laid-back) (_atmosphere) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_this) (_particular) (_location) (_certainly) (_use) (_substandard) (_meat) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_i) (_love) (_the) (_drink) (_,) (_esp) (_lychee) (_martini) (_,) (_and) (_the) (_food) (_be) (_also) (_very) (_good) (_.) |ESQ|
+neutral  |BSQ:SEQUENCE| (_i) (_stumble) (_upon) (_this) (_resteraunt) (_on) (_my) (_way) (_home) (_from) (_the) (_subway) (_.) |ESQ|
+negative  |BSQ:SEQUENCE| (_the) (_management) (_be) (_less) (_than) (_accomodate) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_ambience) (_be) (_also) (_more) (_laid-back) (_and) (_relax) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_tea) (_be) (_great) (_and) (_all) (_the) (_sweet) (_be) (_homemade) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_mojito) (_and) (_the) (_service) (_be) (_the) (_best) (_part) (_in) (_there) |ESQ|
+positive  |BSQ:SEQUENCE| (_mojito) (_and) (_the) (_service) (_be) (_the) (_best) (_part) (_in) (_there) |ESQ|
+positive  |BSQ:SEQUENCE| (_sandwich) (_,) (_burger) (_and) (_salad) (_,) (_like) (_the) (_lemon-dressed) (_cobb) (_,) (_be) (_classic) (_success) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_this) (_restaurant) (_be) (_absolutely) (_beautiful) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_design) (_be) (_very) (_intimate) (_and) (_romantic) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_food) (_be) (_wonderful) (_and) (_imaginative) (_.) |ESQ|
+positive  |BSQ:SEQUENCE| (_the) (_staff) (_be) (_very) (_sharp) (_and) (_they) (_look) (_good) (_too) (_.) |ESQ|

@@ -1,0 +1,15 @@
+{
+  "algorithm" : "dcd",
+  "label" : {
+    "labelType" : "StringLabel",
+    "className" : "1"
+  },
+  "representation" : "VEC",
+  "dcdLoss" : "L2",
+  "useBias" : true,
+  "maxIterations" : 20,
+  "fairness" : false,
+  "cp" : 1.0,
+  "cn" : 1.0,
+  "seed" : 0
+}
