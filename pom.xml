@@ -88,6 +88,12 @@
 					<exclude>**/*</exclude>
 				</excludes>
 			</resource>
+			<resource>
+				<directory>src/test/resources</directory>
+				<excludes>
+					<exclude>**/*</exclude>
+				</excludes>
+			</resource>
 		</resources>
 		<plugins>
 
