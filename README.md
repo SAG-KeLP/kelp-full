@@ -13,6 +13,8 @@ It aggregates the following modules:
 
 * [kelp-additional-algorithms](https://github.com/SAG-KeLP/kelp-additional-algorithms): it contains additional learning algorithms, such as the **KeLP** Java implementation of Liblinear or Online Learning algorithms, such as the Passive Aggressive.
 
+KELP is released as open source software under the Apache 2.0 license and the source code is available on [Github][github].
+
 ##Working examples
 
 This packages contains a set of fully functioning examples showing how to implement a learning system with KeLP. Batch learning algorithm as well as online learning algorithms usage is shown here. Different examples cover the usage of standard kernel, tree kernels and sequence kernel, with caching mechanisms.
@@ -102,6 +104,17 @@ Then, the [Maven][maven-site] dependency for the whole **KeLP** package:
 
 Alternatively, thanks to the modularity of **KeLP**, you can include a fine grain selection of its modules adding to your POM files only the dependancies you need among the modules stated above.  
 
+Usefull Links
+-------------
+
+KeLP site: [http://sag.art.uniroma2.it/demo-software/kelp/][kelp-site]
+
+SAG site: [http://sag.art.uniroma2.it][sag-site]
+
+Source code hosted at GitHub: [https://github.com/SAG-KeLP][github]
+
 [sag-site]: http://sag.art.uniroma2.it "SAG site"
 [uniroma2-site]: http://www.uniroma2.it "University of Roma Tor Vergata"
 [maven-site]: http://maven.apache.org "Apache Maven"
+[kelp-site]: http://sag.art.uniroma2.it/demo-software/kelp/ "KeLP website"
+[github]: https://github.com/SAG-KeLP
