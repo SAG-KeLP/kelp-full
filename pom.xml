@@ -111,6 +111,7 @@
 				<artifactId>maven-javadoc-plugin</artifactId>
 				<configuration>
 					<additionalparam>-header &apos;&lt;script type=&quot;text/javascript&quot; src=&quot;http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML&quot;&gt;&lt;/script&gt;&apos;</additionalparam>
+      				<additionalparam>-Xdoclint:none</additionalparam>
 				</configuration>
 				<executions>
 					<execution>
@@ -136,7 +137,7 @@
 							<!-- <dependencySourceExclude>xml-apis:*</dependencySourceExclude> -->
 							<!-- </dependencySourceExcludes> -->
 							<dependencySourceIncludes>
-								<dependencySourceInclude>it.uniroma2.sag.kelp2:*</dependencySourceInclude>
+								<dependencySourceInclude>it.uniroma2.sag.kelp:*</dependencySourceInclude>
 							</dependencySourceIncludes>
 						</configuration>
 					</execution>
