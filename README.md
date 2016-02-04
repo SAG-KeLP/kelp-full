@@ -104,6 +104,23 @@ Then, the [Maven][maven-site] dependency for the whole **KeLP** package:
 
 Alternatively, thanks to the modularity of **KeLP**, you can include a fine grain selection of its modules adding to your POM files only the dependancies you need among the modules stated above.  
 
+How to cite KeLP
+----------------
+If you find KeLP usefull in your researches, please cite the following paper:
+
+```
+@InProceedings{filice-EtAl:2015:ACL-IJCNLP-2015-System-Demonstrations,
+	author = {Filice, Simone and Castellucci, Giuseppe and Croce, Danilo and Basili, Roberto},
+	title = {KeLP: a Kernel-based Learning Platform for Natural Language Processing},
+	booktitle = {Proceedings of ACL-IJCNLP 2015 System Demonstrations},
+	month = {July},
+	year = {2015},
+	address = {Beijing, China},
+	publisher = {Association for Computational Linguistics and The Asian Federation of Natural Language Processing},
+	pages = {19--24},
+	url = {http://www.aclweb.org/anthology/P15-4004}
+}
+```
 Usefull Links
 -------------
 
