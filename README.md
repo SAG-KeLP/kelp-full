@@ -28,7 +28,7 @@ git clone https://github.com/SAG-KeLP/kelp-full.git
 NOTE: many of the provided examples require some memory in order to load the datasets and set up the kernel cache. You can assign memory to the Java Virtual Machine (JVM) using the option -Xmx. For instance -Xmx2G will provide 2G of memory to the JVM. In Eclipse such parameter shuld be written in Run->Run Configurations->Arguments->VM arguments.
 
 #### Classification:
-* **QuestionClassification** (it.uniroma2.sag.kelp.examples.demo.qc): this class implements the Question Classification demo. It includes both kernel operating on vectors and kernel operating on trees (stk and ptk).
+* **QuestionClassification** (it.uniroma2.sag.kelp.examples.demo.qc): this class implements the Question Classification demo. It includes both kernel operating on vectors and kernel operating on trees (stk, ptk, sptk, csptk).
 * **QuestionClassificationLearningFromJson** (it.uniroma2.examples.demo.qc): the same demo as QuestionClassification with the difference that the learning algorithm specification is read from a Json file.
 * **RCV1BinaryTextCategorizationLibLinear**, **RCV1BinaryTextCategorizationPA**,  **RCV1BinaryTextCategorizationPegasos** and **RCV1BinaryTextCategorizationDCD** (it.uniroma2.sag.kelp.examples.demo.rcv1) are examples of binary classifiers on the RCV1 dataset that can be found on the LibLinear website. These classes perform a N-Fold Cross Validation and show KeLP facilities to divide a dataset in N-Fold.
 * **TweetSentimentAnalysisSemeval2013** (it.uniroma2.sag.kelp.examples.demo.tweetsent2013): a demo with multiple kernels and multiple classes on a dataset for the Twitter Sentiment Analysis task of Semeval2013.
