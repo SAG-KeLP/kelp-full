@@ -20,6 +20,17 @@ import it.uniroma2.sag.kelp.predictionfunction.classifier.ClassificationOutput;
 import it.uniroma2.sag.kelp.predictionfunction.classifier.Classifier;
 import it.uniroma2.sag.kelp.utils.evaluation.MulticlassClassificationEvaluator;
 
+/**
+ * This class provides an example to apply the Nystorm Method with Convolutional
+ * Tree Kernels.
+ * 
+ * * If you use this class, <b>please cite</b>: <br>
+ * <li>Danilo Croce and Roberto Basili. Large-scale Kernel-based Language
+ * Learning through the Ensemble Nystrom methods. In Proceedings of ECIR 2016.
+ * Padova, Italy, 2016 <br>
+ * 
+ * @author Danilo Croce
+ */
 public class NystromExampleMain {
 
 	public static final String LINEAR_REP_NAME = "lin";
@@ -36,12 +47,10 @@ public class NystromExampleMain {
 		int randomSeed = 0;
 
 		/*
-		 * Select a specific kernel from the existing ones:
-		 * - bow: a Linear Kernel applied to a boolean Bag-of-Word vector
-		 * - stk: a Subset Tree Kernel 
-		 * - ptk: a Partial Tree Kernel
-		 * - sptk: a Smoothed Partial Tree Kernel
-		 * - csptk: Compositionally Smoothed Partial Tree Kernel
+		 * Select a specific kernel from the existing ones: - bow: a Linear
+		 * Kernel applied to a boolean Bag-of-Word vector - stk: a Subset Tree
+		 * Kernel - ptk: a Partial Tree Kernel - sptk: a Smoothed Partial Tree
+		 * Kernel - csptk: Compositionally Smoothed Partial Tree Kernel
 		 */
 		String kernelId = "csptk";
 
@@ -62,6 +71,9 @@ public class NystromExampleMain {
 		 */
 		NystromMethod nystromMethod = new NystromMethod(landmarks, kernel);
 
+		/**
+		 * A linearized counterparts of the train/test datasets are obtained.
+		 */
 		SimpleDataset linearizedTrainDataset = nystromMethod.getLinearizedDataset(trainDataset, LINEAR_REP_NAME);
 		SimpleDataset linearizedTestDataset = nystromMethod.getLinearizedDataset(testDataset, LINEAR_REP_NAME);
 
@@ -87,23 +99,28 @@ public class NystromExampleMain {
 
 	private static float evaluateClassifier(SimpleDataset linearizedTrainDataset, SimpleDataset linearizedTestDataset,
 			LearningAlgorithm learningAlgorithm) {
+		/*
+		 * Build a multi-classifier given the learning algorithm
+		 */
 		OneVsAllLearning ovaLearner = new OneVsAllLearning();
 		ovaLearner.setBaseAlgorithm(learningAlgorithm);
 		ovaLearner.setLabels(linearizedTrainDataset.getClassificationLabels());
-
+		/*
+		 * Learning
+		 */
 		ovaLearner.learn(linearizedTrainDataset);
-
-		Classifier f = ovaLearner.getPredictionFunction();
-
+		/*
+		 * Evaluation
+		 */
 		MulticlassClassificationEvaluator ev = new MulticlassClassificationEvaluator(
 				linearizedTrainDataset.getClassificationLabels());
 
+		Classifier f = ovaLearner.getPredictionFunction();
 		for (Example e : linearizedTestDataset.getExamples()) {
 			ClassificationOutput p = f.predict(e);
 			ev.addCount(e, p);
 		}
-		float accuracy = ev.getAccuracy();
-		return accuracy;
+		return ev.getAccuracy();
 	}
 
 }
