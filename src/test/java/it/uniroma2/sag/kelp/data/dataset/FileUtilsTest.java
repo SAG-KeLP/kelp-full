@@ -57,7 +57,7 @@ public class FileUtilsTest {
 
 	@Test
 	public void checkLoadWordspace() throws IOException {
-		Wordspace ws = new Wordspace(
+		new Wordspace(
 				"src/main/resources/wordspace/wordspace_qc.txt.gz");
 		Assert.assertTrue(true);
 	}
