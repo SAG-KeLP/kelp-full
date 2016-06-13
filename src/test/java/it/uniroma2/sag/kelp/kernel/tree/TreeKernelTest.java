@@ -44,19 +44,19 @@ public class TreeKernelTest {
 	private static SimpleDataset testSet;
 	private static Wordspace wordspace;
 
-	public static void main(String[] args) throws Exception {
-
-		SimpleDataset testSet = new SimpleDataset();
-		testSet.populate("src/main/resources/qc/TREC_10.coarse.klp.gz");
-
-		Kernel kernel = getQCKernelFunction(testSet, "csptk");
-		ArrayList<Float> kernelScores = getKernelScores(testSet, kernel);
-		PrintStream ps = new PrintStream("src/test/resources/kernels/tree/csptk_scores.txt");
-		for (Float kernelScore : kernelScores) {
-			ps.println(kernelScore);
-		}
-		ps.close();
-	}
+//	public static void main(String[] args) throws Exception {
+//
+//		SimpleDataset testSet = new SimpleDataset();
+//		testSet.populate("src/main/resources/qc/TREC_10.coarse.klp.gz");
+//
+//		Kernel kernel = getQCKernelFunction(testSet, "csptk");
+//		ArrayList<Float> kernelScores = getKernelScores(testSet, kernel);
+//		PrintStream ps = new PrintStream("src/test/resources/kernels/tree/csptk_scores.txt");
+//		for (Float kernelScore : kernelScores) {
+//			ps.println(kernelScore);
+//		}
+//		ps.close();
+//	}
 
 	@Test
 	public void testPtk() {
