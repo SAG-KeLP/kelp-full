@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>it.uniroma2.sag.kelp</groupId>
 	<artifactId>kelp-full</artifactId>
-	<version>2.1.0</version>
+	<version>2.1.1-SNAPSHOT</version>
 	<name>kelp-full</name>
 	<url>http://sag.art.uniroma2.it/demo-software/kelp/</url>
 	<organization>
@@ -178,17 +178,17 @@
 		<dependency>
 			<groupId>it.uniroma2.sag.kelp</groupId>
 			<artifactId>kelp-additional-algorithms</artifactId>
-			<version>2.1.0</version>
+			<version>2.1.1-SNAPSHOT</version>
 		</dependency>
 		<dependency>
 			<groupId>it.uniroma2.sag.kelp</groupId>
 			<artifactId>kelp-additional-kernels</artifactId>
-			<version>2.1.0</version>
+			<version>2.1.1-SNAPSHOT</version>
 		</dependency>
 		<dependency>
 			<groupId>it.uniroma2.sag.kelp</groupId>
 			<artifactId>kelp-core</artifactId>
-			<version>2.1.0</version>
+			<version>2.1.1-SNAPSHOT</version>
 		</dependency>
 	</dependencies>
 </project>
