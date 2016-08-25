@@ -76,6 +76,46 @@ public class TreeKernelTest {
 			Assert.assertTrue(false);
 		}
 	}
+	
+	@Test
+	public void testStk() {
+		try {
+			String filepath = "src/test/resources/kernels/tree/stk_scores.txt";
+			Kernel kernel = getQCKernelFunction(testSet, "stk");
+
+			ArrayList<Float> newKernelScores = getKernelScores(testSet, kernel);
+			ArrayList<Float> oldKernelScores = loadKernelScores(filepath);
+
+			double mse = 0f;
+			for (int i = 0; i < newKernelScores.size(); ++i) {
+				mse += Math.pow((double) (newKernelScores.get(i) - oldKernelScores.get(i)), 2.0);
+			}
+			mse /= (float) testSet.getExamples().size();
+			Assert.assertEquals(0, mse, TOLERANCE);
+		} catch (IOException e) {
+			Assert.assertTrue(false);
+		}
+	}
+	
+	@Test
+	public void testSstk() {
+		try {
+			String filepath = "src/test/resources/kernels/tree/sstk_scores.txt";
+			Kernel kernel = getQCKernelFunction(testSet, "sstk");
+
+			ArrayList<Float> newKernelScores = getKernelScores(testSet, kernel);
+			ArrayList<Float> oldKernelScores = loadKernelScores(filepath);
+
+			double mse = 0f;
+			for (int i = 0; i < newKernelScores.size(); ++i) {
+				mse += Math.pow((double) (newKernelScores.get(i) - oldKernelScores.get(i)), 2.0);
+			}
+			mse /= (float) testSet.getExamples().size();
+			Assert.assertEquals(0, mse, TOLERANCE);
+		} catch (IOException e) {
+			Assert.assertTrue(false);
+		}
+	}
 
 	@Test
 	public void testSptk() {
@@ -171,11 +211,24 @@ public class TreeKernelTest {
 	public static Kernel getQCKernelFunction(SimpleDataset dataSet, String kernelId) throws IOException {
 
 		Kernel usedKernel = null;
-		/*
-		 * Set the cache size
-		 */
-
-		if (kernelId.equalsIgnoreCase("ptk")) {
+		
+		if (kernelId.equalsIgnoreCase("stk")) {
+			// The representation on which the kernel operates
+			String treeRepresentationName = "grct";
+			// Kernel for the grct representation
+			Kernel stkgrct = new SubTreeKernel(0.4f, treeRepresentationName);
+			// The kernel is normalized.
+			Kernel normStkgrct = new NormalizationKernel(stkgrct);
+			usedKernel = normStkgrct;
+		} else if (kernelId.equalsIgnoreCase("sstk")) {
+			// The representation on which the kernel operates
+			String treeRepresentationName = "grct";
+			// Kernel for the grct representation
+			Kernel sstkgrct = new SubSetTreeKernel(0.4f, treeRepresentationName);
+			// The kernel is normalized.
+			Kernel normSstkgrct = new NormalizationKernel(sstkgrct);
+			usedKernel = normSstkgrct;
+		} else if (kernelId.equalsIgnoreCase("ptk")) {
 			// The representation on which the kernel operates
 			String treeRepresentationName = "grct";
 			// Kernel for the grct representation
