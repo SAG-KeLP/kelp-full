@@ -69,13 +69,10 @@ public class OneVsAllSVMExample {
 			}
 
 			// Kernel for the first representation (0-index)
-			Kernel linear = new LinearKernel("0");
-			// Normalize the linear kernel
-			NormalizationKernel normalizedKernel = new NormalizationKernel(
-					linear);
+			Kernel kernel = new LinearKernel("0");
 			// instantiate an svmsolver
 			BinaryCSvmClassification svmSolver = new BinaryCSvmClassification();
-			svmSolver.setKernel(normalizedKernel);
+			svmSolver.setKernel(kernel);
 			svmSolver.setCp(1);
 			svmSolver.setCn(1);
 
