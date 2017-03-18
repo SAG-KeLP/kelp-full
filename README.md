@@ -38,7 +38,8 @@ NOTE: many of the provided examples require some memory in order to load the dat
 * **MultipleRepresentationExample** (it.uniroma2.sag.kelp.examples.main): a basic example showing the usage of multiple representations with multiple kernel functions with a PassiveAggressive algorithm.
 * **KernelCacheExample** (it.uniroma2.sag.kelp.examples.main): an example that shows the usage of the KernelCache class to store the already computed kernel values between instances.
 * **MutagClassification** 
-(it.uniroma2.sag.kelp.examples.demo.mutag); an example that shows the application of graph kernels to the mutag dataset
+(it.uniroma2.sag.kelp.examples.demo.mutag): an example that shows the application of graph kernels to the mutag dataset
+* **SequenceLearningKernelMain** and **SequenceLearningLinearMain** (it.uniroma2.sag.kelp.examples.demo.seqlearn): some examples showing how to use KeLP to operate over the labeling of items in a sequence, making the classification of each item dependant on the decision made on the previous one(s).
 
 #### Regression:
 * **EpsilonSVRegressionExample** (it.uniroma2.sag.kelp.examples.demo.regression): This class contains an example of the usage of the Regression Example. The regressor implements the e-SVR learning algorithm discussed in [CC Chang & CJ Lin, 2011]. In this example a dataset is loaded from a file and then split in train and test.
