@@ -5,7 +5,7 @@
 	<artifactId>kelp-full</artifactId>
 	<version>2.2.1-SNAPSHOT</version>
 	<name>kelp-full</name>
-	<url>http://sag.art.uniroma2.it/demo-software/kelp/</url>
+	<url>http://www.kelp-ml.org</url>
 	<organization>
 		<name>Semantic Analytics Group @ Uniroma2</name>
 		<url>http://sag.art.uniroma2.it</url>
