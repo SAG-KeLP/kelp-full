@@ -20,12 +20,14 @@ import it.uniroma2.sag.kelp.data.clustering.ClusterExample;
 import it.uniroma2.sag.kelp.data.clustering.ClusterList;
 import it.uniroma2.sag.kelp.data.dataset.SimpleDataset;
 import it.uniroma2.sag.kelp.kernel.Kernel;
-import it.uniroma2.sag.kelp.kernel.cache.FixIndexKernelCache;
+import it.uniroma2.sag.kelp.kernel.cache.FixSizeKernelCache;
+import it.uniroma2.sag.kelp.kernel.cache.KernelCache;
 import it.uniroma2.sag.kelp.kernel.vector.LinearKernel;
 import it.uniroma2.sag.kelp.learningalgorithm.clustering.kernelbasedkmeans.KernelBasedKMeansEngine;
 import it.uniroma2.sag.kelp.learningalgorithm.clustering.kernelbasedkmeans.KernelBasedKMeansExample;
 import it.uniroma2.sag.kelp.utils.JacksonSerializerWrapper;
 import it.uniroma2.sag.kelp.utils.ObjectSerializer;
+import it.uniroma2.sag.kelp.utils.evaluation.ClusteringEvaluator;
 
 /**
  * This class contains an example of the usage of the Kernel-based clustering.
@@ -60,13 +62,11 @@ public class KernelBasedClusteringExample {
 		// Initialize the kernel function
 		Kernel kernel = new LinearKernel(representationName);
 		// Initialize the cache
-		FixIndexKernelCache kernelCache = new FixIndexKernelCache(
-				dataset.getNumberOfExamples());
+		KernelCache kernelCache = new FixSizeKernelCache(dataset.getNumberOfExamples());
 		kernel.setKernelCache(kernelCache);
 
 		// Initializing the clustering engine
-		KernelBasedKMeansEngine clusteringEngine = new KernelBasedKMeansEngine(
-				kernel, K, tMax);
+		KernelBasedKMeansEngine clusteringEngine = new KernelBasedKMeansEngine(kernel, K, tMax);
 
 		// Example of serialization of the engine via JSON
 		ObjectSerializer serializer = new JacksonSerializerWrapper();
@@ -81,12 +81,12 @@ public class KernelBasedClusteringExample {
 		// Writing the resulting clusters and cluster members
 		for (Cluster cluster : clusterList) {
 			for (ClusterExample clusterMember : cluster.getExamples()) {
-				float dist = ((KernelBasedKMeansExample) clusterMember)
-						.getDist();
-				System.out.println(dist + "\t" + cluster.getLabel() + "\t"
-						+ clusterMember.getExample());
+				float dist = ((KernelBasedKMeansExample) clusterMember).getDist();
+				System.out.println(dist + "\t" + cluster.getLabel() + "\t" + clusterMember.getExample());
 			}
 			System.out.println();
 		}
+		
+		System.out.println(ClusteringEvaluator.getStatistics(clusterList));
 	}
 }

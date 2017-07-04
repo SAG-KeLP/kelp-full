@@ -23,6 +23,7 @@ import it.uniroma2.sag.kelp.learningalgorithm.clustering.kmeans.LinearKMeansEngi
 import it.uniroma2.sag.kelp.learningalgorithm.clustering.kmeans.LinearKMeansExample;
 import it.uniroma2.sag.kelp.utils.JacksonSerializerWrapper;
 import it.uniroma2.sag.kelp.utils.ObjectSerializer;
+import it.uniroma2.sag.kelp.utils.evaluation.ClusteringEvaluator;
 
 /**
  * This class contains an example of the usage of the Linear K-means clustering.
@@ -67,5 +68,7 @@ public class LinearKMeansClusteringExample {
 			}
 			System.out.println();
 		}
+		
+		System.out.println(ClusteringEvaluator.getStatistics(clusterList));
 	}
 }
