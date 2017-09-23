@@ -15,21 +15,20 @@
 
 package it.uniroma2.sag.kelp.examples.main;
 
+import java.util.ArrayList;
+import java.util.List;
+
 import it.uniroma2.sag.kelp.data.dataset.SimpleDataset;
 import it.uniroma2.sag.kelp.data.example.Example;
 import it.uniroma2.sag.kelp.data.label.Label;
 import it.uniroma2.sag.kelp.data.label.StringLabel;
 import it.uniroma2.sag.kelp.kernel.Kernel;
-import it.uniroma2.sag.kelp.kernel.standard.NormalizationKernel;
 import it.uniroma2.sag.kelp.kernel.vector.LinearKernel;
 import it.uniroma2.sag.kelp.learningalgorithm.classification.libsvm.BinaryCSvmClassification;
 import it.uniroma2.sag.kelp.learningalgorithm.classification.multiclassification.OneVsAllLearning;
 import it.uniroma2.sag.kelp.predictionfunction.classifier.ClassificationOutput;
 import it.uniroma2.sag.kelp.predictionfunction.classifier.Classifier;
 import it.uniroma2.sag.kelp.utils.evaluation.MulticlassClassificationEvaluator;
-
-import java.util.ArrayList;
-import java.util.List;
 
 /**
  * This example illustrates how to perform multiclass classification, with a

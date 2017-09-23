@@ -15,13 +15,18 @@
 
 package it.uniroma2.sag.kelp.examples.demo.tweetsent2013;
 
+import java.io.IOException;
+import java.io.PrintStream;
+import java.util.ArrayList;
+import java.util.List;
+
 import it.uniroma2.sag.kelp.data.dataset.Dataset;
 import it.uniroma2.sag.kelp.data.dataset.SimpleDataset;
 import it.uniroma2.sag.kelp.data.example.Example;
 import it.uniroma2.sag.kelp.data.label.Label;
 import it.uniroma2.sag.kelp.kernel.Kernel;
-import it.uniroma2.sag.kelp.kernel.cache.FixIndexKernelCache;
 import it.uniroma2.sag.kelp.kernel.cache.FixIndexSquaredNormCache;
+import it.uniroma2.sag.kelp.kernel.cache.FixSizeKernelCache;
 import it.uniroma2.sag.kelp.kernel.standard.LinearKernelCombination;
 import it.uniroma2.sag.kelp.kernel.standard.NormalizationKernel;
 import it.uniroma2.sag.kelp.kernel.standard.PolynomialKernel;
@@ -35,11 +40,6 @@ import it.uniroma2.sag.kelp.utils.JacksonSerializerWrapper;
 import it.uniroma2.sag.kelp.utils.ObjectSerializer;
 import it.uniroma2.sag.kelp.utils.evaluation.MulticlassClassificationEvaluator;
 import it.uniroma2.sag.kelp.utils.exception.NoSuchPerformanceMeasureException;
-
-import java.io.IOException;
-import java.io.PrintStream;
-import java.util.ArrayList;
-import java.util.List;
 
 public class TweetSentimentAnalysisSemeval2013 {
 	private static String FIELD_SEP = "\t";
@@ -226,7 +226,7 @@ public class TweetSentimentAnalysisSemeval2013 {
 		kernel.setSquaredNormCache(normcache);
 
 		kernel = new NormalizationKernel(kernel);
-		FixIndexKernelCache cache = new FixIndexKernelCache(cacheSize);
+		FixSizeKernelCache cache = new FixSizeKernelCache(cacheSize);
 		kernel.setKernelCache(cache);
 
 		return kernel;
@@ -240,7 +240,7 @@ public class TweetSentimentAnalysisSemeval2013 {
 		kernel1.setSquaredNormCache(normcache1);
 		kernel1 = new NormalizationKernel(kernel1);
 
-		FixIndexKernelCache cache = new FixIndexKernelCache(cacheSize);
+		FixSizeKernelCache cache = new FixSizeKernelCache(cacheSize);
 		kernel1.setKernelCache(cache);
 
 		return kernel1;
@@ -253,7 +253,7 @@ public class TweetSentimentAnalysisSemeval2013 {
 		kernel2.setSquaredNormCache(normcache2);
 		kernel2 = new NormalizationKernel(kernel2);
 
-		FixIndexKernelCache cache = new FixIndexKernelCache(cacheSize);
+		FixSizeKernelCache cache = new FixSizeKernelCache(cacheSize);
 		kernel2.setKernelCache(cache);
 
 		return kernel2;
@@ -267,7 +267,7 @@ public class TweetSentimentAnalysisSemeval2013 {
 		kernel2.setSquaredNormCache(normcache2);
 		kernel2 = new NormalizationKernel(kernel2);
 
-		FixIndexKernelCache cache = new FixIndexKernelCache(cacheSize);
+		FixSizeKernelCache cache = new FixSizeKernelCache(cacheSize);
 		kernel2.setKernelCache(cache);
 
 		return kernel2;
@@ -290,7 +290,7 @@ public class TweetSentimentAnalysisSemeval2013 {
 		combination.addKernel(1.0f, kernel1);
 		combination.addKernel(1.0f, kernel2);
 
-		FixIndexKernelCache cache = new FixIndexKernelCache(cacheSize);
+		FixSizeKernelCache cache = new FixSizeKernelCache(cacheSize);
 		combination.setKernelCache(cache);
 
 		return combination;
@@ -316,7 +316,7 @@ public class TweetSentimentAnalysisSemeval2013 {
 		combination.addKernel(1.0f, kernel1);
 		combination.addKernel(1.0f, kernel2);
 
-		FixIndexKernelCache cache = new FixIndexKernelCache(cacheSize);
+		FixSizeKernelCache cache = new FixSizeKernelCache(cacheSize);
 		combination.setKernelCache(cache);
 
 		return combination;

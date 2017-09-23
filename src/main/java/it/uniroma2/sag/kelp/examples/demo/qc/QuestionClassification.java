@@ -24,8 +24,8 @@ import it.uniroma2.sag.kelp.data.manipulator.LexicalStructureElementManipulator;
 import it.uniroma2.sag.kelp.data.representation.structure.similarity.LexicalStructureElementSimilarity;
 import it.uniroma2.sag.kelp.data.representation.structure.similarity.compositional.sum.CompositionalNodeSimilaritySum;
 import it.uniroma2.sag.kelp.kernel.Kernel;
-import it.uniroma2.sag.kelp.kernel.cache.FixIndexKernelCache;
 import it.uniroma2.sag.kelp.kernel.cache.FixIndexSquaredNormCache;
+import it.uniroma2.sag.kelp.kernel.cache.FixSizeKernelCache;
 import it.uniroma2.sag.kelp.kernel.standard.NormalizationKernel;
 import it.uniroma2.sag.kelp.kernel.tree.PartialTreeKernel;
 import it.uniroma2.sag.kelp.kernel.tree.SmoothedPartialTreeKernel;
@@ -102,7 +102,7 @@ public class QuestionClassification {
 			 * - sptk: a Smoothed Partial Tree Kernel
 			 * - csptk: Compositionally Smoothed Partial Tree Kernel
 			 */
-			String kernelId = "csptk";
+			String kernelId = "bow";
 
 			/*
 			 * print some statistics
@@ -351,7 +351,7 @@ public class QuestionClassification {
 		/*
 		 * Set cache to the kernel
 		 */
-		usedKernel.setKernelCache(new FixIndexKernelCache(cacheSize));
+		usedKernel.setKernelCache(new FixSizeKernelCache(cacheSize));
 		return usedKernel;
 	}
 }

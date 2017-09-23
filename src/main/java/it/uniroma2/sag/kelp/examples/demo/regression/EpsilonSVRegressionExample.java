@@ -15,20 +15,20 @@
 
 package it.uniroma2.sag.kelp.examples.demo.regression;
 
+import java.util.Random;
+
 import it.uniroma2.sag.kelp.data.dataset.SimpleDataset;
 import it.uniroma2.sag.kelp.data.example.Example;
 import it.uniroma2.sag.kelp.data.label.Label;
 import it.uniroma2.sag.kelp.data.label.StringLabel;
 import it.uniroma2.sag.kelp.kernel.Kernel;
-import it.uniroma2.sag.kelp.kernel.cache.FixIndexKernelCache;
+import it.uniroma2.sag.kelp.kernel.cache.FixSizeKernelCache;
 import it.uniroma2.sag.kelp.kernel.standard.RbfKernel;
 import it.uniroma2.sag.kelp.kernel.vector.LinearKernel;
 import it.uniroma2.sag.kelp.learningalgorithm.regression.libsvm.EpsilonSvmRegression;
 import it.uniroma2.sag.kelp.predictionfunction.Prediction;
 import it.uniroma2.sag.kelp.predictionfunction.regressionfunction.RegressionFunction;
 import it.uniroma2.sag.kelp.utils.evaluation.RegressorEvaluator;
-
-import java.util.Random;
 
 /**
  * This class contains an example of the usage of the Regression Example. The
@@ -68,7 +68,7 @@ public class EpsilonSVRegressionExample {
 		// Applying the RBF kernel
 		Kernel rbf = new RbfKernel(gamma, linear);
 		// Applying a cache
-		FixIndexKernelCache kernelCache = new FixIndexKernelCache(
+		FixSizeKernelCache kernelCache = new FixSizeKernelCache(
 				trainDataset.getNumberOfExamples());
 		rbf.setKernelCache(kernelCache);
 

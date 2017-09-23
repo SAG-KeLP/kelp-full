@@ -15,12 +15,14 @@
 
 package it.uniroma2.sag.kelp.examples.main;
 
+import java.util.List;
+
 import it.uniroma2.sag.kelp.data.dataset.SimpleDataset;
 import it.uniroma2.sag.kelp.data.example.Example;
 import it.uniroma2.sag.kelp.data.label.Label;
 import it.uniroma2.sag.kelp.kernel.Kernel;
-import it.uniroma2.sag.kelp.kernel.cache.FixIndexKernelCache;
 import it.uniroma2.sag.kelp.kernel.cache.FixIndexSquaredNormCache;
+import it.uniroma2.sag.kelp.kernel.cache.FixSizeKernelCache;
 import it.uniroma2.sag.kelp.kernel.sequence.SequenceKernel;
 import it.uniroma2.sag.kelp.kernel.standard.NormalizationKernel;
 import it.uniroma2.sag.kelp.learningalgorithm.classification.libsvm.BinaryCSvmClassification;
@@ -28,8 +30,6 @@ import it.uniroma2.sag.kelp.learningalgorithm.classification.multiclassification
 import it.uniroma2.sag.kelp.predictionfunction.classifier.ClassificationOutput;
 import it.uniroma2.sag.kelp.predictionfunction.classifier.Classifier;
 import it.uniroma2.sag.kelp.utils.evaluation.MulticlassClassificationEvaluator;
-
-import java.util.List;
 
 /**
  * This example illustrates how to use the sequence kernel on a
@@ -74,7 +74,7 @@ public class SequenceKernelExample {
 			NormalizationKernel normalizedKernel = new NormalizationKernel(
 					kernel);
 			kernel.setSquaredNormCache(new FixIndexSquaredNormCache(trainingSet.getNumberOfExamples()));
-			kernel.setKernelCache(new FixIndexKernelCache(trainingSet.getNumberOfExamples()));
+			kernel.setKernelCache(new FixSizeKernelCache(trainingSet.getNumberOfExamples()));
 			// instantiate an svmsolver
 			BinaryCSvmClassification svmSolver = new BinaryCSvmClassification();
 			svmSolver.setKernel(normalizedKernel);

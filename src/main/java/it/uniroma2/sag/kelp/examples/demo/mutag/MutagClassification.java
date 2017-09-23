@@ -16,18 +16,18 @@
 
 package it.uniroma2.sag.kelp.examples.demo.mutag;
 
+import java.util.List;
+
 import it.uniroma2.sag.kelp.data.dataset.SimpleDataset;
 import it.uniroma2.sag.kelp.data.label.StringLabel;
 import it.uniroma2.sag.kelp.data.manipulator.WLSubtreeMapper;
-import it.uniroma2.sag.kelp.kernel.cache.FixIndexKernelCache;
+import it.uniroma2.sag.kelp.kernel.cache.FixSizeKernelCache;
 import it.uniroma2.sag.kelp.kernel.graph.ShortestPathKernel;
 import it.uniroma2.sag.kelp.kernel.standard.LinearKernelCombination;
 import it.uniroma2.sag.kelp.kernel.vector.LinearKernel;
 import it.uniroma2.sag.kelp.learningalgorithm.classification.libsvm.BinaryCSvmClassification;
 import it.uniroma2.sag.kelp.utils.ExperimentUtils;
 import it.uniroma2.sag.kelp.utils.evaluation.BinaryClassificationEvaluator;
-
-import java.util.List;
 
 /**
  * This code performs a 10-fold cross validation on the MUTAG dataset [1] 
@@ -74,7 +74,7 @@ public class MutagClassification {
 	    comb.addKernel(1, linear);
 	    ShortestPathKernel spk = new ShortestPathKernel(GRAPH_REPRESENTATION_NAME);
 	    comb.addKernel(1, spk);
-	    comb.setKernelCache(new FixIndexKernelCache(trainingSet.getNumberOfExamples()));
+	    comb.setKernelCache(new FixSizeKernelCache(trainingSet.getNumberOfExamples()));
 	    BinaryCSvmClassification svmSolver = new BinaryCSvmClassification(comb, targetLabel, 1, 1);
 		
 	    float meanAcc = 0;

@@ -15,12 +15,14 @@
 
 package it.uniroma2.sag.kelp.examples.main;
 
+import java.util.List;
+
 import it.uniroma2.sag.kelp.data.dataset.SimpleDataset;
 import it.uniroma2.sag.kelp.data.example.Example;
 import it.uniroma2.sag.kelp.data.label.Label;
 import it.uniroma2.sag.kelp.kernel.Kernel;
-import it.uniroma2.sag.kelp.kernel.cache.FixIndexKernelCache;
 import it.uniroma2.sag.kelp.kernel.cache.FixIndexSquaredNormCache;
+import it.uniroma2.sag.kelp.kernel.cache.FixSizeKernelCache;
 import it.uniroma2.sag.kelp.kernel.cache.KernelCache;
 import it.uniroma2.sag.kelp.kernel.cache.SquaredNormCache;
 import it.uniroma2.sag.kelp.kernel.standard.LinearKernelCombination;
@@ -33,8 +35,6 @@ import it.uniroma2.sag.kelp.learningalgorithm.classification.passiveaggressive.K
 import it.uniroma2.sag.kelp.predictionfunction.classifier.multiclass.OneVsAllClassificationOutput;
 import it.uniroma2.sag.kelp.predictionfunction.classifier.multiclass.OneVsAllClassifier;
 import it.uniroma2.sag.kelp.utils.evaluation.MulticlassClassificationEvaluator;
-
-import java.util.List;
 
 /**
  * Caching is an important feature of KeLP. In most of the cases, kernel
@@ -106,7 +106,7 @@ public class KernelCacheExample {
 			linearCombination.normalizeWeights();
 
 			// set up a cache
-			KernelCache cache = new FixIndexKernelCache(5000);
+			KernelCache cache = new FixSizeKernelCache(5000);
 			SquaredNormCache normCache = new FixIndexSquaredNormCache(5000);
 
 			// set the kernel for the PA algorithm
