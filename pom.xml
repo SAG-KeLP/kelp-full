@@ -3,16 +3,16 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>it.uniroma2.sag.kelp</groupId>
 	<artifactId>kelp-full</artifactId>
-	<version>2.2.2</version>
+	<version>${kelp.version}</version>
 	<name>kelp-full</name>
 	<url>http://www.kelp-ml.org</url>
 	<organization>
 		<name>Semantic Analytics Group @ Uniroma2</name>
 		<url>http://sag.art.uniroma2.it</url>
 	</organization>
-<!-- 	<properties> -->
-<!-- 		<additionalparam>-Xdoclint:none</additionalparam> -->
-<!-- 	</properties> -->
+	<properties>
+		<kelp.version>2.2.3-SNAPSHOT</kelp.version>
+	</properties>
 	<developers>
 		<developer>
 			<id>sfilice</id>
@@ -112,6 +112,7 @@
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
 				<artifactId>maven-javadoc-plugin</artifactId>
+				<version>2.9.1</version>
 				<configuration>
 					<additionalparam>-header &apos;&lt;script type=&quot;text/javascript&quot; src=&quot;http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML&quot;&gt;&lt;/script&gt;&apos;</additionalparam>
 <!-- 					<additionalparam>-Xdoclint:none</additionalparam> -->
@@ -155,8 +156,8 @@
 							<mainClass>it.uniroma2.sag.kelp.main.Classify</mainClass>
 						</manifest>
 					</archive>
-					<!-- <finalName>kelp-learn</finalName> -->
-					<finalName>kelp-classify</finalName>
+					<!-- <finalName>kelp-learn-${kelp.version}</finalName> -->
+					<finalName>kelp-classify-${kelp.version}</finalName>
 					<descriptorRefs>
 						<descriptorRef>jar-with-dependencies</descriptorRef>
 					</descriptorRefs>
@@ -182,17 +183,17 @@
 		<dependency>
 			<groupId>it.uniroma2.sag.kelp</groupId>
 			<artifactId>kelp-additional-algorithms</artifactId>
-			<version>2.2.2</version>
+			<version>${kelp.version}</version>
 		</dependency>
 		<dependency>
 			<groupId>it.uniroma2.sag.kelp</groupId>
 			<artifactId>kelp-additional-kernels</artifactId>
-			<version>2.2.2</version>
+			<version>${kelp.version}</version>
 		</dependency>
 		<dependency>
 			<groupId>it.uniroma2.sag.kelp</groupId>
 			<artifactId>kelp-core</artifactId>
-			<version>2.2.2</version>
+			<version>${kelp.version}</version>
 		</dependency>
 	</dependencies>
 </project>
