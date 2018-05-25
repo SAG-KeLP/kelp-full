@@ -67,7 +67,7 @@ public class QuestionClassificationLearningFromJson {
 			// classify examples and compute some statistics
 			MulticlassClassificationEvaluator evaluator = new MulticlassClassificationEvaluator(classes);
 			for (Example e : testSet.getExamples()) {
-				ClassificationOutput p = f.predict(testSet.getNextExample());
+				ClassificationOutput p = f.predict(e);
 				evaluator.addCount(e, p);
 			}
 
