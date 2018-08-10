@@ -182,7 +182,7 @@ public class QuestionClassification {
 					trainingSet.getClassificationLabels());
 			for (Example e : testSet.getExamples()) {
 				// Predict the class
-				ClassificationOutput p = f.predict(testSet.getNextExample());
+				ClassificationOutput p = f.predict(e);
 				evaluator.addCount(e, p);
 				System.out.println("Question:\t" + e.getRepresentation("quest"));
 				System.out.println("Original class:\t" + e.getClassificationLabels());
