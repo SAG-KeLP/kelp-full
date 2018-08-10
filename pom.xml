@@ -2,7 +2,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>it.uniroma2.sag.kelp</groupId>
 	<artifactId>kelp-full</artifactId>
-	<version>2.2.4-SNAPSHOT</version>
+	<version>2.2.3</version>
 	<name>kelp-full</name>
 	<url>http://www.kelp-ml.org</url>
 	<organization>
