@@ -158,8 +158,8 @@
 							<mainClass>it.uniroma2.sag.kelp.main.Classify</mainClass>
 						</manifest>
 					</archive>
-					<!-- <finalName>kelp-learn-${kelp.version}</finalName> -->
-					<finalName>kelp-classify-${kelp.version}</finalName>
+					<!-- <finalName>kelp-learn-${project.version}</finalName> -->
+					<finalName>kelp-classify-${project.version}</finalName>
 					<descriptorRefs>
 						<descriptorRef>jar-with-dependencies</descriptorRef>
 					</descriptorRefs>
