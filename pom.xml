@@ -191,6 +191,7 @@
 						<developBranchName>development</developBranchName>
 						<versionTagPrefix>version</versionTagPrefix>
 					</flowInitContext>
+					<allowSnapshots>true</allowSnapshots>
 					<pushReleases>true</pushReleases>
 					<username>${kelp.git.user}</username>
 					<password>${kelp.git.password}</password>
