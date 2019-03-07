@@ -184,7 +184,7 @@ public class TweetSentimentAnalysisSemeval2013 {
 		b.append(evaluator.getPerformanceMeasure("MeanF1"));
 
 		System.out.println(b.toString());
-		return evaluator.getMeanF1();
+		return evaluator.getMacroF1();
 	}
 
 	private static Label findLabel(String string, List<Label> classes) {
