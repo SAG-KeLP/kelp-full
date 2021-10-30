@@ -111,16 +111,15 @@ How to cite KeLP
 If you find KeLP usefull in your researches, please cite the following paper:
 
 ```
-@InProceedings{filice-EtAl:2015:ACL-IJCNLP-2015-System-Demonstrations,
-	author = {Filice, Simone and Castellucci, Giuseppe and Croce, Danilo and Basili, Roberto},
-	title = {KeLP: a Kernel-based Learning Platform for Natural Language Processing},
-	booktitle = {Proceedings of ACL-IJCNLP 2015 System Demonstrations},
-	month = {July},
-	year = {2015},
-	address = {Beijing, China},
-	publisher = {Association for Computational Linguistics and The Asian Federation of Natural Language Processing},
-	pages = {19--24},
-	url = {http://www.aclweb.org/anthology/P15-4004}
+@article{JMLR:v18:16-087,
+  author  = {Simone Filice and Giuseppe Castellucci and Giovanni Da San Martino and Alessandro Moschitti and Danilo Croce and Roberto Basili},
+  title   = {KELP: a Kernel-based Learning Platform},
+  journal = {Journal of Machine Learning Research},
+  year    = {2018},
+  volume  = {18},
+  number  = {191},
+  pages   = {1-5},
+  url     = {http://jmlr.org/papers/v18/16-087.html}
 }
 ```
 Usefull Links
